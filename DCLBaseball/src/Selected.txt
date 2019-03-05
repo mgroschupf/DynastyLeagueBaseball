@@ -1,0 +1,547 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Harvey RHP   #1
+ 
+Matz LHP #14
+ 
+M. Wisler
+
+RHP #25
+ 
+Nola
+
+RHP #37
+ 
+T.
+
+Turner
+
+INF (P)
+ 
+A.
+
+Bradley
+
+RHP (P)
+ 
+Drury
+
+INF
+
+#53
+ 
+T. Pham
+
+OF #62
+ 
+Araujo
+
+LHP #86
+ 
+Thornburg
+
+RHP#9
+ 
+
+E. Aybar
+
+SS   #13
+ 
+E. Hernandez
+
+UT #26
+ 
+Velasquez
+
+RHP #38
+ 
+J. Gray
+
+RHP  (P)
+ 
+Bolsinger
+
+RHP #63
+ 
+C. Richard
+
+LHP #74
+ 
+C. Torres
+
+RHP #75
+ 
+Osich
+
+LHP
+
+#78
+ 
+Nicolino
+
+LHP #87
+ 
+pick
+
+99
+ 
+
+Cespedes
+
+OF   #3
+ 
+Wei-Yin
+
+Chen
+
+LHP #15
+
+ 
+C. Hernandez
+
+UT #27
+ 
+Siegrist
+
+LHP #39
+ 
+A.
+
+Russell
+
+SS  (P)
+
+ 
+O.
+
+Herrera
+
+CF  (P)
+
+ 
+Knebel
+
+RHP 
+
+#64
+ 
+A. Cabrera
+
+SS #76
+ 
+C. Carter
+
+1B #88
+ 
+pick
+
+100
+ 
+
+N. Ahmed SS   #4
+ 
+R. Iglesias
+
+RHP #16
+ 
+J. Mcgee
+
+LHP #28
+ 
+A. Conley
+
+LHP #40
+ 
+Plawecki
+
+C #49
+ 
+T. Thompson
+
+OF #54
+ 
+Clippard
+
+RHP #65
+ 
+Boyer
+
+RHP #77
+ 
+T. Murphy
+
+C #89
+ 
+pick
+
+101
+ 
+
+Schwarber  C   #2
+ 
+Conforto
+
+OF   #5
+ 
+A. Warren
+
+RHP  #17
+ 
+R. Ray
+
+LHP #29
+ 
+F. Rivero
+
+LHP #41
+ 
+J. Ho Kang 
+
+INF (P)
+ 
+H. Robles
+
+RHP #55
+ 
+Rodney
+
+RHP
+
+#66
+ 
+O. Hernandez
+
+C #90
+ 
+pick
+
+102
+ 
+
+M. Duffy
+
+3B   #6
+ 
+Corbin
+
+LHP #18
+ 
+A. Blanco
+
+UT #30
+ 
+Gilmartin
+
+LHP
+
+#42
+ 
+C.
+
+Seager
+
+SS  (P)
+ 
+Yimi
+
+Garcia
+
+RHP #56
+ 
+Blanton
+
+RHP #67
+ 
+C. Robinson
+
+OF #79
+ 
+S. Brito
+
+OF #91
+ 
+pick
+
+115
+ 
+
+J. Ross 
+
+RHP   #7
+ 
+A. Vizcaino RHP #19
+ 
+H. Perez
+
+UT #31
+ 
+Flowers
+
+C
+
+#43
+ 
+Synder-
+
+gaard
+
+RHP(P)
+ 
+Y.
+
+Tomas
+
+3B  (P)
+ 
+Altherr
+
+OF
+
+#68
+ 
+M. Johnson
+
+2B #80
+ 
+Ynoa
+
+INF #92
+ 
+pick
+
+104
+ 
+
+J. Bour 
+
+1B   #8
+ 
+Paulsen
+
+OF #20
+ 
+J. Reyes
+
+SS #32
+ 
+J. Miller
+
+RHP #44
+
+ 
+I. De Jesus
+
+UT #50
+ 
+Goeddel
+
+RHP #57
+ 
+Liberatore
+
+LHP #69
+ 
+G. Garcia
+
+INF #81
+ 
+Bourn
+
+OF #93
+ 
+pick
+
+105
+ 
+
+Piscotty
+
+OF  #9
+ 
+Jungmann
+
+RHP #21
+ 
+Jaso 
+
+OF #33
+ 
+Herrmann
+
+C #45
+ 
+E.
+
+Herrera
+
+UT #51
+ 
+A. Garcia
+
+3B #58
+ 
+T. Gott
+
+RHP #70
+ 
+Caminero
+
+RHP #82
+ 
+Guerrero
+
+3B #94
+ 
+pick
+
+106
+ 
+
+Zobrist
+
+UT   #10
+ 
+DeSclafani
+
+RHP #22
+ 
+Eickhoff
+
+RHP #34
+ 
+Finnegan
+
+LHP #46
+ 
+A.
+
+Hedges
+
+C  (P)
+ 
+A. Chafin
+
+LHP #59
+ 
+A. Ramirez
+
+SS #71
+ 
+D. Hernandez
+
+RHP #83
+ 
+J. Parker
+
+OF #95
+ 
+pick
+
+107
+ 
+
+Samard-zija
+
+RHP#11
+ 
+Jeffress
+
+RHP #23
+ 
+Blazek
+
+RHP #35
+ 
+Pomeranz
+
+LHP #47
+ 
+K. 
+
+Bryant
+
+3B  (P)
+ 
+C. Bettis
+
+RHP#60
+ 
+Avilan
+
+LHP
+
+#72
+ 
+Verrett
+
+RHP #84
+ 
+B. Moss
+
+OF #96
+ 
+pick
+
+108
+ 
+
+Kazmir
+
+LHP #12
+ 
+Heston
+
+RHP #24
+ 
+De Aza
+
+OF #36
+ 
+D. Santana
+
+OF #48
+ 
+R. Raburn
+
+OF #52
+ 
+F. Morales
+
+LHP #61
+ 
+T. Cooney
+
+LHP #73
+ 
+C. Rea
+
+RHP #85
+ 
+S. Drew
+
+INF
+
+#97
+ 
+pick
+
+121
+ 
+
