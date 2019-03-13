@@ -21,7 +21,7 @@ public class Player {
 	}
 	
 	public String toString() {
-		return lastName + ", " + firstName;
+		return lastName + ", " + firstName + " (" + teamName + ")";
 	}
 	
 	public String getLastName() {

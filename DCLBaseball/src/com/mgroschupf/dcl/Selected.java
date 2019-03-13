@@ -5,7 +5,7 @@ import java.io.FileReader;
 
 public class Selected {
 
-	String filename = "C:/Users/Mike/workspace/DCLBaseball/src/Selected.txt";
+	String filename = "C:\\Users\\Mike\\git\\DynastyLeagueBaseball\\DCLBaseball\\src\\Selected.txt";
 	
 	public void open() {
 		try {

@@ -2,10 +2,12 @@ package com.mgroschupf.dcl;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
+import java.util.Iterator;
+import java.util.List;
 
 public class All {
 
-	String filename = "C:/Users/Mike/workspace/DCLBaseball/src/All.txt";
+	String filename = "C:\\Users\\Mike\\git\\DynastyLeagueBaseball\\DCLBaseball\\src\\All2.txt";
 	
 	public void open() {
 		try {
@@ -14,14 +16,27 @@ public class All {
 			String line;
 			while ((line = br.readLine()) != null) {
 				// System.out.println(line);
-				String[] tokens = line.split("\\s+");
+				String [] tokens = null;
+				// If line starts with a digit: Rank. First Last - Team
+				// Otherwise: Last First Team Team Position
+				if (Character.isDigit(line.charAt(0))) {
+					tokens = line.split("\\s+");
+				}
+				else {
+					tokens = line.split("\\t+");
+				}
+				
 				if (tokens.length > 3) {
-					String team = tokens[4];
-					for(int i=5; i < tokens.length; i++) {
-						team += " " + tokens[i];
+					if (Character.isDigit(tokens[0].charAt(0))) {
+						String team = tokens[4];
+						for(int i=5; i < tokens.length; i++) {
+							team += " " + tokens[i];
+						}
+						// System.out.println(tokens[1] + " " + tokens[2] + " " + team);
+						Player.addPlayer(tokens[1], tokens[2], team);
+					} else {
+						Player.addPlayer(tokens[1], tokens[0], tokens[2]);
 					}
-					// System.out.println(tokens[1] + " " + tokens[2] + " " + team);
-					Player.addPlayer(tokens[1], tokens[2], team);
 				}
 			}
 			br.close();
@@ -33,6 +48,12 @@ public class All {
 	public static void main(String[] args) {
 		All all = new All();
 		all.open();
+		List<Player> players = Player.getPlayers();
+		for (Iterator<Player> i=players.iterator(); i.hasNext(); )
+		{
+			Player p = i.next();
+			System.out.println(p);
+		}
 	}
 }
 
