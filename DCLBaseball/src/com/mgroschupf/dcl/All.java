@@ -5,39 +5,34 @@ import java.io.FileReader;
 import java.util.Iterator;
 import java.util.List;
 
+/**
+ * All of the players with a ranking, not necessarily available
+ * to draft.  Once loaded, the players are available from the
+ * Player class.
+ */
 public class All {
 
-	String filename = "C:\\Users\\Mike\\git\\DynastyLeagueBaseball\\DCLBaseball\\src\\All2.txt";
+	String filename = null;
 	
+	public All(String name) {
+		filename = name;
+	}
+
 	public void open() {
 		try {
 			BufferedReader br =
 				new BufferedReader(new FileReader(filename));
 			String line;
 			while ((line = br.readLine()) != null) {
-				// System.out.println(line);
-				String [] tokens = null;
-				// If line starts with a digit: Rank. First Last - Team
-				// Otherwise: Last First Team Team Position
-				if (Character.isDigit(line.charAt(0))) {
-					tokens = line.split("\\s+");
-				}
-				else {
-					tokens = line.split("\\t+");
-				}
-				
-				if (tokens.length > 3) {
-					if (Character.isDigit(tokens[0].charAt(0))) {
-						String team = tokens[4];
-						for(int i=5; i < tokens.length; i++) {
-							team += " " + tokens[i];
-						}
-						// System.out.println(tokens[1] + " " + tokens[2] + " " + team);
-						Player.addPlayer(tokens[1], tokens[2], team);
-					} else {
-						Player.addPlayer(tokens[1], tokens[0], tokens[2]);
-					}
-				}
+				// Rank First Last Team Position
+				String [] tokens = line.split("\\t+");
+				String rankString = tokens[0];
+				int rank = Integer.parseInt(rankString);
+				String team = tokens[2];
+				String position = tokens[3];
+				String [] name = tokens[1].trim().split("\\s+");
+				// System.out.println(tokens[0] + "|" + tokens[1] + "|" + tokens[2] + "|" + tokens[3]);
+				Player.addPlayer(name[0], name[1], rank, team, position);
 			}
 			br.close();
 		} catch (Exception e) {
@@ -46,7 +41,7 @@ public class All {
 	}
 
 	public static void main(String[] args) {
-		All all = new All();
+		All all = new All("C:\\Users\\GRO4525\\Documents\\github\\DynastyLeagueBaseball\\DCLBaseball\\src\\All.txt");
 		all.open();
 		List<Player> players = Player.getPlayers();
 		for (Iterator<Player> i=players.iterator(); i.hasNext(); )

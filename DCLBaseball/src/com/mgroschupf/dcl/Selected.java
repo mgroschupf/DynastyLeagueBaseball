@@ -5,8 +5,12 @@ import java.io.FileReader;
 
 public class Selected {
 
-	String filename = "C:\\Users\\Mike\\git\\DynastyLeagueBaseball\\DCLBaseball\\src\\Selected.txt";
+	String filename = null;
 	
+	public Selected(String name) {
+		filename = name;
+	}
+
 	public void open() {
 		try {
 			BufferedReader br =
@@ -22,7 +26,7 @@ public class Selected {
 						if (Character.isUpperCase(lastName.charAt(0))) {
 							if (Character.isLowerCase(lastName.charAt(1))) {
 								// System.out.println(lastName);
-								Player player = new Player(null, lastName, null);
+								Player player = new Player(null, lastName, 0, null, null);
 								Player p = Player.findPlayer(player);
 								if (p != null) {
 									p.setSelected(true);
@@ -38,7 +42,7 @@ public class Selected {
 							if (tokens.length > 1) {
 								lastName = tokens[1];
 								// System.out.println(lastName);
-								Player player = new Player(firstInitial, lastName, null);
+								Player player = new Player(firstInitial, lastName, 0, null, null);
 								Player p = Player.findPlayer(player);
 								if (p != null) {
 									p.setSelected(true);
@@ -52,12 +56,12 @@ public class Selected {
 			}
 			br.close();
 		} catch (Exception e) {
-			e.printStackTrace();
+			// e.printStackTrace();
 		}
 	}
 
 	public static void main(String[] args) {
-		Selected selected = new Selected();
+		Selected selected = new Selected("C:\\Users\\Mike\\git\\DynastyLeagueBaseball\\DCLBaseball\\src\\Selected.txt");
 		selected.open();
 	}
 }

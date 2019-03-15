@@ -1,264 +1,300 @@
-1.	Cristhian Adames - Colorado
-2.	Nick Ahmed – Arizona	
-3.	Arismendy Alcantara – Chicago (N)
-4.	Aaron Altherr - Philadelphia
-5.	Alexi Amarista – San Diego
-6.	Elvis Araujo – Philadelphia
-7.	J.P. Arencibia – Tampa Bay
-8.	Joaquin Arias – San Francisco		
-9.	Alec Asher – Philadelphia			
-10.	Nevin Ashley – Milwaukee
-11.	Luis Avilan – Los Angeles	
-12.	Erick Aybar – Anaheim
-13.	Manny Banuelos – Atlanta
-14.	Austin Barnes – Los Angeles		
-15.	Kyle Barraclough – Miami	
-16.	Gordon Beckham – Chicago (A)
-17.	Matt Belisle – St. Louis	
-18.	Christian Bergman – Colorado	
-19.	Chad Bettis – Colorado	
-20.	Andres Blanco – Philadelphia
-21.	Kyle Blanks – Texas	
-22.	Joe Blanton – Pittsburgh	
-23.	Michael Blazek – Milwaukee	
-24.	Mike Bolsinger – Los Angeles
-25.	Emilio Bonifacio – Chicago (A)	
-26.	Justin Bour – Miami
-27.	Jason Bourgeois - Cincinnati		
-28.	Michael Bourn – Atlanta
-29.	Blaine Boyer – Minnesota	
-30.	Craig Breslow – Boston	
-31.	Socrates Brito – Arizona	
-32.	Aaron Brooks – Oakland	
-33.	Trevor Brown – San Francisco
-34.	David Buchanan – Philadelphia	
-35.	Enrique Burgos – Arizona	
-36.	Eddie Butler – Colorado	
-37.	Asdrubal Cabrera – Tampa Bay
-38.	Ramon Cabrera – Cincinnati
-39.	Trevor Cahill – Chicago (N)	
-40.	Arquimedes Caminero – Pittsburgh			
-41.	Eric Campbell – New York (N)
-42.	Chris Capuano – New York (A)	
-43.	Chris Carter – Houston	
-44.	Daniel Castro - Atlanta
-45.	Yoenis Cespedes – New York (N)
-46.	Jhoulys Chacin – Arizona	
-47.	Andrew Chafin – Arizona	
-48.	Wei-Yin Chen – Baltimore
-49.	Tony Cingrani – Cincinnati
-50.	Tyler Clippard – New York (N)	
-51.	Michael Conforto – New York (N)
-52.	Adam Conley – Miami
-53.	Carlos Contreras – Cincinnati		
-54.	Tim Cooney – St. Louis
-55.	Patrick Corbin – Arizona	
-56.	Tyler Cravy – Milwaukee	
-57.	Brandon Cunniff – Atlanta	
-58.	Zachary Davies – Milwaukee	
-59.	Alejandro De Aza – San Francisco	
-60.	Ivan De Jesus – Cincinnati
-61.	Matt den Dekker – Washington		
-62.	Daniel Descalso – Colorado
-63.	Anthony DeSclafani – Cincinnati	
-64.	Stephen Drew – New York (A)
-65.	Brandon Drury – Arizona	
-66.	Matt Duffy – San Francisco
-67.	Adam Duvall – Cincinnati		
-68.	Jerad Eickhoff – Philadelphia
-69.	Brian Ellington – Miami
-70.	Jake Elmore – Tampa Bay	
-71.	Neftali Feliz – Detroit			
-72.	Brandon Finnegan – Cincinnati	
-73.	Yohan Flande – Colorado	
-74.	Tyler Flowers – Chicago (A)
-75.	Mike Foltynewicz – Atlanta
-76.	Jeff Francoeur – Philadelphia
-77.	David Freese – Anaheim		
-78.	Christian Friedrich – Colorado	
-79.	Eric Fryer – Minnesota	
-80.	Frank Garces – San Diego 	
-81.	Adonis Garcia – Atlanta	
-82.	Greg Garcia – St. Louis
-83.	Luis Garcia – Philadelphia	
-84.	Yimi Garcia – Los Angeles		
-85.	Dustin Garneau – Colorado
-86.	Matt Garza – Milwaukee	
-87.	Gonzalez Germen - Colorado
-88.	Conor Gillaspie – Anaheim	
-89.	Cole Gillespie – Miami	
-90.	Sean Gilmartin – New York (N)	
-91.	Zach Godley – Arizona
-92.	Erik Goeddel – New York (N)
-93.	Brandon Gomes – Tampa Bay
-94.	Jeanmar Gomez – Philadelphia
-95.	Severino Gonzalez – Philadelphia				
-96.	Trevor Gott – Anaheim	
-97.	Grant Green – Anaheim	
-98.	Alex Guerrero – Los Angeles
-99.	David Hale – Colorado		
-100.	Brad Hand – Miami
-101.	Mitchell Harris – St. Louis		
-102.	Matt Harvey – New York (N)
-103.	Brett Hayes – Cleveland		
-104.	Chris Heisey – Los Angeles
-105.	Cesar Hernandez – Philadelphia	
-106.	David Hernandez – Arizona	
-107.	Enrique Hernandez – Los Angeles	
-108.	Oscar Hernandez – Arizona
-109.	Elian Herrera – Milwaukee
-110.	Chris Herrmann – Minnesota		
-111.	Chris Heston – San Francisco	
-112.	Aaron Hill – Arizona	
-113.	David Holmberg – Cincinnati			
-114.	Daniel Hudson – Arizona
-115.	Raisel Iglesias – Cincinnati	
-116.	Edwin Jackson – Atlanta
-117.	Travis Jankowski – San Diego	
-118.	John Jaso – Tampa Bay	
-119.	Jeremy Jeffress – Milwaukee
-120.	Micah Johnson – Chicago (A)
-121.	Jim Johnson – Los Angeles	
-122.	Matt Joyce – Anaheim	
-123.	Taylor Jungmann – Milwaukee
-124.	Munenori Kawasaki – Toronto
-125.	Scott Kazmir – Houston
-126.	Kyle Kendrick – Colorado	
-127.	Corey Knebel – Milwaukee
-128.	Erik Kratz – Philadelphia	
-129.	Marc Krauss – Detroit		
-130.	Ian Krol – Detroit		
-131.	Tommy La Stella – Chicago (N)			
-132.	John Lamb – Cincinnati
-133.	Ryan Lavarnway – Atlanta
-134.	Adam Liberatore – Los Angeles
-135.	Kyle Lobstein – Detroit	
-136.	Boone Logan – Colorado	
-137.	Michael Lorenzen – Cincinnati
-138.	David Lough – Baltimore				
-139.	Seth Maness – St. Louis	
-140.	Nick Masset – Atlanta	
-141.	Ryan Mattheus – Cincinnati		
-142.	Steven Matz – New York (N)	
-143.	Justin Maxwell – San Francisco
-144.	Jake McGee – Tampa Bay	
-145.	Andrew McKirahan – Atlanta
-146.	Will Middlebrooks – San Diego		
-147.	Justin Miller – Colorado		
-148.	Johnny Monell – New York (N)
-149.	Tyler Moore – Washington
-150.	Franklin Morales – Kansas City		
-151.	Adam Morgan – Philadelphia
-152.	Bryan Morris – Miami 	
-153.	Brandon Morrow – San Diego
-154.	Brandon Moss – St. Louis
-155.	Edward Mujica – Oakland	
-156.	Danny Muno – New York (N)
-157.	Tom Murphy – Colorado
-158.	Chris Narveson – Miami	
-159.	Kristopher Negron – Cincinnati
-160.	Hector Neris – Philadelphia
-161.	Juan Nicasio – Los Angeles			
-162.	Justin Nicolino – Miami		
-163.	Aaron Nola – Philadelphia
-164.	Sean Nolin – Oakland
-165.	Bud Norris – San Diego	
-166.	Scott Oberg – Colorado		
-167.	Brett Oberholtzer – Houston
-168.	Eric O'Flaherty – New York (N)	
-169.	Alexi Ogando – Boston
-170.	Hector Olivera – Atlanta		
-171.	Josh Osich – San Francisco			
-172.	Jordan Pacheco – Arizona	
-173.	Jarrett Parker – San Francisco	
-174.	Kyle Parker – Colorado		
-175.	Ben Paulsen – Colorado	
-176.	Ariel Pena – Milwaukee
-177.	Hernan Perez – Milwaukee
-178.	Juan Perez – San Francisco		
-179.	Williams Perez – Atlanta
-180.	Shane Peterson - Milwaukee
-181.	Tommy Pham – St. Louis
-182.	Jose Pirela – New York (A)		
-183.	Stephen Piscotty – St. Louis
-184.	Kevin Plawecki – New York (N)
-185.	Drew Pomeranz – Oakland		
-186.	Chad Qualls – Houston
-187.	Ryan Raburn – Cleveland	
-188.	Alexei Ramirez – Chicago (A)
-189.	Robbie Ray - Arizona	
-190.	Colin Rea – San Diego	
-191.	Jose Reyes – Colorado	
-192.	Clayton Richard – Chicago (N)	
-193.	Felipe Rivero – Washington
-194.	Clint Robinson – Washington
-195.	Hansel Robles – New York (N)	
-196.	Fernando Rodney – Chicago (N)		
-197.	Jason Rogers – Milwaukee	
-198.	Miguel Rojas – Miami	
-199.	Adam Rosales – Texas	
-200.	Joe Ross – Washington
-201.	Zac Rosscup – Chicago (N)		
-202.	Chris Rusin – Colorado
-203.	James Russell – Chicago (N)
-204.	Brendan Ryan – New York (A)		
-205.	Jeff Samardzija – Chicago (A)	
-206.	Keyvius Sampson – Cincinnati
-207.	Domingo Santana - Milwaukee	
-208.	Rob Scahill – Pittsburgh
-209.	Logan Schafer - Milwaukee		
-210.	Scott Schebler – Los Angeles	
-211.	Skip Schumaker – Cincinnati
-212.	Kyle Schwarber – Chicago (N)		
-213.	Xavier Scruggs – St. Louis	
-214.	Kevin Siegrist – St. Louis	
-215.	Miguel Socolovich – St. Louis	
-216.	Jhonatan Solano – Miami
-217.	Darnell Sweeney – Philadelphia	
-218.	Nick Swisher - Atlanta
-219.	Matt Szczur – Chicago (N)
-220.	Tomas Telis – Miami	
-221.	Trayce Thompson – Chicago (A)
-222.	Tyler Thornburg – Milwaukee	
-223.	Kelby Tomlinson – San Francisco	
-224.	Carlos Torres – New York (N)	
-225.	Blake Treinen – Washington	
-226.	Jose Urena – Miami	
-227.	Vincent Velasquez – Houston	
-228.	Logan Verrett – New York (N)	
-229.	Shane Victorino – Anaheim
-230.	Jonathan Villar – Houston		
-231.	Pedro Villarreal – Cincinnati
-232.	Arodys Vizcaino – Atlanta		
-233.	Brett Wallace – San Diego	
-234.	Adam Warren – New York (A)
-235.	Ryan Weber – Atlanta
-236.	Rickie Weeks – Seattle	
-237.	Jackson Williams – San Francisco	
-238.	Mac Williamson – San Francisco	
-239.	Matt Wisler – Atlanta	
-240.	Rafael Ynoa – Colorado
-241.	Eric Young – New York (N)	
-242.	Ben Zobrist – Kansas City	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+1	Mike Trout 	LAA	OF	$52.47AL|NL
+2	Mookie Betts	BOS	OF	$47.43AL|NL
+3	J.D. Martinez	BOS	DH	$41.25AL|NL
+4	Christian Yelich 	MIL	OF	$39.92AL|NL
+5	Nolan Arenado 	COL	3B	$39.44AL|NL
+6	Jose Ramirez 	CLE	3B	$39.27AL|NL
+7	Charlie Blackmon	COL	OF	$37.79AL|NL
+8	Max Scherzer 	WAS	SP	$34.96AL|NL
+9	Jose Altuve 	HOU	2B	$33.74AL|NL
+10	Chris Sale 	BOS	SP	$33.74AL|NL
+11	Paul Goldschmidt	STL	1B	$32.54AL|NL
+12	Ronald Acuna 	ATL	OF	$31.66AL|NL
+13	Juan Soto	WAS	OF	$31.20AL|NL
+14	Trea Turner 	WAS	SS	$31.03AL|NL
+15	Jacob deGrom 	NYM	SP	$29.97AL|NL
+16	Giancarlo Stanton 	NYY	DH	$29.47AL|NL
+17	Corey Kluber 	CLE	SP	$29.28AL|NL
+18	Aaron Judge 	NYY	OF	$28.59AL|NL
+19	Freddie Freeman	ATL	1B	$28.58AL|NL
+20	Manny Machado 	SD	3B	$28.50AL|NL
+21	Javier Baez 	CHC	SS	$28.05AL|NL
+22	Trevor Story 	COL	SS	$27.90AL|NL
+23	Justin Verlander 	HOU	SP	$27.32AL|NL
+24	Alex Bregman 	HOU	3B	$26.61AL|NL
+25	Khris Davis 	OAK	DH	$25.55AL|NL
+26	Francisco Lindor  	CLE	SS	$25.33AL|NL
+27	Bryce Harper 	PHI	OF	$25.11AL|NL
+28	Whit Merrifield 	KAN	2B	$24.31AL|NL
+29	Tommy Pham 	TB	OF	$24.10AL|NL
+30	Andrew Benintendi	BOS	OF	$24.07AL|NL
+31	Aaron Nola 	PHI	SP	$23.77AL|NL
+32	Anthony Rizzo 	CHC	1B	$23.40AL|NL
+33	J.T. Realmuto 	PHI	C	$22.97AL|NL
+34	Xander Bogaerts 	BOS	SS	$22.90AL|NL
+35	Kris Bryant 	CHC	3B	$22.22AL|NL
+36	Marcell Ozuna 	STL	OF	$22.07AL|NL
+37	Anthony Rendon 	WAS	3B	$21.94AL|NL
+38	Vladimir Guerrero Jr.	TOR	3B	$21.87AL|NL
+39	Gary Sanchez 	NYY	C	$21.86AL|NL
+40	Adalberto Mondesi 	KAN	SS	$21.73AL|NL
+41	Nelson Cruz	MIN	DH	$21.57AL|NL
+42	Carlos Carrasco 	CLE	SP	$21.22AL|NL
+43	Scooter Gennett	CIN	2B	$20.56AL|NL
+44	Gerrit Cole 	HOU	SP	$20.41AL|NL
+45	Rhys Hoskins 	PHI	1B	$20.36AL|NL
+46	Jean Segura	PHI	SS	$20.24AL|NL
+47	Edwin Diaz	NYM	RP	$20.22AL|NL
+48	Michael Brantley	HOU	OF	$19.95AL|NL
+49	Joey Votto 	CIN	1B	$19.73AL|NL
+50	Justin Upton 	LAA	OF	$19.24AL|NL
+51	Lorenzo Cain	MIL	OF	$19.08AL|NL
+52	Yadier Molina 	STL	C	$19.04AL|NL
+53	David Dahl 	COL	OF	$18.84AL|NL
+54	Eddie Rosario	MIN	OF	$18.83AL|NL
+55	Nick Castellanos	DET	OF	$18.34AL|NL
+56	David Peralta	ARI	OF	$18.33AL|NL
+57	Miles Mikolas 	STL	SP	$17.89AL|NL
+58	Gleyber Torres 	NYY	2B	$17.87AL|NL
+59	Cody Bellinger 	LAD	1B	$17.57AL|NL
+60	Brad Hand 	CLE	RP	$16.91AL|NL
+61	Trevor Bauer 	CLE	SP	$16.67AL|NL
+62	George Springer 	HOU	OF	$16.49AL|NL
+63	Edwin Encarnacion	SEA	1B	$16.48AL|NL
+64	Blake Snell 	TB	SP	$16.42AL|NL
+65	Zack Greinke 	ARI	SP	$16.16AL|NL
+66	Jesus Aguilar 	MIL	1B	$16.14AL|NL
+67	Starling Marte	PIT	OF	$15.52AL|NL
+68	Carlos Correa	HOU	SS	$15.43AL|NL
+69	Clayton Kershaw  	LAD	SP	$15.34AL|NL
+70	Eugenio Suarez 	CIN	3B	$15.25AL|NL
+71	Miguel Andujar 	NYY	3B	$15.07AL|NL
+72	Felipe Vazquez 	PIT	RP	$15.06AL|NL
+73	Jack Flaherty 	STL	SP	$15.05AL|NL
+74	Robinson Cano 	NYM	2B	$14.83AL|NL
+75	Walker Buehler 	LAD	SP	$14.83AL|NL
+76	Kenley Jansen 	LAD	RP	$14.72AL|NL
+77	Jonathan Villar 	BAL	2B	$14.70AL|NL
+78	Patrick Corbin 	WAS	SP	$14.68AL|NL
+79	Jose Abreu 	CWS	DH	$14.53AL|NL
+80	Buster Posey 	SF	C	$14.52AL|NL
+81	Corey Seager  	LAD	SS	$13.95AL|NL
+82	Mitch Haniger 	SEA	OF	$13.73AL|NL
+83	Craig Kimbrel 	FA	RP	$13.64AL|NL
+84	Matt Carpenter 	STL	3B	$13.61AL|NL
+85	Roberto Osuna	HOU	RP	$13.58AL|NL
+86	Kyle Hendricks 	CHC	SP	$13.57AL|NL
+87	Daniel Murphy	COL	1B	$13.54AL|NL
+88	Blake Treinen 	OAK	RP	$13.45AL|NL
+89	Wil Myers 	SD	OF	$13.43AL|NL
+90	James Paxton 	NYY	SP	$13.32AL|NL
+91	Dee Gordon	SEA	2B	$13.24AL|NL
+92	Luis Severino  	NYY	SP	$13.03AL|NL
+93	Ozzie Albies	ATL	2B	$12.99AL|NL
+94	Mike Clevinger 	CLE	SP	$12.95AL|NL
+95	Yasiel Puig 	CIN	OF	$12.94AL|NL
+96	Aroldis Chapman 	NYY	RP	$12.84AL|NL
+97	Wade Davis 	COL	RP	$12.81AL|NL
+98	Noah Syndergaard 	NYM	SP	$12.53AL|NL
+99	Stephen Strasburg 	WAS	SP	$12.39AL|NL
+100	Charlie Morton 	TB	SP	$12.00AL|NL
+101	Corey Knebel	MIL	RP	$11.91AL|NL
+102	Matt Olson	OAK	1B	$11.85AL|NL
+103	A.J. Pollock 	LAD	OF	$11.58AL|NL
+104	David Price 	BOS	SP	$11.43AL|NL
+105	Ender Inciarte 	ATL	OF	$11.20AL|NL
+106	Michael Conforto 	NYM	OF	$11.08AL|NL
+107	Cody Allen	LAA	RP	$11.05AL|NL
+108	Wilson Ramos 	NYM	C	$11.04AL|NL
+109	Eric Hosmer	SD	1B	$10.85AL|NL
+110	Travis Shaw 	MIL	3B	$10.79AL|NL
+111	German Marquez 	COL	SP	$10.58AL|NL
+112	Willson Contreras 	CHC	C	$10.54AL|NL
+113	Jameson Taillon 	PIT	SP	$10.43AL|NL
+114	Josh Donaldson 	ATL	3B	$10.42AL|NL
+115	Brian Dozier	WAS	2B	$10.39AL|NL
+116	Raisel Iglesias 	CIN	RP	$10.34AL|NL
+117	Chris Taylor 	LAD	OF	$10.13AL|NL
+118	Shin-Soo Choo 	TEX	DH	$10.08AL|NL
+119	Zack Wheeler 	NYM	SP	$10.05AL|NL
+120	Eloy Jimenez	CWS	OF	$10.03AL|NL
+121	Kirby Yates	SD	RP	$9.96AL|NL
+122	Shohei Ohtani	LAA	DH	$9.89AL|NL
+123	Yuli Gurriel 	HOU	1B	$9.86AL|NL
+124	Jose Leclerc 	TEX	RP	$9.74AL|NL
+125	Collin McHugh 	HOU	SP	$9.72AL|NL
+126	Sean Doolittle 	WAS	RP	$9.59AL|NL
+127	Adam Eaton 	WAS	OF	$9.51AL|NL
+128	Yasmani Grandal	MIL	C	$9.25AL|NL
+129	Rich Hill 	LAD	SP	$9.16AL|NL
+130	Ian Desmond 	COL	OF	$9.13AL|NL
+131	Andrelton Simmons 	LAA	SS	$9.13AL|NL
+132	Jose Berrios 	MIN	SP	$8.99AL|NL
+133	Rick Porcello 	BOS	SP	$8.92AL|NL
+134	Jose Peraza 	CIN	SS	$8.81AL|NL
+135	Josh Hader 	MIL	RP	$8.74AL|NL
+136	Franmil Reyes 	SD	OF	$8.64AL|NL
+137	Max Muncy 	LAD	2B	$8.51AL|NL
+138	Andrew McCutchen 	PHI	OF	$8.50AL|NL
+139	J.A. Happ 	NYY	SP	$8.38AL|NL
+140	Ramon Laureano 	OAK	OF	$8.13AL|NL
+141	Corey Dickerson 	PIT	OF	$8.08AL|NL
+142	Joe Wendle	TB	2B	$8.04AL|NL
+143	Shane Bieber 	CLE	SP	$7.94AL|NL
+144	Jose Alvarado 	TB	RP	$7.88AL|NL
+145	Masahiro Tanaka 	NYY	SP	$7.76AL|NL
+146	Will Smith 	SF	RP	$7.73AL|NL
+147	Miguel Cabrera 	DET	1B	$7.70AL|NL
+148	Ryan Braun 	MIL	OF	$7.41AL|NL
+149	Aaron Hicks 	NYY	OF	$7.38AL|NL
+150	Mike Foltynewicz  	ATL	SP	$7.38AL|NL
+151	Chris Archer 	PIT	SP	$7.35AL|NL
+152	Mike Moustakas 	MIL	2B	$7.30AL|NL
+153	Jesse Winker 	CIN	OF	$7.26AL|NL
+154	Justin Turner 	LAD	3B	$7.14AL|NL
+155	Ken Giles 	TOR	RP	$7.06AL|NL
+156	Brandon Nimmo 	NYM	OF	$7.00AL|NL
+157	Seranthony Dominguez	PHI	RP	$6.53AL|NL
+158	Joey Gallo 	TEX	OF	$6.52AL|NL
+159	Mike Minor 	TEX	SP	$6.46AL|NL
+160	Jhoulys Chacin 	MIL	SP	$6.41AL|NL
+161	Harrison Bader 	STL	OF	$6.35AL|NL
+162	David Robertson	PHI	RP	$6.27AL|NL
+163	Matt Chapman  	OAK	3B	$6.23AL|NL
+164	Jonathan Schoop 	MIN	2B	$6.23AL|NL
+165	Garrett Hampson 	COL	2B	$6.21AL|NL
+166	Jorge Polanco 	MIN	SS	$6.19AL|NL
+167	Mychal Givens 	BAL	RP	$6.13AL|NL
+168	Austin Meadows 	TB	OF	$6.01AL|NL
+169	Starlin Castro 	MIA	2B	$5.99AL|NL
+170	Madison Bumgarner 	SF	SP	$5.83AL|NL
+171	Carlos Santana 	CLE	1B	$5.73AL|NL
+172	Jose Quintana 	CHC	SP	$5.54AL|NL
+173	Kenta Maeda 	LAD	SP	$5.50AL|NL
+174	Luis Castillo 	CIN	SP	$5.34AL|NL
+175	Odubel Herrera 	PHI	OF	$5.26AL|NL
+176	Marco Gonzales 	SEA	SP	$5.23AL|NL
+177	Tim Anderson 	CWS	SS	$5.13AL|NL
+178	Andrew Heaney 	LAA	SP	$5.06AL|NL
+179	Jon Gray 	COL	SP	$5.04AL|NL
+180	Jordan Hicks 	STL	RP	$4.94AL|NL
+181	Alex Wood  	CIN	SP	$4.83AL|NL
+182	David Fletcher	LAA	2B	$4.82AL|NL
+183	Lourdes Gurriel Jr.	TOR	2B	$4.76AL|NL
+184	Shane Greene 	DET	RP	$4.74AL|NL
+185	Arodys Vizcaino 	ATL	RP	$4.73AL|NL
+186	Zack Godley 	ARI	SP	$4.70AL|NL
+187	Robinson Chirinos 	HOU	C	$4.68AL|NL
+188	Robbie Ray 	ARI	SP	$4.62AL|NL
+189	Jon Lester 	CHC	SP	$4.56AL|NL
+190	Trey Mancini 	BAL	1B	$4.55AL|NL
+191	Justin Smoak 	TOR	1B	$4.52AL|NL
+192	Kyle Freeland 	COL	SP	$4.52AL|NL
+193	Rafael Devers 	BOS	3B	$4.50AL|NL
+194	Michael Fulmer 	DET	SP	$4.44AL|NL
+195	Cole Hamels 	CHC	SP	$4.36AL|NL
+196	Billy Hamilton 	KAN	OF	$4.27AL|NL
+197	Jake Arrieta 	PHI	SP	$4.26AL|NL
+198	Eduardo Escobar 	ARI	3B	$4.09AL|NL
+199	Joey Lucchesi 	SD	SP	$4.01AL|NL
+200	Yu Darvish 	CHC	SP	$4.00AL|NL
+201	Archie Bradley 	ARI	RP	$3.97AL|NL
+202	Dallas Keuchel 	FA	SP	$3.76AL|NL
+203	Kurt Suzuki 	WAS	C	$3.67AL|NL
+204	Trevor Williams 	PIT	SP	$3.63AL|NL
+205	Cesar Hernandez 	PHI	2B	$3.60AL|NL
+206	Chris Paddack 	SD	SP	$3.54AL|NL
+207	Tanner Roark 	CIN	SP	$3.43AL|NL
+208	Chad Green	NYY	RP	$3.38AL|NL
+209	Brandon Woodruff 	MIL	SP	$3.36AL|NL
+210	Marwin Gonzalez 	MIN	3B	$3.21AL|NL
+211	Dereck Rodriguez 	SF	SP	$3.20AL|NL
+212	Asdrubal Cabrera	TEX	3B	$3.19AL|NL
+213	Alex Colome 	CWS	RP	$3.16AL|NL
+214	Drew Steckenrider 	MIA	RP	$3.06AL|NL
+215	Jorge Alfaro  	MIA	C	$2.96AL|NL
+216	Dellin Betances 	NYY	RP	$2.90AL|NL
+217	Nathan Eovaldi	BOS	SP	$2.88AL|NL
+218	Jonathan Lucroy	LAA	C	$2.87AL|NL
+219	Hunter Strickland 	SEA	RP	$2.78AL|NL
+220	Trevor May	MIN	RP	$2.69AL|NL
+221	Mike Leake 	SEA	SP	$2.66AL|NL
+222	Victor Robles 	WAS	OF	$2.58AL|NL
+223	Jose Martinez 	STL	OF	$2.56AL|NL
+224	Elvis Andrus 	TEX	SS	$2.53AL|NL
+225	Willy Adames 	TB	SS	$2.50AL|NL
+226	John Hicks 	DET	OF	$2.50AL|NL
+227	Eduardo Rodriguez 	BOS	SP	$2.50AL|NL
+228	Mallex Smith 	SEA	OF	$2.50AL|NL
+229	Jeff McNeil 	NYM	OF	$2.44AL|NL
+230	Rougned Odor 	TEX	2B	$2.36AL|NL
+231	Kelvin Herrera 	CWS	RP	$2.36AL|NL
+232	Yusmeiro Petit	OAK	RP	$2.31AL|NL
+233	Brandon Morrow  	CHC	RP	$2.30AL|NL
+234	Alex Reyes  	STL	RP	$2.30AL|NL
+235	Domingo Santana 	SEA	OF	$2.21AL|NL
+236	Ian Kinsler	SD	2B	$2.02AL|NL
+237	Craig Stammen	SD	RP	$2.00AL|NL
+238	Pedro Strop 	CHC	RP	$1.99AL|NL
+239	Brad Peacock 	HOU	RP	$1.95AL|NL
+240	Jurickson Profar 	OAK	2B	$1.92AL|NL
+241	Stephen Piscotty 	OAK	OF	$1.87AL|NL
+242	Wade LeBlanc 	SEA	SP	$1.82AL|NL
+243	Carlos Martinez  	STL	SP	$1.77AL|NL
+244	Mike Zunino 	TB	C	$1.66AL|NL
+245	Matthew Strahm	SD	SP	$1.66AL|NL
+246	Welington Castillo 	CWS	C	$1.65AL|NL
+247	Julio Teheran 	ATL	SP	$1.64AL|NL
+248	Jesus Luzardo 	OAK	SP	$1.60AL|NL
+249	Jed Lowrie  	NYM	2B	$1.54AL|NL
+250	Danny Jansen	TOR	C	$1.49AL|NL
+251	Tucker Barnhart 	CIN	C	$1.49AL|NL
+252	Maikel Franco 	PHI	3B	$1.22AL|NL
+253	Brad Keller 	KAN	SP	$1.20AL|NL
+254	Nick Pivetta 	PHI	SP	$1.12AL|NL
+255	Brian Anderson 	MIA	3B	$1.11AL|NL
+256	Marcus Semien	OAK	SS	$1.04AL|NL
+257	Jackie Bradley 	BOS	OF	$1.02AL|NL
+258	Amed Rosario 	NYM	SS	$1.00AL|NL
+259	Jake Junis	KAN	SP	$0.94AL|NL
+260	Nomar Mazara 	TEX	OF	$0.89AL|NL
+261	Clay Buchholz 	TOR	SP	$0.88AL|NL
+262	C.J. Cron 	MIN	1B	$0.83AL|NL
+263	Jose Urena	MIA	SP	$0.75AL|NL
+264	Robbie Erlin	SD	RP	$0.71AL|NL
+265	Richard Rodriguez	PIT	RP	$0.71AL|NL
+266	Tyler Anderson	COL	SP	$0.71AL|NL
+267	Kevin Gausman 	ATL	SP	$0.69AL|NL
+268	Vincent Velasquez	PHI	SP	$0.68AL|NL
+269	Jeff Samardzija  	SF	SP	$0.66AL|NL
+270	Blake Parker	MIN	RP	$0.62AL|NL
+271	Freddy Peralta 	MIL	SP	$0.61AL|NL
+272	Adam Ottavino 	NYY	RP	$0.60AL|NL
+273	Yonder Alonso 	CWS	1B	$0.59AL|NL
+274	Joe Musgrove 	PIT	SP	$0.57AL|NL
+275	Matt Barnes	BOS	RP	$0.55AL|NL
+276	Yusei Kikuchi  M	SEA	SP	$0.44AL|NL
+277	Francisco Cervelli	PIT	C	$0.35AL|NL
+278	Ryan Brasier 	BOS	RP	$0.30AL|NL
+279	Sean Newcomb 	ATL	SP	$0.26AL|NL
+280	Ryan Yarbrough 	TB	SP	$0.25AL|NL
+281	Matt Boyd	DET	SP	$0.21AL|NL
+282	CC Sabathia  	NYY	SP	$0.17AL|NL
+283	Steven Matz 	NYM	SP	$0.15AL|NL
+284	Ross Stripling 	LAD	SP	$0.14AL|NL
+285	Matt Shoemaker 	TOR	SP	$0.02AL|NL
+286	Reyes Moronta	SF	RP	$0.01AL|NL
+287	Drew Anderson 	HOU	IF	$0.00AL|NL
+288	Seung Hwan Oh	COL	RP	$-0.03AL|NL
+289	Hyun-Jin Ryu 	LAD	SP	$-0.03AL|NL
+290	Josh Bell 	PIT	1B	$-0.16AL|NL
+291	Daniel Palka 	CWS	OF	$-0.26AL|NL
+292	Andrew Miller 	STL	RP	$-0.26AL|NL
+293	Steve Cishek	CHC	RP	$-0.33AL|NL
+294	Ivan Nova 	CWS	SP	$-0.34AL|NL
+295	Seth Lugo	NYM	RP	$-0.35AL|NL
+296	Tyler Skaggs 	LAA	SP	$-0.38AL|NL
+297	Ian Happ	CHC	2B	$-0.42AL|NL
+298	Brad Boxberger 	KAN	RP	$-0.44AL|NL
+299	Ryan Pressly	HOU	RP	$-0.45AL|NL
+300	Diego Castillo	TB	RP	$-0.46AL|NL
