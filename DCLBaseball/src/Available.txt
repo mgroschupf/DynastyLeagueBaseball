@@ -6,8 +6,7 @@ Refsnyder	Rob	Tampa Bay	Arizona	Util
 Escobar	Eduardo	Arizona	Arizona	INF		
 Walker	Christian	Arizona	Arizona	Util		
 Brito	Socrates	Arizona	Arizona	OF		
-Murphy	John Ryan	Arizona	Arizona	C
-Jones	Adam	Arizona	Baltimore	OF		
+Murphy	John Ryan	Arizona	Arizona	C		
 Makita	Kazuhisa	San Diego 	San Diego	P		
 Nix	Jacob	San Diego 	San Diego	P		
 Kennedy	Brett	San Diego 	San Diego	P		
@@ -217,3 +216,66 @@ Pena	Francisco	St. Louis	St. Louis	C
 Nuno	Vidal	Tampa Bay	Washington	P		
 Orlando	Paulo	Kansas City	Los Angeles	OF		
 Lewicki	Artie	Detroit	Arizona	P	Player Pool Version 4	
+Jones	Adam	Baltimore	Arizona	OF		
+Sipp	Tony	Houston	Washington	P		
+Adams	Lane	Atlanta	Philadelphia	OF		
+Bowman	Matt	St.Louis	Cincinnati	P	Unprotected by Washington	
+Blach	Ty	San Francisco	San Francisco	P	Unprotected by Washington	
+Leone	Dominic	St.Louis	St.Louis	P	Unprotected by Washington	
+Feliz	Michael	Pittsburgh	Pittsburgh	P	Unprotected by Washington	
+Severino	Pedro	Washington	Washington	C	Unprotected by Washington	
+Ervin	Phillip	Cincinnati	Cincinnati	OF	Unprotected by Washington	
+Tomlinson	Kelby	San Francisco	Arizona	INF	Unprotected by Boston	
+Kontos	George	New York (A)	Chicago (N)	P	Unprotected by Boston	
+Sewald	Paul	New York (N)	New York (N)	P	Unprotected by Boston	
+Shaw	Bryan	Colorado	Colorado	P	Unprotected by Boston	
+Dunn	Mike	Colorado	Colorado	P	Unprotected by Boston	
+Grace	Matt	Washington	Washington	P	Unprotected by Boston	
+Rusin	Chris	Colorado	Colorado	P	Unprotected by Colorado	
+Samardzija	Jeff	San Francisco	San Francisco	P	Unprotected by Colorado	
+Hunter	Tommy	Philadelphia	Philadelphia	P	Unprotected by Colorado	
+d'Arnaud	Travis	New York (N)	New York (N)	C	Unprotected by Colorado	
+Murphy	Tom	Colorado	Colorado	C	Unprotected by Colorado	
+Garcia	Greg	St.Louis	San Diego	INF	Unprotected by Colorado	
+Duensing	Brian	Chicago (N)	Chicago (N)	P	Unprotected by Baltimore	
+Suter	Brent	Milwaukee	Milwaukee	P	Unprotected by Baltimore	
+Despaigne	Odrisamer	Anaheim	Cincinnati	P	Unprotected by Baltimore	
+Kintzler	Brandon	Chicago (N)	Chicago (N)	P	Unprotected by Baltimore	
+Lagares	Juan	New York (N)	New York (N)	OF	Unprotected by Baltimore	
+Osuna	Jose	Pittsburgh	Pittsburgh	UTIL	Unprotected by Baltimore	
+Alexander	Scott	Los Angeles	Los Angeles	P	Unprotected by San Francisco	
+Freeman	Sam	Atlanta	Atlanta	P	Unprotected by San Francisco	
+McGee	Jake	Colorado	Colorado	P	Unprotected by San Francisco	
+Neverauskas	Dovydas	Pittsburgh	Pittsburgh	P	Unprotected by San Francisco	
+Albers	Matt	Milwaukee	Milwaukee	P	Unprotected by San Francisco	
+Altherr	Aaron	Philadelphia	Philadelphia	OF	Unprotected by San Francisco	
+Mesoraco	Devin	New York (N)	New York (N)	C	Unprotected by San Francisco	
+Peralta	Wandy	Cincinnati	Cincinnati	P	Unprotected by Milwaukee	
+Chatwood	Tyler	Chicago (N)	Chicago (N)	P	Unprotected by Milwaukee	
+Stephens	Jackson	Cincinnati	Cincinnati	P	Unprotected by Milwaukee	
+Sierra	Magneuris	Miami	Miami	OF	Unprotected by Milwaukee	
+Valaika	Pat	Colorado	Colorado	INF	Unprotected by Milwaukee	
+Cingrani	Tony	Los Angeles	Los Angeles	P	Unprotected by Los Angeles	
+Lorenzen	Michael	Cincinnati	Cincinnati	P	Unprotected by Los Angeles	
+Mitchell	Bryan	San Diego	San Diego	P	Unprotected by Los Angeles	
+Knapp	Andrew	Philadelphia	Philadelphia	C	Unprotected by Los Angeles	
+Toles	Andrew	Los Angeles	Los Angeles	OF	Unprotected by Pittsburgh	
+Sandoval	Pablo	San Francisco	San Francisco	INF	Unprotected by Pittsburgh	
+Prado	Martin	Miami	Miami	INF	Unprotected by Pittsburgh	
+Barnes	Jacob	Milwaukee	Milwaukee	P	Unprotected by New York	
+Morgan	Adam	Philadelphia	Philadelphia	P	Unprotected by New York	
+Lyons	Tyler	St.Louis	Pittsburgh	P	Unprotected by New York	
+Maton	Phil	San Diego	San Diego	P	Unprotected by New York	
+Wainwright	Adam	St.Louis	St.Louis	P	Unprotected by New York	
+Pirela	Jose	San Diego	San Diego	UTIL	Unprotected by New York	
+Smith	Dominic	New York (N)	New York (N)	UTIL	Unprotected by Toronto	
+Solis	Sammy	Washington	San Diego	P	Unprotected by Toronto	
+Cecil	Brett	St.Louis	St.Louis	P	Unprotected by Toronto	
+Melancon	Mark	San Francisco	San Francisco	P	Unprotected by Toronto	
+Perdomo	Luis	San Diego	San Diego	P	Unprotected by Toronto	
+Farmer	Kyle	Los Angeles	Cincinnati	C	Unprotected by Oakland	
+Wolters	Tony	Colorado	Colorado	C	Unprotected by Oakland	
+Blanco	Gregor	San Francisco	New York (N)	OF	Unprotected by Oakland	
+Dietrich	Derek	Miami	Cincinnati	UTIL	Unprotected by Oakland	
+McFarland	T.J.	Arizona	Arizona	P	Unprotected by Oakland	
+Kuhl	Chad	Pittsburgh	Pittsburgh	P	Unprotected by Oakland	

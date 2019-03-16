@@ -26,7 +26,7 @@ public class Selected {
 						if (Character.isUpperCase(lastName.charAt(0))) {
 							if (Character.isLowerCase(lastName.charAt(1))) {
 								// System.out.println(lastName);
-								Player player = new Player(null, lastName, 0, null, null);
+								Player player = new Player(tokens[1], lastName, 0, null, null);
 								Player p = Player.findPlayer(player);
 								if (p != null) {
 									p.setSelected(true);

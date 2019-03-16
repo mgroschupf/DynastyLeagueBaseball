@@ -9,6 +9,7 @@ public class Player {
 	String lastName;
 	String firstName;
 	String teamName;
+	String lastTeam;
 	ArrayList<String> positions = new ArrayList<String>();
 	int rank;
 	boolean selected = false;
@@ -82,7 +83,7 @@ public class Player {
 	}
 	
 	public String toString() {
-		return rank + ") " + lastName + ", " + firstName + " - " + positions + " (" + teamName + ")";
+		return rank + ") " + lastName + ", " + firstName + " - " + positions + " (" + teamName + " / " + lastTeam + ")";
 	}
 	
 	public String getFirstName() {
@@ -116,6 +117,18 @@ public class Player {
 	 */
 	public int getRank() {
 		return rank;
+	}
+	
+	/**
+	 * Last year's team with card.
+	 * @param team
+	 */
+	public void setLastTeam(String team) {
+		lastTeam = team;
+	}
+	
+	public String getLastTeam() {
+		return lastTeam;
 	}
 
 	public boolean equals(Object obj) {
