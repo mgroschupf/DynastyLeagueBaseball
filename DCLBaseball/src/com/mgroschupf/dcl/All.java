@@ -24,15 +24,14 @@ public class All {
 				new BufferedReader(new FileReader(filename));
 			String line;
 			while ((line = br.readLine()) != null) {
-				// Rank First Last Team Position
-				String [] tokens = line.split("\\t+");
+				// 229	Jose Martinez (STL - 1B,RF)	207	251	223
+				// Rank First Last (Team - Position,...) Rank ...
+				String [] tokens = line.split("\\s+");
 				String rankString = tokens[0];
 				int rank = Integer.parseInt(rankString);
-				String team = tokens[2];
-				String position = tokens[3];
-				String [] name = tokens[1].trim().split("\\s+");
-				// System.out.println(tokens[0] + "|" + tokens[1] + "|" + tokens[2] + "|" + tokens[3]);
-				Player.addPlayer(name[0], name[1], rank, team, position);
+				String team = tokens[3];
+				String position = tokens[5];
+				Player.addPlayer(tokens[1], tokens[2], rank, team, position);
 			}
 			br.close();
 		} catch (Exception e) {

@@ -6,7 +6,8 @@ Refsnyder	Rob	Tampa Bay	Arizona	Util
 Escobar	Eduardo	Arizona	Arizona	INF		
 Walker	Christian	Arizona	Arizona	Util		
 Brito	Socrates	Arizona	Arizona	OF		
-Murphy	John Ryan	Arizona	Arizona	C		
+Murphy	John Ryan	Arizona	Arizona	C
+Jones	Adam	Arizona	Baltimore	OF		
 Makita	Kazuhisa	San Diego 	San Diego	P		
 Nix	Jacob	San Diego 	San Diego	P		
 Kennedy	Brett	San Diego 	San Diego	P		
