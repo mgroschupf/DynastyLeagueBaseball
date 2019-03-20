@@ -6,7 +6,7 @@ Refsnyder	Rob	Tampa Bay	Arizona	Util
 Escobar	Eduardo	Arizona	Arizona	INF		
 Walker	Christian	Arizona	Arizona	Util		
 Brito	Socrates	Arizona	Arizona	OF		
-Murphy	John Ryan	Arizona	Arizona	C		
+Murphy	JohnRyan	Arizona	Arizona	C		
 Makita	Kazuhisa	San Diego 	San Diego	P		
 Nix	Jacob	San Diego 	San Diego	P		
 Kennedy	Brett	San Diego 	San Diego	P		
@@ -37,7 +37,7 @@ Kelly	Joe	Boston	Los Angeles	P
 Schultz	Jaime	Tampa Bay	Los Angeles	P		
 Floro	Dylan	Los Angeles	Los Angeles	P		
 Garcia	Yimi	Los Angeles	Los Angeles	P		
-Chargois	J.T.	Los Angeles	Los Angeles	P		
+Chargois	JT	Los Angeles	Los Angeles	P		
 Ferguson	Caleb	Los Angeles	Los Angeles	P		
 Muncy	Max	Los Angeles	Los Angeles	Util		
 Martin	Russell	Toronto	Los Angeles	C		
@@ -55,7 +55,7 @@ Holmes	Clay	Pittsburgh	Pittsburgh	P
 Archer	Chris	Pittsburgh	Pittsburgh	P		
 Kingham	Nick	Pittsburgh	Pittsburgh	P		
 Lyles	Jordan	Milwaukee	Pittsburgh	P		
-Baron	Steven	St. Louis	Pittsburgh	C		
+Baron	Steve	St. Louis	Pittsburgh	C		
 Shuck	J.B.	Miami	Pittsburgh	OF		
 Reyes	Pablo	Pittsburgh	Pittsburgh	Util		
 Chisenhall	Lonnie	Cleveland	Pittsburgh	OF		
@@ -104,7 +104,7 @@ O'Neill	Tyler	St. Louis	St. Louis	OF
 Bashlor	Tyler	New York (N)	New York (N)	P		
 Peterson	Tim	New York (N)	New York (N)	P		
 Rhame	Jacob	New York (N)	New York (N)	P		
-Smth	Drew	New York (N)	New York (N)	P		
+Smith	Drew	New York (N)	New York (N)	P		
 Santiago	Hector	Chicago (A)	New York (N)	P		
 Oswalt	Corey	New York (N)	New York (N)	P		
 Diaz	Edwin	Seattle	New York (N)	P		
