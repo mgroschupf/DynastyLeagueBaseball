@@ -63,7 +63,7 @@ Newman	Kevin	Pittsburgh	Pittsburgh	INF
 Moran	Colin	Pittsburgh	Pittsburgh	INF		
 Stallings	Jacob	Pittsburgh	Pittsburgh	C		
 Burnes	Corbin	Milwaukee	Milwaukee	P		
-Williamson	Taylor	Milwaukee	Milwaukee	P		
+Williams	Taylor	Milwaukee	Milwaukee	P		
 Petricka	Jake	Toronto	Milwaukee	P		
 Claudio	Alex	Texas	Milwaukee	P		
 Peralta	Freddy	Milwaukee	Milwaukee	P		
