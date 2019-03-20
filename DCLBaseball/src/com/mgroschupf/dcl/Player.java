@@ -17,7 +17,7 @@ public class Player {
 
 	static ArrayList<Player> players = new ArrayList<Player>();
 	
-	private List<String> getPositions() {
+	public List<String> getPositions() {
 		return positions;
 	}
 	
@@ -117,6 +117,18 @@ public class Player {
 	 */
 	public int getRank() {
 		return rank;
+	}
+	
+	public void setRank(int rank) {
+		this.rank = rank;
+	}
+	
+	public boolean isPitcher() {
+		String position = positions.get(0);
+		if (position.startsWith("P") || position.startsWith("SP") || position.startsWith("RP")) {
+			return true;
+		}
+		return false;
 	}
 	
 	/**
