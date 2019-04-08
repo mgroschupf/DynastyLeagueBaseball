@@ -1,0 +1,281 @@
+Koch	Matt	Arizona	Arizona	P		
+Andriese	Matt	Arizona	Arizona	P		
+Holland	Greg	Washington	Arizona	P		
+Almonte	Abraham	Kansas City	Arizona	OF		
+Refsnyder	Rob	Tampa Bay	Arizona	Util		
+Escobar	Eduardo	Arizona	Arizona	INF		
+Walker	Christian	Arizona	Arizona	Util		
+Brito	Socrates	Arizona	Arizona	OF		
+Murphy	JohnRyan	Arizona	Arizona	C		
+Makita	Kazuhisa	San Diego 	San Diego	P		
+Nix	Jacob	San Diego 	San Diego	P		
+Kennedy	Brett	San Diego 	San Diego	P		
+Erlin	Robbie	San Diego 	San Diego	P		
+Lucchesi	Joey	San Diego 	San Diego	P		
+Lauer	Eric	San Diego 	San Diego	P		
+Richards	Garrett	Anaheim	San Diego	P		
+Castillo	Jose	San Diego 	San Diego	P		
+Stock	Robert	San Diego 	San Diego	P		
+Wingenter	Trey	San Diego 	San Diego	P		
+Mejia	Francisco	San Diego 	San Diego	C		
+Jankowski	Travis	San Diego 	San Diego	OF		
+Reyes	Franmil	San Diego 	San Diego	OF		
+Kinsler	Ian	Boston	San Diego	2B		
+Rodriguez	Dereck	San Francisco	San Francisco	P		
+Suarez	Andrew	San Francisco	San Francisco	P		
+Smith	Will	San Francisco	San Francisco	P		
+Moronta	Reyes	San Francisco	San Francisco	P		
+Black	Ray	San Francisco	San Francisco	P		
+Venditte	Pat	Los Angeles	San Francisco	P		
+Pomeranz	Drew	Boston	San Francisco	P		
+Holland	Derek	San Francisco	San Francisco	P		
+Duggar	Steven	San Francisco	San Francisco	OF		
+Valera	Breyvic	Baltimore	San Francisco	Util		
+Shaw	Chris	San Francisco	San Francisco	OF		
+Williamson	Mac	San Francisco	San Francisco	OF		
+Kelly	Joe	Boston	Los Angeles	P		
+Schultz	Jaime	Tampa Bay	Los Angeles	P		
+Floro	Dylan	Los Angeles	Los Angeles	P		
+Garcia	Yimi	Los Angeles	Los Angeles	P		
+Chargois	JT	Los Angeles	Los Angeles	P		
+Ferguson	Caleb	Los Angeles	Los Angeles	P		
+Muncy	Max	Los Angeles	Los Angeles	Util		
+Martin	Russell	Toronto	Los Angeles	C		
+Musgrave	Harrison	Colorado	Colorado	P		
+Oh	Seung Hwan	Colorado	Colorado	P		
+Reynolds	Mark	Washington	Colorado	Util		
+Cuevas	Noel	Colorado	Colorado	OF		
+Hampson	Garrett	Colorado	Colorado	Util		
+Maurer	Brandon	Kansas City	Pittsburgh	P		
+Santana	Edgar	Pittsburgh	Pittsburgh	P		
+Rodriguez	Richard	Pittsburgh	Pittsburgh	P		
+Kela	Keone	Pittsburgh	Pittsburgh	P		
+Brault	Steven	Pittsburgh	Pittsburgh	P		
+Holmes	Clay	Pittsburgh	Pittsburgh	P		
+Archer	Chris	Pittsburgh	Pittsburgh	P		
+Kingham	Nick	Pittsburgh	Pittsburgh	P		
+Lyles	Jordan	Milwaukee	Pittsburgh	P		
+Baron	Steve	St. Louis	Pittsburgh	C		
+Shuck	J.B.	Miami	Pittsburgh	OF		
+Reyes	Pablo	Pittsburgh	Pittsburgh	Util		
+Chisenhall	Lonnie	Cleveland	Pittsburgh	OF		
+Newman	Kevin	Pittsburgh	Pittsburgh	INF		
+Moran	Colin	Pittsburgh	Pittsburgh	INF		
+Stallings	Jacob	Pittsburgh	Pittsburgh	C		
+Burnes	Corbin	Milwaukee	Milwaukee	P		
+Williams	Taylor	Milwaukee	Milwaukee	P		
+Petricka	Jake	Toronto	Milwaukee	P		
+Claudio	Alex	Texas	Milwaukee	P		
+Peralta	Freddy	Milwaukee	Milwaukee	P		
+Gamel	Ben	Seattle	Milwaukee	Util		
+Nottingham	Jacob	Milwaukee	Milwaukee	C		
+Kratz	Erik	Milwaukee	Milwaukee	C		
+Saladino	Tyler	Milwaukee	Milwaukee	INF		
+Graveman	Kendall	Oakland	Chicago (N)	P		
+Rosario	Randy	Chicago (N)	Chicago (N)	P		
+Barnette	Tony	Texas	Chicago (N)	P		
+Bote	David	Chicago (N)	Chicago (N)	Util		
+Field	Johnny	Minnesota	Chicago (N)	OF		
+Reed	Cody	Cincinnati	Cincinnati	P		
+Wisler	Matt	Cincinnati	Cincinnati	P		
+Gray	Sonny	New York (A)	Cincinnati	P		
+Finnegan	Brandon	Cincinnati	Cincinnati	P		
+DeSclafani	Anthony	Cincinnati	Cincinnati	P		
+Duke	Zach	Seattle	Cincinnati	P		
+Blandino	Alex	Cincinnati	Cincinnati	Util		
+Casali	Curt	Cincinnati	Cincinnati	C		
+Graterol	Juan	Minnesota	Cincinnati	C		
+Williams	Mason	Cincinnati	Cincinnati	OF		
+Meisinger	Ryan	Baltimore	St. Louis	P		
+Beck	Chris	New York (N)	St. Louis	P		
+Poncedeleon	Daniel	St. Louis	St. Louis	P		
+Webb	Tyler	St. Louis	St. Louis	P		
+Mayers	Mike	St. Louis	St. Louis	P		
+Miller	Andrew	Cleveland	St. Louis	P		
+Shreve	Chasen	St. Louis	St. Louis	P		
+Hudson	Dakota	St. Louis	St. Louis	P		
+Hicks	Jordan	St. Louis	St. Louis	P		
+Gant	John	St. Louis	St. Louis	P		
+Gomber	Austin	St. Louis	St. Louis	P		
+Mikolas	Miles	St. Louis	St. Louis	P		
+Munoz	Yairo	St. Louis	St. Louis	Util		
+Robinson	Drew	Texas	St. Louis	Util		
+O'Neill	Tyler	St. Louis	St. Louis	OF		
+Bashlor	Tyler	New York (N)	New York (N)	P		
+Peterson	Tim	New York (N)	New York (N)	P		
+Rhame	Jacob	New York (N)	New York (N)	P		
+Smith	Drew	New York (N)	New York (N)	P		
+Santiago	Hector	Chicago (A)	New York (N)	P		
+Oswalt	Corey	New York (N)	New York (N)	P		
+Diaz	Edwin	Seattle	New York (N)	P		
+Avilan	Luis	Philadelphia	New York (N)	P		
+Ramos	Wilson	Philadelphia	New York (N)	C		
+Nido	Tomas	New York (N)	New York (N)	C		
+Cano	Robinson	Seattle	New York (N)	INF		
+Davis	J.D.	Houston	New York (N)	Util		
+McNeil	Jeff	New York (N)	New York (N)	INF		
+Guillorme	Luis	New York (N)	New York (N)	INF		
+Lowrie	Jed	Oakland	New York (N)	INF		
+Herrera	Dilson	Cincinnati	New York (N)	Util		
+Davis	Rajai	Cleveland	New York (N)	OF		
+Robertson	David	New York (A)	Philadelphia	P		
+Alvarez	Jose	Anaheim	Philadelphia	P		
+Nicasio	Juan	Seattle	Philadelphia	P		
+Pazos	James	Seattle	Philadelphia	P		
+Dominguez	Seranthony	Philadelphia	Philadelphia	P		
+Eflin	Zach	Philadelphia	Philadelphia	P		
+Rios	Yacksel	Philadelphia	Philadelphia	P		
+Davis	Austin	Philadelphia	Philadelphia	P		
+Arano	Victor	Philadelphia	Philadelphia	P		
+Segura	Jean	Seattle	Philadelphia	INF		
+Quinn	Roman	Philadelphia	Philadelphia	Util		
+Romine	Andrew	Seattle	Philadelphia	Util		
+Petit	Gregorio	Minnesota	Philadelphia	INF		
+Robinson	Shane	New York (A)	Philadelphia	OF		
+Miller	Justin	Washington	Washington	P		
+Suero	Wander	Washington	Washington	P		
+Fedde	Erick	Washington	Washington	P		
+Sanchez	Anibal	Atlanta	Washington	P		
+Kieboom	Spencer	Washington	Washington	C		
+Gomes	Yan	Cleveland	Washington	C		
+Dozier	Brian	Los Angeles	Washington	INF		
+Sanchez	Adrian	Washington	Washington	INF		
+Soto	Juan	Washington	Washington	OF		
+Stevenson	Andrew	Washington	Washington	OF		
+Gonzalez	Merandy	Miami	San Francisco	P		
+Hernandez	Elieser	Miami	Miami	P		
+Guerrero	Tayron	Miami	Miami	P		
+Lopez	Pablo	Miami	Miami	P		
+Richards	Trevor	Miami	Miami	P		
+Smith	Caleb	Miami	Miami	P		
+Graves	Brett	Miami	Miami	P		
+Rivera	Yadiel	Miami	Miami	Util		
+Alvarez	Pedro	Baltimore	Miami	INF		
+Machado	Dixon	Detroit	Miami	INF		
+Marrero	Deven	Arizona	Miami	INF		
+Holaday	Bryan	Miami	Miami	C		
+Wallach	Chad	Miami	Miami	C		
+Dean	Austin	Miami	Miami	OF		
+Galloway	Isaac	Miami	Miami	OF		
+O'Brien	Peter	Miami	Miami	Util		
+Walker	Neil	New York (A)	Miami	Util		
+Gausman	Kevin	Atlanta	Atlanta	P		
+Biddle	Jesse	Atlanta	Atlanta	P		
+Venters	Jonny	Atlanta	Atlanta	P		
+Jackson	Luke	Atlanta	Atlanta	P		
+Minter	A.J.	Atlanta	Atlanta	P		
+Carle	Shane	Atlanta	Atlanta	P		
+Winkler	Dan	Atlanta	Atlanta	P		
+Toussaint	Touki	Atlanta	Atlanta	P		
+Ortega	Rafael	Miami	Atlanta	OF		
+Lopez	Raffy	San Diego 	Atlanta	C		
+McCann	Brian	Houston	Atlanta	C		
+Donaldson	Josh	Cleveland	Atlanta	INF		
+Culberson	Charlie	Atlanta	Atlanta	Util	Player Pool Version 1	
+Liriano	Francisco	Detroit	Pittsburgh	P		
+Brice	Austin	Cincinnati	Miami	P		
+Butera	Drew	Colorado	Philadelphia	C		
+Granderson	Curtis	Milwaukee	Miami	OF		
+Hellickson	Jeremy	Washington	Washington	P		
+Gonzalez	Erik	Cleveland	Pittsburgh	INF		
+Tomlin	Josh	Cleveland	Milwaukee	P		
+Garcia	Aramis	San Francisco	San Francisco	C		
+Stewart	Chris	Arizona	San Diego	C		
+Arcia	Francisco	Anaheim	Chicago (N)	C		
+Florimon	Pedro	Philadelphia	Atlanta	Util		
+Orf	Nate	Milwaukee	Milwaukee	Util		
+Rzepczynski	Marc	Cleveland	Arizona	P		
+Rodriguez	Sean	Pittsburgh	Philadelphia	Util		
+Rivera	Rene	Atlanta	San Francisco	C		
+Castro	Daniel	Colorado	Los Angeles	INF		
+Herrera	Rosell	Kansas City	Miami	Util		
+Adduci	Jim	Detroit	Chicago (N)	INF		
+Gerber	Mike	Detroit	San Francisco	OF		
+Szczur	Matt	San Diego 	Arizona	OF		
+Andreoli	John	Baltimore	San Francisco	OF		
+LaMarre	Ryan	Chicago (A)	Atlanta	OF		
+Smith	Burch	Kansas City	Milwaukee	P		
+O'Day	Darren	Baltimore	Atlanta	P		
+Cabrera	Melky	Cleveland	Pittsburgh	OF	Player Pool Version 2	
+Brach	Brad	Atlanta	Chicago (N)	P		
+Romo	Sergio	Tampa Bay	Miami	P		
+Cedeno	Xavier	Milwaukee	Chicago (N)	P		
+Joseph	Caleb	Baltimore	Arizona	C		
+Gentry	Craig	Baltimore	San Francisco	OF		
+Solarte	Yangervis	Toronto	San Francisco	INF		
+Moustakas	Mike	Milwaukee	Milwaukee	INF		
+Hechavarria	Adeiny	New York (A)	New York (N)	INF		
+Loup	Aaron	Philadelphia	San Diego	P		
+Machado	Manny	Los Angeles	San Diego	INF		
+Vincent	Nick	Seattle	San Francisco	P		
+Iglesias	Jose	Detroit	Cincinnati	INF	Player Pool Version 3	
+Miller	Brad	Milwaukee	Los Angeles	INF		
+Warren	Adam	Seattle	San Diego	P		
+Gomez	Carlos	Tampa Bay	New York (N)	Util		
+Pena	Francisco	St. Louis	St. Louis	C		
+Nuno	Vidal	Tampa Bay	Washington	P		
+Orlando	Paulo	Kansas City	Los Angeles	OF		
+Lewicki	Artie	Detroit	Arizona	P	Player Pool Version 4	
+Jones	Adam	Baltimore	Arizona	OF		
+Sipp	Tony	Houston	Washington	P		
+Adams	Lane	Atlanta	Philadelphia	OF		
+Bowman	Matt	St.Louis	Cincinnati	P	Unprotected by Washington	
+Blach	Ty	San Francisco	San Francisco	P	Unprotected by Washington	
+Leone	Dominic	St.Louis	St.Louis	P	Unprotected by Washington	
+Feliz	Michael	Pittsburgh	Pittsburgh	P	Unprotected by Washington	
+Severino	Pedro	Washington	Washington	C	Unprotected by Washington	
+Ervin	Phillip	Cincinnati	Cincinnati	OF	Unprotected by Washington	
+Tomlinson	Kelby	San Francisco	Arizona	INF	Unprotected by Boston	
+Kontos	George	New York (A)	Chicago (N)	P	Unprotected by Boston	
+Sewald	Paul	New York (N)	New York (N)	P	Unprotected by Boston	
+Shaw	Bryan	Colorado	Colorado	P	Unprotected by Boston	
+Dunn	Mike	Colorado	Colorado	P	Unprotected by Boston	
+Grace	Matt	Washington	Washington	P	Unprotected by Boston	
+Rusin	Chris	Colorado	Colorado	P	Unprotected by Colorado	
+Samardzija	Jeff	San Francisco	San Francisco	P	Unprotected by Colorado	
+Hunter	Tommy	Philadelphia	Philadelphia	P	Unprotected by Colorado	
+d'Arnaud	Travis	New York (N)	New York (N)	C	Unprotected by Colorado	
+Murphy	Tom	Colorado	Colorado	C	Unprotected by Colorado	
+Garcia	Greg	St.Louis	San Diego	INF	Unprotected by Colorado	
+Duensing	Brian	Chicago (N)	Chicago (N)	P	Unprotected by Baltimore	
+Suter	Brent	Milwaukee	Milwaukee	P	Unprotected by Baltimore	
+Despaigne	Odrisamer	Anaheim	Cincinnati	P	Unprotected by Baltimore	
+Kintzler	Brandon	Chicago (N)	Chicago (N)	P	Unprotected by Baltimore	
+Lagares	Juan	New York (N)	New York (N)	OF	Unprotected by Baltimore	
+Osuna	Jose	Pittsburgh	Pittsburgh	UTIL	Unprotected by Baltimore	
+Alexander	Scott	Los Angeles	Los Angeles	P	Unprotected by San Francisco	
+Freeman	Sam	Atlanta	Atlanta	P	Unprotected by San Francisco	
+McGee	Jake	Colorado	Colorado	P	Unprotected by San Francisco	
+Neverauskas	Dovydas	Pittsburgh	Pittsburgh	P	Unprotected by San Francisco	
+Albers	Matt	Milwaukee	Milwaukee	P	Unprotected by San Francisco	
+Altherr	Aaron	Philadelphia	Philadelphia	OF	Unprotected by San Francisco	
+Mesoraco	Devin	New York (N)	New York (N)	C	Unprotected by San Francisco	
+Peralta	Wandy	Cincinnati	Cincinnati	P	Unprotected by Milwaukee	
+Chatwood	Tyler	Chicago (N)	Chicago (N)	P	Unprotected by Milwaukee	
+Stephens	Jackson	Cincinnati	Cincinnati	P	Unprotected by Milwaukee	
+Sierra	Magneuris	Miami	Miami	OF	Unprotected by Milwaukee	
+Valaika	Pat	Colorado	Colorado	INF	Unprotected by Milwaukee	
+Cingrani	Tony	Los Angeles	Los Angeles	P	Unprotected by Los Angeles	
+Lorenzen	Michael	Cincinnati	Cincinnati	P	Unprotected by Los Angeles	
+Mitchell	Bryan	San Diego	San Diego	P	Unprotected by Los Angeles	
+Knapp	Andrew	Philadelphia	Philadelphia	C	Unprotected by Los Angeles	
+Toles	Andrew	Los Angeles	Los Angeles	OF	Unprotected by Pittsburgh	
+Sandoval	Pablo	San Francisco	San Francisco	INF	Unprotected by Pittsburgh	
+Prado	Martin	Miami	Miami	INF	Unprotected by Pittsburgh	
+Barnes	Jacob	Milwaukee	Milwaukee	P	Unprotected by New York	
+Morgan	Adam	Philadelphia	Philadelphia	P	Unprotected by New York	
+Lyons	Tyler	St.Louis	Pittsburgh	P	Unprotected by New York	
+Maton	Phil	San Diego	San Diego	P	Unprotected by New York	
+Wainwright	Adam	St.Louis	St.Louis	P	Unprotected by New York	
+Pirela	Jose	San Diego	San Diego	UTIL	Unprotected by New York	
+Smith	Dominic	New York (N)	New York (N)	UTIL	Unprotected by Toronto	
+Solis	Sammy	Washington	San Diego	P	Unprotected by Toronto	
+Cecil	Brett	St.Louis	St.Louis	P	Unprotected by Toronto	
+Melancon	Mark	San Francisco	San Francisco	P	Unprotected by Toronto	
+Perdomo	Luis	San Diego	San Diego	P	Unprotected by Toronto	
+Farmer	Kyle	Los Angeles	Cincinnati	C	Unprotected by Oakland	
+Wolters	Tony	Colorado	Colorado	C	Unprotected by Oakland	
+Blanco	Gregor	San Francisco	New York (N)	OF	Unprotected by Oakland	
+Dietrich	Derek	Miami	Cincinnati	UTIL	Unprotected by Oakland	
+McFarland	T.J.	Arizona	Arizona	P	Unprotected by Oakland	
+Kuhl	Chad	Pittsburgh	Pittsburgh	P	Unprotected by Oakland	
