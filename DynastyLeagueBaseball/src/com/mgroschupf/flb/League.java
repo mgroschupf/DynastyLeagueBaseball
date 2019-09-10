@@ -12,8 +12,8 @@ import org.jsoup.select.Elements;
 
 public class League {
 	
-	String leagueNum = "95491";
-	String baseUrl = "http://www.dynastyleaguebaseball.com/";
+	String leagueNum = "105324"; // Changes every year
+	String baseUrl = "https://www.dynastyleaguebaseball.com/";
 	String url = baseUrl + "League.aspx?OrgID=" + leagueNum;
 	Document doc = null;
 	ArrayList<Team> teams = new ArrayList<Team>();
@@ -28,6 +28,7 @@ public class League {
 	
 	public void connect() {
 		try {
+			System.setProperty("javax.net.ssl.trustStore", "C:/Users/GRO4525/Downloads/dst.jks");
 			doc = Jsoup.connect(url).get();
 			// System.out.println(doc.toString());
 			Elements elements = doc.select("a[href]");

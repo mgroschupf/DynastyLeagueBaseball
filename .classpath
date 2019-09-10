@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="src" path="DCLBaseball/src"/>
+	<classpathentry kind="src" path="DCLBaseball2/src"/>
+	<classpathentry kind="src" path="DynastyLeagueBaseball/src"/>
+	<classpathentry kind="src" path="YahooDaily/src"/>
+	<classpathentry kind="lib" path="C:/Users/GRO4525/.p2/pool/plugins"/>
+	<classpathentry kind="lib" path="C:/Users/GRO4525/.p2/pool/plugins/jsoup-1.12.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
