@@ -1,5 +1,6 @@
 package com.mgroschupf.flb;
 
+import java.io.File;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Iterator;
@@ -124,6 +125,49 @@ public class League {
 	}
 
 	public League() {		
+	}
+	
+	/**
+	 * Load the league from HTML files
+	 * @param leagueData
+	 */
+	public League(List<File> leagueData) {
+		File league = leagueData.get(0);
+		try {
+			doc = Jsoup.parse(league, null);
+			// System.out.println(doc.toString());
+			Elements elements = doc.select("a[href]");
+			// System.out.println(elements.size() + " elements.");
+			for (Iterator<Element> i = elements.iterator(); i.hasNext(); ) {
+				Element e = i.next();
+				String link = e.toString();
+				if (link.indexOf("Team.aspx") > -1) {
+					// Team names
+					String[] tokens = link.split(">");
+					String teamName = tokens[2].split("<")[0];
+					// Team number
+					tokens = link.split("=");
+					String teamNum = tokens[3].split("\"")[0];
+					// System.out.println(teamNum + ") " + teamName);
+					// Now get the owners
+					Element ne = e.nextElementSibling();
+					String span = ne.toString();
+					tokens = span.split(">");
+					String teamOwner = tokens[1].split("<")[0];
+					// System.out.println(teamOwner);
+					Team team = new Team();
+					team.setName(teamName);
+					team.setNumber(teamNum);
+					team.setOwner(teamOwner);
+					team.setLeague(this);
+					teams.add(team);
+					team.readLeagueData(leagueData);
+				}
+			}
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}		
 	}
 
 	public static void main(String[] args) {

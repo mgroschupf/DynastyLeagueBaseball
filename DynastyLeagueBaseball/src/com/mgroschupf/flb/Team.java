@@ -1,7 +1,9 @@
 package com.mgroschupf.flb;
 
+import java.io.File;
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.Iterator;
 import java.util.List;
 
 import org.jsoup.Jsoup;
@@ -69,6 +71,29 @@ public class Team {
 		return getStatsUrl("2");
 	}
 	
+	public File getStatsFile(String stat, List<File> leagueData) {
+		String searchString = "team" + getNumber() + stat + ".htm";
+		for (Iterator<File> i=leagueData.iterator(); i.hasNext(); ) {
+			File file = i.next();
+			if (searchString.equals(file.getName())) {
+				return file;
+			}
+		}
+		return null;
+	}
+	
+	public File getBattingStatsFile(List<File> leagueData) {
+		return getStatsFile("batting", leagueData);
+	}
+	
+	public File getPitchingStatsFile(List<File> leagueData) {
+		return getStatsFile("pitching", leagueData);
+	}
+	
+	public File getFieldingStatsFile(List<File> leagueData) {
+		return getStatsFile("fielding", leagueData);
+	}
+	
 	void addPlayers(Document doc, int scriptIndex, int playerType, int position) throws IOException {
 		Elements elements = doc.select("script");
 		// System.out.println(elements.size() + " elements.");
@@ -105,7 +130,27 @@ public class Team {
 			addPlayers(doc, scriptIndices[index], playerType, index + 1);
 		}
 	}
-	
+
+	private void addPlayers(File in, int scriptIndex, int playerType) {
+		try {
+			Document doc = Jsoup.parse(in, null);
+			addPlayers(doc, scriptIndex, playerType, Fielder.NONE);
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+	}
+
+	private void addPlayers(File in, int[] scriptIndices, int playerType) {
+		try {
+			Document doc = Jsoup.parse(in, null);
+			for (int index = 0; index < scriptIndices.length; index++) {
+				addPlayers(doc, scriptIndices[index], playerType, index + 1);
+			}
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+	}
+
 	public List<Player> getPlayers() {
 		return players;
 	}
@@ -127,5 +172,15 @@ public class Team {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
+	}
+	
+	public void readLeagueData(List<File> leagueData) {
+		// BATTERS
+		addPlayers(getBattingStatsFile(leagueData), 10, Player.BATTER);
+		// PITCHERS
+		addPlayers(getPitchingStatsFile(leagueData), 10, Player.PITCHER);
+		// FIELDERS
+		int[] indices = new int[] {10, 11, 12, 13, 14, 15, 16, 17, 18};
+		addPlayers(getFieldingStatsFile(leagueData), indices, Player.FIELDER);
 	}
 }

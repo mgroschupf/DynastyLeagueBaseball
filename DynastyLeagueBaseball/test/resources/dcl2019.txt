@@ -1,0 +1,700 @@
+
+Cy Young Award (top 5)
+Player                           Score    Wins  Losses    ERA       CG    WHIP      SO
+Scherzer, Max                   242.86      12       2    2.76      10    0.88     194
+deGrom, Jacob                   232.57      13       0    1.58       8    0.92     148
+Corbin, Patrick                 190.83      13       2    2.16       5    0.96     146
+Sale, Chris                     165.37      10       2    1.35       3    0.72     139
+Nola, Aaron                     161.23       9       3    2.59       5    1.08     125
+Kershaw, Clayton                139.38      10       4    2.73       3    0.92     105
+Mikolas, Miles                  122.14       6       3    3.52       4    1.20      86
+Foltynewicz, Mike               111.74       7       1    3.28       1    1.00     107
+Knebel, Corey                   104.12       5       0    1.17       0    0.83      59
+Greinke, Zack                    97.71       6       2    3.31       1    1.19      89
+Wheeler, Zack                    97.44       9       4    3.68       0    1.25     123
+Jeffress, Jeremy                 97.35       3       0    0.48       0    0.83      44
+Oberg, Scott                     95.66       5       1    1.14       0    0.99      43
+Oh, Seung Hwan                   95.39       4       0    1.26       0    0.93      47
+Iglesias, Raisel                 90.43       5       1    2.47       0    0.76      49
+Flaherty, Jack                   89.84       8       6    4.50       1    1.32     124
+Hader, Josh                      88.90       5       2    1.76       0    1.11      56
+Koch, Matt                       87.81       1       0    0.00       0    0.55       4
+Freeland, Kyle                   87.27       6       6    3.26       1    1.24     105
+Strahm, Matt                     86.86       1       1    0.61       0    0.81      55
+Diaz, Edwin                      83.89       3       2    2.01       0    0.97      74
+Conley, Adam                     83.25       4       1    2.25       0    1.00      43
+Gant, John                       81.78       7       4    4.45       1    1.36      73
+Watson, Tony                     81.66       3       1    1.65       0    0.95      32
+Ottavino, Adam                   81.53       1       2    1.16       0    0.80      64
+Buehler, Walker                  80.98       5       5    4.12       1    1.16     104
+Hernandez, David                 80.88       3       0    2.17       0    1.10      40
+Lugo, Seth                       80.32       4       0    2.96       0    1.27      55
+Ramos, Edubray                   79.42       3       1    1.72       0    1.05      30
+Stripling, Ross                  79.36       6       5    3.35       0    1.33     108
+Green, Chad                      77.11       2       1    2.78       0    1.02      76
+Ray, Robbie                      76.31       8       5    4.50       0    1.64     111
+Lucchesi, Joey                   76.15       5       4    3.19       0    1.10      76
+Avilan, Luis                     75.56       0       1    1.07       0    0.83      38
+Smith, Will                      75.23       2       0    2.65       0    1.15      54
+Kela, Keone                      75.21       2       2    2.13       0    0.87      50
+Robertson, David                 72.71       3       1    2.25       0    1.36      36
+Jansen, Kenley                   72.32       6       4    3.86       0    0.95      49
+Rosario, Randy                   72.10       1       0    1.23       0    1.16      10
+Dominguez, Seranthony            71.88       3       2    2.30       0    1.28      45
+Neshek, Pat                      71.84       1       0    1.35       0    1.13      11
+Severino, Luis                   71.77       4       8    3.69       1    1.38     129
+Cishek, Steve                    70.40       1       1    2.40       0    1.01      50
+Roark, Tanner                    70.33       5       7    3.79       1    1.44      91
+Sanchez, Anibal                  68.99       2       2    2.88       0    1.28      73
+Teheran, Julio                   68.74       6       5    4.36       0    1.36      93
+Strasburg, Stephen               68.14       5       5    4.05       0    1.35     100
+Yates, Kirby                     68.14       3       0    3.72       0    1.24      41
+Doolittle, Sean                  68.03       1       1    1.23       0    1.23      11
+Arano, Victor                    67.94       1       2    1.84       0    1.02      35
+Bradley, Archie                  67.78       4       3    3.25       0    1.17      46
+Newcomb, Sean                    67.61       4       2    4.72       0    1.50     103
+Wacha, Michael                   67.59       7       3    4.43       0    1.59      50
+Cedeno, Xavier                   67.53       3       0    3.18       0    1.32      24
+Taillon, Jameson                 66.92       6       5    4.55       0    1.41      94
+Hill, Rich                       66.86       5       6    4.93       1    1.25      85
+Santana, Edgar                   66.72       3       4    2.08       0    1.00      26
+Stammen, Craig                   66.68       1       2    2.66       0    1.11      64
+Grace, Matt                      66.00       2       2    2.86       0    1.02      40
+Lopez, Pablo                     65.88       3       1    3.71       0    1.15      40
+Sipp, Tony                       65.58       2       2    2.20       0    1.33      35
+Strop, Pedro                     64.69       3       3    2.57       0    1.17      28
+Hudson, Dakota                   64.52       3       0    3.48       0    1.31      19
+Alcantara, Sandy                 64.26       1       1    1.59       0    1.32      11
+Rodriguez, Richard               63.28       1       3    2.38       0    0.98      45
+Straily, Dan                     63.03       5       4    4.43       0    1.36      72
+Godley, Zack                     62.71       3       2    3.35       0    1.66      62
+Marquez, German                  62.10       4       8    5.23       2    1.49      93
+Crick, Kyle                      62.02       2       1    3.52       0    1.14      35
+Vincent, Nick                    61.71       3       2    3.93       0    0.90      27
+Cueto, Johnny                    61.44       2       0    3.75       0    1.13      23
+Ryu, Hyun-Jin                    60.73       3       4    3.60       0    1.25      67
+Morrow, Brandon                  60.37       0       2    1.19       0    1.46      25
+Edwards Jr., Carl                60.33       2       0    3.98       0    1.36      41
+Familia, Jeurys                  59.91       1       2    3.58       0    1.11      63
+McFarland, T.J.                  58.41       2       0    3.69       0    1.36      21
+Castillo, Jose                   58.30       1       1    3.18       0    1.38      42
+Hicks, Jordan                    58.05       1       2    2.58       0    1.41      38
+Musgrove, Joe                    57.51       3       5    3.36       0    1.31      63
+Vazquez, Felipe                  57.40       0       2    3.23       0    1.10      59
+Hendricks, Kyle                  57.31       4       5    4.09       0    1.26      63
+Lester, Jon                      57.30       6       4    5.29       0    1.70      75
+Chafin, Andrew                   57.21       2       0    4.24       0    1.44      40
+Fields, Josh                     57.17       0       1    3.00       0    0.89      19
+Chacin, Jhoulys                  55.99       5       4    4.93       0    1.56      68
+Burnes, Corbin                   55.99       2       1    3.86       0    1.29      27
+Winkler, Dan                     55.81       0       1    3.47       0    1.10      43
+Moronta, Reyes                   55.70       1       4    2.76       0    1.32      60
+Ferguson, Caleb                  55.36       1       2    3.47       0    1.24      45
+Barraclough, Kyle                54.89       2       1    4.08       0    1.33      32
+Quintana, Jose                   54.33       7       6    5.40       0    1.69      75
+Suarez, Andrew                   53.98       5       3    5.24       0    1.48      47
+Davis, Wade                      53.92       2       2    4.71       0    1.19      57
+Richards, Garrett                53.69       3       3    4.53       0    1.44      61
+Urena, Jose                      52.70       5       6    5.27       0    1.29      79
+Hamels, Cole                     52.60       5       6    4.92       0    1.53      82
+Nuno, Vidal                      52.43       1       0    4.44       0    1.11      23
+Stock, Robert                    52.39       2       0    4.43       0    1.43      22
+Fried, Max                       51.90       1       0    3.74       0    1.57      26
+Richards, Trevor                 51.02       2       2    4.50       0    1.25      39
+Reed, Cody                       50.31       2       2    4.45       0    1.42      45
+Maeda, Kenta                     50.01       2       3    4.53       0    1.60      75
+O'Day, Darren                    49.66       2       1    4.70       0    1.24      22
+Claudio, Alex                    48.80       1       0    3.12       0    1.85       7
+Gsellman, Robert                 48.68       2       2    4.79       0    1.33      43
+Bumgarner, Madison               48.62       3       5    6.06       1    1.37      69
+Biddle, Jesse                    47.66       2       1    4.69       0    1.74      45
+Montgomery, Mike                 47.41       2       3    4.24       0    1.26      29
+Kelly, Joe                       47.31       1       3    4.00       0    1.40      51
+Hughes, Jared                    46.74       1       4    3.52       0    1.24      37
+Pivetta, Nick                    46.20       3       4    4.15       0    1.70      44
+Rodriguez, Dereck                45.60       4       4    5.73       0    1.33      51
+Holland, Greg                    44.12       0       1    3.67       0    1.63      27
+Syndergaard, Noah                44.10       4       8    4.81       0    1.37      80
+Holland, Derek                   43.78       4       8    6.04       1    1.59      87
+Vizcaino, Arodys                 43.47       3       4    4.71       0    1.47      35
+Hirano, Yoshihisa                43.29       1       3    4.32       0    1.17      27
+Romo, Sergio                     43.28       3       4    4.68       0    1.44      31
+Bashlor, Tyler                   43.06       0       1    4.50       0    1.07      14
+Baez, Pedro                      42.37       1       3    4.58       0    1.34      43
+Lorenzen, Michael                42.12       1       3    3.97       0    1.49      30
+Castillo, Luis                   41.45       4       8    5.33       0    1.35      84
+Warren, Adam                     40.81       2       1    4.94       0    1.79      23
+Dyson, Sam                       40.55       1       3    4.19       0    1.67      42
+Woodruff, Brandon                40.18       3       2    5.74       0    1.65      34
+Miller, Andrew                   39.94       0       1    4.19       0    1.71      30
+Wood, Alex                       39.06       3       5    5.98       0    1.38      69
+Hellickson, Jeremy               38.96       2       5    4.90       0    1.31      47
+Peralta, Freddy                  38.67       2       6    6.21       1    1.52      73
+Suero, Wander                    38.51       2       1    5.57       0    1.64      24
+Williams, Trevor                 38.14       4      10    4.72       0    1.29      75
+Cingrani, Tony                   37.58       1       1    4.41       0    1.96      21
+Leone, Dominic                   37.10       0       1    3.86       0    1.71       4
+Miller, Justin                   37.05       1       3    5.24       0    1.43      46
+Erlin, Robbie                    36.10       1       2    5.57       0    1.38      33
+Toussaint, Touki                 36.06       0       1    4.91       0    1.36      13
+Steckenrider, Drew               35.90       1       1    5.01       0    1.84      26
+Venters, Jonny                   35.83       0       1    4.97       0    1.42      18
+Lauer, Eric                      35.30       1       2    5.14       0    1.52      23
+Velasquez, Vince                 34.54       0       1    4.61       0    1.68      16
+Minter, A.J.                     34.21       2       2    6.47       0    1.38      34
+Freeman, Sam                     34.21       1       3    4.63       0    1.94      44
+Floro, Dylan                     34.17       1       3    4.43       0    1.66      18
+Lyles, Jordan                    32.86       0       1    5.20       0    1.70      30
+Anderson, Chase                  32.62       3       9    4.95       0    1.55      78
+Guerra, Junior                   31.97       2       2    6.99       0    1.66      60
+Carle, Shane                     31.39       1       3    5.23       0    1.62      30
+Eflin, Zach                      30.73       2       6    6.09       0    1.61      85
+Alexander, Scott                 28.62       0       3    5.14       0    1.46      24
+Anderson, Tyler                  27.32       1       2    6.63       0    1.50      35
+Musgrave, Harrison               25.95       2       1    7.31       0    1.44      10
+Gomber, Austin                   24.67       0       2    5.73       0    1.45       8
+Poncedeleon, Daniel              24.21       1       3    6.17       0    1.37      11
+Chen, Wei-Yin                    23.71       1       1    6.65       0    1.74      17
+Martinez, Carlos                 20.02       1       6    5.87       0    1.65      48
+Smith, Caleb                     18.76       3       5    8.02       0    1.87      73
+Blach, Ty                        18.13       2       7    5.67       0    1.81      37
+Gray, Sonny                      17.84       2       4    7.26       0    1.76      39
+Darvish, Yu                      17.19       0       2    6.75       0    1.66      21
+Gausman, Kevin                   16.11       2      10    6.00       0    1.56      72
+Wingenter, Trey                  14.44       0       1    7.20       0    1.80      16
+Arrieta, Jake                    12.27       3       7    7.65       0    1.83      58
+Matz, Steven                     11.21       2       8    7.46       0    1.57      67
+Senzatela, Antonio               11.05       0       2    6.75       0    2.00      13
+Brebbia, John                     9.93       1       1    9.00       0    1.86      40
+Liriano, Francisco                6.92       1      10    6.35       0    1.75      73
+Stratton, Chris                   3.91       0       1    8.31       0    1.92      11
+Alvarez, Jose                     2.06       0       3    8.13       0    1.97      32
+Pazos, James                      0.36       0       1    9.19       0    1.79      16
+Garrett, Amir                    -2.98       0       2    8.64       0    2.16      21
+Rusin, Chris                     -6.20       1       1    9.00       0    2.50       2
+Suter, Brent                     -7.65       0       2    9.49       0    1.86       8
+Morgan, Adam                    -13.06       1       1   10.52       0    2.65      32
+Fedde, Erick                    -20.74       0       1   10.38       0    2.54       3
+Gray, Jon                       -28.38       0       4   11.85       0    1.98      30
+Mahle, Tyler                    -39.70       0       1   12.96       0    2.64       7
+Weaver, Luke                    -55.64       0       1   14.09       0    3.26       9
+Wainwright, Adam                -68.65       0       1   16.20       0    3.00       2
+
+Rolaids Relief (top 3)
+Player                           Score   Saves      BS
+Dominguez, Seranthony            61.88      15       1
+Barraclough, Kyle                44.49      11       1
+Robertson, David                 40.14      10       1
+Hader, Josh                      35.80       9       1
+Diaz, Edwin                      35.80       9       1
+Strop, Pedro                     33.48      10       3
+Vazquez, Felipe                  23.77       7       2
+Iglesias, Raisel                 21.45       8       4
+Yates, Kirby                     19.42       6       2
+Knebel, Corey                    17.39       4       0
+Vizcaino, Arodys                 16.81      10       8
+Crick, Kyle                      16.09       6       3
+Doolittle, Sean                  14.06       4       1
+Buehler, Walker                  13.04       3       0
+Lugo, Seth                       10.72       4       2
+Jeffress, Jeremy                 10.72       4       2
+Cedeno, Xavier                    9.71       3       1
+Bradley, Archie                   9.71       3       1
+Oh, Seung Hwan                    9.71       3       1
+McFarland, T.J.                   9.71       3       1
+Kela, Keone                       9.71       3       1
+Davis, Wade                       9.71       3       1
+Jansen, Kenley                    9.13       9       9
+Arano, Victor                     8.70       2       0
+Oberg, Scott                      8.70       2       0
+Hernandez, David                  8.70       2       0
+Martinez, Carlos                  8.70       2       0
+Watson, Tony                      8.70       2       0
+Erlin, Robbie                     8.70       2       0
+Smith, Will                       8.70       2       0
+Hughes, Jared                     8.70       2       0
+Hirano, Yoshihisa                 8.41       5       4
+Freeman, Sam                      6.38       3       2
+Stammen, Craig                    5.36       2       1
+Gant, John                        4.35       1       0
+Fried, Max                        4.35       1       0
+Brault, Steven                    4.35       1       0
+Garcia, Jarlin                    4.35       1       0
+Toussaint, Touki                  4.35       1       0
+Bracho, Silvino                   4.35       1       0
+Barnette, Tony                    4.35       1       0
+Brebbia, John                     4.35       1       0
+Fields, Josh                      4.35       1       0
+Ferguson, Caleb                   4.35       1       0
+Rodriguez, Dereck                 4.35       1       0
+Guerra, Junior                    4.35       1       0
+Ramos, Edubray                    4.35       1       0
+Baez, Pedro                       2.03       2       2
+Alvarez, Jose                     2.03       2       2
+Floro, Dylan                      1.01       1       1
+Grace, Matt                       1.01       1       1
+Conley, Adam                      1.01       1       1
+Gsellman, Robert                  1.01       1       1
+Wilson, Justin                    1.01       1       1
+Santana, Edgar                    1.01       1       1
+Cishek, Steve                     1.01       1       1
+Hudson, Dakota                    1.01       1       1
+Vincent, Nick                    -1.30       2       3
+Dyson, Sam                       -1.30       2       3
+Moronta, Reyes                   -1.30       2       3
+Rodriguez, Richard               -2.32       1       2
+Miller, Justin                   -2.32       1       2
+Kelly, Joe                       -2.32       1       2
+Romo, Sergio                     -2.32       1       2
+Castillo, Jose                   -2.32       1       2
+Woodruff, Brandon                -3.33       0       1
+Duke, Zach                       -3.33       0       1
+Neshek, Pat                      -3.33       0       1
+Alexander, Scott                 -3.33       0       1
+Musgrave, Harrison               -3.33       0       1
+Strahm, Matt                     -3.33       0       1
+Suero, Wander                    -3.33       0       1
+Stock, Robert                    -3.33       0       1
+Familia, Jeurys                  -3.33       0       1
+Chafin, Andrew                   -3.33       0       1
+Warren, Adam                     -3.33       0       1
+Gomber, Austin                   -3.33       0       1
+Venters, Jonny                   -4.64       2       4
+Edwards Jr., Carl                -6.67       0       2
+Burnes, Corbin                   -6.67       0       2
+Sipp, Tony                       -6.67       0       2
+O'Day, Darren                    -6.67       0       2
+Reed, Cody                       -6.67       0       2
+Morgan, Adam                     -6.67       0       2
+Morrow, Brandon                  -6.67       0       2
+Hicks, Jordan                    -7.97       2       5
+Green, Chad                     -10.00       0       3
+Carle, Shane                    -10.00       0       3
+Maeda, Kenta                    -13.33       0       4
+Ottavino, Adam                  -13.33       0       4
+
+Catcher (top 3)
+Player                           Score      GS    RBIs      HR      SB     Avg  Fd Pct  CS Pct
+Casali, Curt                    303.25      10      10       2       0   0.163   1.000   1.000
+Sanchez, Gary                   259.75      25      19       8       0   0.223   1.000   0.625
+Grandal, Yasmani                257.45      46      37      15       0   0.264   0.998   0.429
+Stewart, Chris                  251.00       0       1       0       0   1.000   0.000   0.000
+Contreras, Willson              231.25      59      29       5       0   0.220   1.000   0.455
+Gomes, Yan                      223.25      63      45       8       0   0.250   0.995   0.280
+Ramos, Wilson                   222.10      74      53       8       0   0.326   0.996   0.139
+Flowers, Tyler                  214.50       6       9       1       0   0.217   1.000   0.500
+Pina, Manny                     206.10      58      24       4       0   0.214   1.000   0.368
+Murphy, John Ryan               202.65      36      16       3       0   0.177   0.997   0.444
+Barnhart, Tucker                202.60      74      38       6       0   0.275   0.999   0.192
+Diaz, Elias                     201.70      34      18       7       0   0.341   0.994   0.200
+Cervelli, Francisco             199.85      51      19       7       0   0.238   1.000   0.313
+Posey, Buster                   198.40      65      28       5       0   0.265   0.998   0.240
+Kratz, Erik                     196.95      18      17       3       1   0.255   0.992   0.308
+Realmuto, J.T.                  193.30      31      10       4       0   0.248   0.994   0.333
+Mesoraco, Devin                 193.25      60      23       5       0   0.216   1.000   0.300
+Hedges, Austin                  184.75      59      27       7       0   0.207   0.993   0.238
+Iannetta, Chris                 183.25      21       4       2       0   0.143   1.000   0.455
+Stallings, Jacob                177.10       6       3       0       0   0.385   0.985   0.143
+Molina, Yadier                  173.15      58      26       6       0   0.213   1.000   0.182
+Farmer, Kyle                    155.55       8       6       1       0   0.212   0.982   0.231
+McCann, Brian                   142.00       9       5       1       0   0.143   1.000   0.250
+Wieters, Matt                   137.75      16      10       4       0   0.291   1.000   0.000
+Suzuki, Kurt                    137.30      15       7       2       0   0.206   0.994   0.133
+Longoria, Evan                  136.25       0      18       4       0   0.253   1.000   0.000
+Avila, Alex                     132.25       6       4       2       0   0.103   1.000   0.250
+Barnes, Austin                  131.60      11       5       0       0   0.192   1.000   0.143
+Martinez, Jose                  128.25       0      40       7       0   0.318   0.000   0.000
+Alfaro, Jorge                   122.50       6       5       0       0   0.173   0.985   0.125
+Peraza, Jose                    119.75       0       2       1       1   0.261   1.000   0.000
+Holaday, Bryan                  113.50       6       6       1       0   0.225   1.000   0.000
+Joseph, Caleb                   103.00       6       3       0       0   0.200   1.000   0.000
+Rivera, Rene                    101.00       4       1       0       0   0.200   1.000   0.000
+Martin, Russell                  91.50       4       2       0       0   0.158   1.000   0.000
+Kelly, Carson                    71.35      11       2       0       0   0.079   0.992   0.000
+Kieboom, Spencer                 51.00       3       1       0       0   0.000   1.000   0.000
+Wolters, Tony                    50.00       1       0       0       0   0.000   1.000   0.000
+Matz, Steven                     34.50       0       0       0       0   0.138   0.000   0.000
+
+First Base (top 3)
+Player                           Score      GS    RBIs      HR      SB     Avg  Fd Pct   Range
+Goldschmidt, Paul               277.70      80      62      21       0   0.281   0.994   7.920
+Panik, Joe                      274.75       0       1       0       0   0.750   0.750   4.500
+Zobrist, Ben                    266.83       1      51      10       0   0.378   0.952   5.450
+Bellinger, Cody                 253.73       1      48      13       3   0.273   1.000   6.990
+Rizzo, Anthony                  252.33      72      39      12       0   0.309   0.995   8.630
+Harper, Bryce                   247.88      48      48      17       5   0.226   0.972   7.470
+Martinez, Jose                  247.73      25      40       7       0   0.318   0.975   8.790
+Adams, Matt                     242.75      40      37      14       0   0.272   0.987   8.620
+Grandal, Yasmani                238.88       7      37      15       0   0.264   0.965   8.250
+Thames, Eric                    233.25       0       5       1       0   0.400   1.000  10.800
+Muncy, Max                      232.58       6      37      15       0   0.240   0.963   8.210
+Hosmer, Eric                    229.95      60      31       7       0   0.291   0.995   7.180
+Hernandez, Kike                 229.25       1      41       9       0   0.238   1.000   7.000
+Freese, David                   227.50      79      39       9       0   0.231   0.986   8.360
+Freeman, Freddie                225.73      80      32       6       1   0.263   0.997   7.810
+Murphy, Daniel                  224.83       3      22       5       0   0.304   1.000   8.230
+Votto, Joey                     224.40      62      27       4       0   0.287   0.992   8.580
+Zimmerman, Ryan                 222.20      31      18       5       0   0.324   0.994   7.020
+Moustakas, Mike                 221.65      20      39       8       0   0.219   0.988   7.640
+Shaw, Travis                    219.58      35      33      10       0   0.210   0.990   9.030
+Braun, Ryan                     219.50       0      16       7       0   0.289   1.000   9.000
+Posey, Buster                   218.90       0      28       5       0   0.265   1.000   7.360
+Gamel, Ben                      211.28      55      21       2       0   0.274   0.991   8.070
+Bryant, Kris                    210.98      20      23       4       0   0.250   0.995   8.390
+Contreras, Willson              210.78      20      29       5       0   0.220   1.000   8.210
+Hoskins, Rhys                   210.60      74      27      10       0   0.207   0.988   8.220
+Molina, Yadier                  209.25       0      26       6       0   0.213   1.000   9.000
+Bote, David                     209.05       3      15       4       0   0.270   1.000   8.620
+Kratz, Erik                     205.60       0      17       3       1   0.255   1.000   7.940
+Taylor, Michael A.              205.38       0      18       4       4   0.242   1.000   6.750
+Kendrick, Howie                 205.13       1      14       2       0   0.287   1.000   6.750
+Sandoval, Pablo                 204.95       0      19       5       0   0.237   1.000   8.180
+Bell, Josh                      204.52      30      14       4       0   0.255   0.993   8.990
+Myers, Wil                      204.10       9       8       1       4   0.273   1.000   8.640
+Rivera, Yadiel                  203.00       0       1       0       0   0.273   1.000  13.500
+Dietrich, Derek                 200.83       2      11       3       1   0.284   0.900   9.530
+Aguilar, Jesus                  199.50      52      22       7       1   0.190   0.993   8.280
+Realmuto, J.T.                  199.50       1      10       4       0   0.248   1.000   9.000
+Belt, Brandon                   183.60      28       8       1       1   0.206   0.992   8.960
+Casali, Curt                    175.75       0      10       2       0   0.163   1.000   9.000
+Flores, Wilmer                  173.15       5       9       3       0   0.149   1.000   9.260
+Adduci, Jim                     158.60       8       0       0       0   0.182   0.948   7.320
+Pirela, Jose                    147.25       0       2       0       0   0.091   1.000   9.000
+Walker, Christian               122.50       0       0       0       0   0.000   1.000   9.000
+Pina, Manny                      82.50       0      24       4       0   0.214   0.000   0.000
+Slater, Austin                   75.50       0       8       0       1   0.265   0.000   0.000
+Descalso, Daniel                 72.25       0       4       0       0   0.273   0.000   0.000
+Romine, Andrew                   70.00       0      14       1       0   0.219   0.000   0.000
+Gonzalez, Erik                   63.50       1       1       0       0   0.250   0.000   0.000
+
+Second Base (top 3)
+Player                           Score      GS    RBIs      HR      SB     Avg  Fd Pct   Range
+Panik, Joe                      299.75       1       1       0       0   0.750   1.000   4.500
+Escobar, Eduardo                276.00       0      52      10       0   0.266   1.000  18.000
+Zobrist, Ben                    266.92      75      51      10       0   0.378   0.996   3.730
+Altuve, Jose                    265.17      74      43       9      15   0.328   0.991   4.430
+Gennett, Scooter                238.90      78      47      10       1   0.284   0.972   3.980
+Camargo, Johan                  232.28       0      49      10       0   0.255   1.000   2.810
+Carpenter, Matt                 231.38      55      39      17       0   0.246   0.995   4.050
+Gonzalez, Erik                  231.00       0       1       0       0   0.250   1.000  27.000
+Muncy, Max                      227.00       0      37      15       0   0.240   1.000   4.500
+Bregman, Alex                   224.43      32      39       9       3   0.274   0.937   3.290
+Hernandez, Kike                 221.58      12      41       9       0   0.238   1.000   3.930
+Albies, Ozzie                   219.05      27      16       4       4   0.331   0.988   4.600
+Gordon, Dee                     217.65      53      20       3       9   0.297   0.978   4.240
+Murphy, Daniel                  215.15      35      22       5       0   0.304   1.000   4.360
+Shaw, Travis                    212.48       3      33      10       0   0.210   1.000   5.790
+Baez, Javier                    211.98      78      30      10       5   0.211   0.991   4.550
+Frazier, Adam                   210.80      47      28       7       0   0.259   0.984   4.360
+Gyorko, Jedd                    208.73      31      25       8       1   0.267   0.966   3.650
+Lowrie, Jed                     206.00      47      28       6       0   0.252   0.992   3.320
+Marte, Ketel                    205.90      43      23       4       1   0.271   0.984   4.200
+McNeil, Jeff                    205.83       5       4       0       0   0.354   1.000   5.330
+Wong, Kolten                    202.93      64      22       4       0   0.274   0.983   3.650
+Dietrich, Derek                 197.43      21      11       3       1   0.284   0.981   4.930
+Castro, Starlin                 197.18       4      14       3       0   0.274   1.000   4.370
+Kendrick, Howie                 197.18      19      14       2       0   0.287   0.987   4.090
+Bote, David                     196.60       2      15       4       0   0.270   0.941   6.000
+Hernandez, Cesar                196.58      43      13       2       2   0.269   1.000   4.530
+Rojas, Miguel                   189.75       1      19       3       0   0.223   1.000   4.500
+Happ, Ian                       184.28       0      14       5       0   0.179   1.000   7.710
+Rivera, Yadiel                  182.53       4       1       0       0   0.273   1.000   5.310
+Romine, Andrew                  181.25       0      14       1       0   0.219   1.000   4.500
+Solarte, Yangervis              180.90      22      19       4       0   0.188   0.982   4.680
+Perez, Hernan                   178.95       1      23       9       0   0.245   0.750   3.380
+Descalso, Daniel                178.23       3       4       0       0   0.273   1.000   2.390
+LeMahieu, DJ                    175.02      33      12       1       0   0.210   0.988   4.190
+Dozier, Brian                   170.03      11       7       2       0   0.208   1.000   3.410
+Cano, Robinson                  165.13      13       4       1       0   0.200   1.000   3.950
+Herrera, Rosell                 165.13       6       5       1       0   0.211   0.965   3.850
+Casali, Curt                    157.75       1      10       2       0   0.163   1.000   1.800
+Kinsler, Ian                    152.13      12       6       0       0   0.143   0.984   4.790
+Blandino, Alex                  145.00       0       0       0       0   0.000   1.000  18.000
+Flores, Wilmer                  138.20       2       9       3       0   0.149   0.818   2.560
+Valaika, Pat                    132.00       1       1       0       0   0.100   1.000   2.400
+Miller, Brad                    115.00       0       0       0       0   0.000   1.000   6.000
+Spangenberg, Cory               105.63       1       0       0       0   0.000   1.000   2.250
+Sanchez, Gary                    84.75       0      19       8       0   0.223   0.000   0.000
+Walker, Neil                     75.00       0      10       3       0   0.245   0.000   0.000
+
+Third Base (top 3)
+Player                           Score      GS    RBIs      HR      SB     Avg  Fd Pct   Range
+Arenado, Nolan                  251.48      80      58      13       0   0.288   0.970   3.290
+Ramirez, Jose                   248.20      80      40      14      25   0.224   0.974   2.420
+Machado, Manny                  240.00      79      47      11       2   0.287   0.982   2.720
+Escobar, Eduardo                236.58      71      52      10       0   0.266   0.989   2.670
+Hanson, Alen                    236.38       0      29       6       1   0.327   1.000   6.750
+Turner, Justin                  234.67      74      33      12       0   0.331   0.971   2.730
+Carpenter, Matt                 227.70       1      39      17       0   0.246   1.000   2.380
+Bregman, Alex                   227.45       5      39       9       3   0.274   1.000   1.980
+Rendon, Anthony                 225.02      75      40      14       0   0.255   0.978   2.390
+Camargo, Johan                  224.90      62      49      10       0   0.255   0.935   2.460
+Muncy, Max                      219.05       1      37      15       0   0.240   1.000   1.320
+Perez, Hernan                   218.00       0      23       9       0   0.245   1.000   9.000
+Culberson, Charlie              214.00       0      22       6       0   0.299   1.000   3.900
+Suarez, Eugenio                 212.80      71      40      12       2   0.214   0.953   2.600
+Difo, Wilmer                    210.88      19      34       6       2   0.249   1.000   1.850
+Moustakas, Mike                 204.75      58      39       8       0   0.219   0.957   2.120
+Gyorko, Jedd                    202.95       5      25       8       1   0.267   0.909   3.620
+McNeil, Jeff                    197.33       0       4       0       0   0.354   1.000   1.930
+Munoz, Yairo                    196.45      31      27       5       0   0.241   0.967   2.500
+Shaw, Travis                    195.55       8      33      10       0   0.210   0.933   1.700
+Lowrie, Jed                     195.05       3      28       6       0   0.252   0.902   2.540
+Rivera, Yadiel                  191.75       0       1       0       0   0.273   1.000   9.000
+Bote, David                     190.65       9      15       4       0   0.270   0.950   3.260
+Sandoval, Pablo                 188.53      48      19       5       0   0.237   0.975   2.610
+Moran, Colin                    187.23      23      11       4       0   0.274   0.962   2.610
+Hechavarria, Adeiny             187.00       4      17       0       0   0.250   1.000   3.000
+Rojas, Miguel                   185.48      29      19       3       0   0.223   1.000   2.790
+Longoria, Evan                  184.15      14      18       4       0   0.253   0.935   1.760
+Walker, Neil                    181.05      13      10       3       0   0.245   0.977   3.340
+Happ, Ian                       166.23      46      14       5       0   0.179   0.950   2.490
+Solarte, Yangervis              162.55       9      19       4       0   0.188   0.864   2.060
+Prado, Martin                   156.98      14       6       0       0   0.200   0.955   2.190
+Anderson, Brian                 152.98       8       9       2       0   0.145   1.000   2.090
+Franco, Maikel                  152.08       9       4       0       0   0.190   0.941   2.590
+Kingery, Scott                  141.88       1       0       0       0   0.143   1.000   2.450
+Bryant, Kris                    141.63       1      23       4       0   0.250   0.500   0.450
+Lamb, Jake                      139.08       9       5       1       0   0.115   1.000   1.630
+Valaika, Pat                    129.75       0       1       0       0   0.100   1.000   1.500
+Aguilar, Jesus                   79.50       0      22       7       1   0.190   0.000   0.000
+Herrera, Rosell                  59.00       0       5       1       0   0.211   0.000   0.000
+Donaldson, Josh                  55.25       0      10       1       0   0.176   0.000   0.000
+
+Shortstop (top 3)
+Player                           Score      GS    RBIs      HR      SB     Avg  Fd Pct   Range
+Seager, Corey                   372.50       1       0       0       0   1.000   1.000   9.000
+Story, Trevor                   265.92      80      55      16       9   0.287   0.981   3.930
+Lindor, Francisco               258.93      80      42      14      22   0.243   0.979   5.310
+Turner, Trea                    253.40      78      29       8      32   0.255   0.989   4.700
+Escobar, Eduardo                242.90       1      52      10       0   0.266   1.000   4.760
+Camargo, Johan                  235.83       8      49      10       0   0.255   0.970   5.430
+Bregman, Alex                   232.70      40      39       9       3   0.274   0.980   4.880
+Hanson, Alen                    227.40      44      29       6       1   0.327   0.970   4.360
+Segura, Jean                    218.75      69      30       4       6   0.262   0.979   5.140
+Gordon, Dee                     218.38       8      20       3       9   0.297   0.974   4.690
+Culberson, Charlie              217.75       0      22       6       0   0.299   1.000   5.400
+Difo, Wilmer                    214.40      44      34       6       2   0.249   0.973   4.340
+Simmons, Andrelton              213.85      80      19       4       4   0.293   0.990   5.040
+DeJong, Paul                    211.83      57      27      11       1   0.232   0.981   5.490
+Marte, Ketel                    209.83      10      23       4       1   0.271   1.000   5.130
+Russell, Addison                205.00      80      34       2       0   0.243   0.965   4.500
+Perez, Hernan                   200.50      16      23       9       0   0.245   0.963   3.480
+Crawford, Brandon               198.30      40      24       6       0   0.221   0.996   4.780
+Arcia, Orlando                  197.90      18      13       2       0   0.291   0.976   4.820
+Baez, Javier                    195.38       2      30      10       5   0.211   0.875   2.550
+Iglesias, Jose                  194.63       8       4       2       0   0.300   1.000   5.250
+Correa, Carlos                  194.63      72      25       5       1   0.217   0.971   4.310
+Hechavarria, Adeiny             190.25      28      17       0       0   0.250   1.000   4.300
+Rojas, Miguel                   189.50      47      19       3       0   0.223   0.991   4.760
+Solarte, Yangervis              184.75       1      19       4       0   0.188   1.000   5.500
+Taylor, Chris                   182.83       3      15       3       0   0.273   0.889   2.770
+Peraza, Jose                    180.88       3       2       1       1   0.261   1.000   4.450
+Romine, Andrew                  178.10      34      14       1       0   0.219   0.970   4.440
+Riddle, J.T.                    158.45       7       1       1       0   0.185   0.952   5.900
+Gyorko, Jedd                    156.75       0      25       8       1   0.267   0.500   1.500
+Valaika, Pat                    137.25       1       1       0       0   0.100   1.000   4.500
+Bote, David                      87.50       0      15       4       0   0.270   0.000   0.000
+Jones, Adam                      80.50       0      11       1       0   0.273   0.000   0.000
+Reyes, Franmil                   78.50       0      16       6       0   0.220   0.000   0.000
+Iannetta, Chris                  42.25       0       4       2       0   0.143   0.000   0.000
+Ahmed, Nick                       0.00       0       0       0       0   0.000   0.000   0.000
+
+Outfield (top 9)
+Player                           Score      GS    RBIs      HR      SB     Avg  Fd Pct   Range
+Davis, Rajai                    357.50       0       0       0       0   1.000   1.000   3.000
+Betts, Mookie                   270.58      80      52      15       7   0.344   0.994   2.270
+Betts, Mookie                   269.25       0      52      15       7   0.344   1.000   1.500
+Trout, Mike                     267.63       0      59      23       2   0.285   1.000   2.450
+Trout, Mike                     265.10      74      59      23       2   0.285   1.000   1.440
+Trout, Mike                     264.03       6      59      23       2   0.285   1.000   1.010
+Soto, Juan                      263.55      68      60      15       0   0.322   1.000   1.720
+Yelich, Christian               263.20      42      47      17       6   0.340   1.000   0.980
+Soto, Juan                      262.50      10      60      15       0   0.322   1.000   1.300
+Zobrist, Ben                    261.45       3      51      10       0   0.378   1.000   1.380
+Zobrist, Ben                    260.60       1      51      10       0   0.378   1.000   1.040
+Yelich, Christian               258.78      24      47      17       6   0.340   0.917   2.530
+Ervin, Phillip                  253.25       0       2       1       0   1.000   0.000   0.000
+Peralta, David                  250.80       4      46      13       0   0.329   1.000   2.520
+Peralta, David                  246.63      63      46      13       0   0.329   0.988   1.330
+Markakis, Nick                  244.00      36      46       7       0   0.343   1.000   1.400
+Acuna Jr., Ronald               241.02      60      46      10       5   0.282   0.993   2.590
+Marte, Starling                 240.28      77      43       6       9   0.294   0.994   2.250
+Bellinger, Cody                 240.23       3      48      13       3   0.273   1.000   1.590
+Bellinger, Cody                 240.20      75      48      13       3   0.273   0.982   2.300
+Acuna Jr., Ronald               239.23       1      46      10       5   0.282   1.000   1.590
+Markakis, Nick                  238.65      41      46       7       0   0.343   0.944   1.500
+Harper, Bryce                   238.13       0      48      17       5   0.226   1.000   2.450
+Bader, Harrison                 235.53      19      38      12       2   0.296   1.000   2.410
+Harper, Bryce                   234.90      30      48      17       5   0.226   1.000   1.160
+Harper, Bryce                   233.73       1      48      17       5   0.226   1.000   0.690
+Bader, Harrison                 233.45      37      38      12       2   0.296   0.988   2.060
+Martinez, Jose                  232.90      18      40       7       0   0.318   1.000   1.860
+Kemp, Matt                      230.78      71      50      12       0   0.249   1.000   1.410
+Bregman, Alex                   230.68       1      39       9       3   0.274   1.000   3.270
+Puig, Yasiel                    229.40      63      40      14       6   0.255   0.975   1.260
+Kemp, Matt                      228.45       2      50      12       0   0.249   1.000   0.480
+Adams, Matt                     227.45       6      37      14       0   0.272   1.000   1.980
+Ozuna, Marcell                  226.90      76      40      14       1   0.263   0.990   1.360
+Martinez, Jose                  226.70       7      40       7       0   0.318   0.938   1.860
+Granderson, Curtis              225.40      53      32      16       0   0.286   0.969   2.000
+Conforto, Michael               223.13      21      37      15       1   0.248   1.000   1.650
+Conforto, Michael               222.65      37      37      15       1   0.248   1.000   1.460
+Cain, Lorenzo                   222.65      66      26       5      12   0.282   0.993   2.240
+Pollock, A.J.                   222.28      52      40      12       1   0.241   1.000   2.310
+Blackmon, Charlie               220.70       1      35       5       2   0.288   1.000   1.980
+Pollock, A.J.                   220.15       7      40      12       1   0.241   1.000   1.460
+Judge, Aaron                    219.98       2      38      10       2   0.244   1.000   2.390
+Hernandez, Kike                 219.25       0      41       9       0   0.238   1.000   3.000
+Conforto, Michael               218.98      14      37      15       1   0.248   0.952   1.910
+Cabrera, Melky                  218.88       1       1       1       0   0.429   1.000   3.750
+Muncy, Max                      218.50      64      37      15       0   0.240   0.982   1.820
+Bregman, Alex                   217.98       0      39       9       3   0.274   0.889   2.630
+Stanton, Giancarlo              217.98      28      34      14       3   0.251   0.971   1.150
+Dickerson, Corey                217.88       0      30       3       0   0.323   1.000   1.350
+Blackmon, Charlie               217.70      79      35       5       2   0.288   0.982   1.500
+Dickerson, Corey                217.40      77      30       3       0   0.323   0.991   1.520
+Stanton, Giancarlo              217.35      20      34      14       3   0.251   0.957   1.460
+Judge, Aaron                    216.40      47      38      10       2   0.244   0.985   1.560
+Cordero, Franchy                215.65       0      29      12       0   0.277   1.000   0.960
+Cordero, Franchy                214.95      49      29      12       0   0.277   0.966   2.040
+Pederson, Joc                   212.98       0      31       8       0   0.266   1.000   2.190
+Pederson, Joc                   210.50      29      31       8       0   0.266   1.000   1.200
+Verdugo, Alex                   210.25       0       2       0       0   0.833   0.000   0.000
+Hernandez, Kike                 210.17      47      41       9       0   0.238   0.952   1.290
+Hamilton, Billy                 209.33      76      18       2      17   0.251   0.989   2.370
+Culberson, Charlie              207.90      47      22       6       0   0.299   1.000   1.460
+Frazier, Adam                   207.88       0      28       7       0   0.259   1.000   2.550
+Frazier, Adam                   203.48       0      28       7       0   0.259   1.000   0.790
+Frazier, Adam                   203.38       0      28       7       0   0.259   1.000   0.750
+Braun, Ryan                     201.55      29      16       7       0   0.289   1.000   1.820
+Cespedes, Yoenis                201.15      42      28      10       0   0.230   1.000   1.260
+Maybin, Cameron                 199.63      80      28       2       5   0.236   0.979   2.390
+Hoskins, Rhys                   199.43       1      27      10       0   0.207   1.000   3.270
+Perez, Hernan                   199.23      12      23       9       0   0.245   0.972   2.610
+Perez, Hernan                   198.70       9      23       9       0   0.245   1.000   1.280
+Braun, Ryan                     198.60       0      16       7       0   0.289   1.000   0.640
+Heyward, Jason                  198.13       0      23       3       0   0.263   1.000   2.250
+Perez, Hernan                   196.75       2      23       9       0   0.245   1.000   0.500
+Munoz, Yairo                    196.60       3      27       5       0   0.241   1.000   1.240
+Bryant, Kris                    195.33       8      23       4       0   0.250   1.000   1.930
+Kendrick, Howie                 195.23       3      14       2       0   0.287   1.000   2.790
+Gamel, Ben                      194.83       0      21       2       0   0.274   1.000   1.130
+Heyward, Jason                  194.73      63      23       3       0   0.263   0.970   2.090
+Nimmo, Brandon                  194.38      19      17       3       1   0.267   1.000   2.250
+Winker, Jesse                   194.20      30      16       3       0   0.287   1.000   1.080
+Muncy, Max                      193.75       4      37      15       0   0.240   0.750   1.200
+Parra, Gerardo                  193.40      27      17       2       4   0.261   1.000   1.460
+Taylor, Michael A.              193.28      32      18       4       4   0.242   1.000   1.910
+Taylor, Michael A.              193.20      11      18       4       4   0.242   1.000   1.880
+Nimmo, Brandon                  193.03      13      17       3       1   0.267   1.000   1.710
+Parra, Gerardo                  192.85       3      17       2       4   0.261   1.000   1.240
+McCutchen, Andrew               192.60      28      25       6       5   0.195   1.000   2.040
+Inciarte, Ender                 192.48      56      25       3       2   0.246   0.959   1.530
+Nimmo, Brandon                  192.18       2      17       3       1   0.267   1.000   1.370
+Taylor, Chris                   191.98      17      15       3       0   0.273   1.000   1.990
+Herrera, Odubel                 191.63       4      15       6       0   0.256   1.000   2.050
+Bote, David                     191.60       2      15       4       0   0.270   1.000   1.640
+Jankowski, Travis               190.88       0      19       2       6   0.224   1.000   2.350
+Taylor, Chris                   190.30       5      15       3       0   0.273   1.000   1.320
+McCutchen, Andrew               189.98      48      25       6       5   0.195   0.986   1.550
+Jankowski, Travis               188.58      51      19       2       6   0.224   1.000   1.430
+Herrera, Odubel                 188.20       0      15       6       0   0.256   1.000   0.680
+Myers, Wil                      187.90       0       8       1       4   0.273   1.000   2.160
+Jones, Adam                     185.65      19      11       1       0   0.273   1.000   2.060
+Myers, Wil                      185.53       2       8       1       4   0.273   1.000   1.210
+Altherr, Aaron                  184.30       2      13       5       0   0.243   1.000   1.720
+Gamel, Ben                      184.28       4      21       2       0   0.274   0.875   1.910
+Jones, Adam                     183.00       0      11       1       0   0.273   1.000   1.000
+Altherr, Aaron                  182.95      15      13       5       0   0.243   1.000   1.180
+Herrera, Odubel                 182.80      20      15       6       0   0.256   0.929   1.360
+Jankowski, Travis               182.65       0      19       2       6   0.224   0.917   2.380
+Almora Jr., Albert              178.35      13      17       0       0   0.222   1.000   2.340
+Almora Jr., Albert              177.05       1      17       0       0   0.222   1.000   1.820
+Slater, Austin                  176.35       8       8       0       1   0.265   0.950   2.340
+Reyes, Franmil                  175.63      17      16       6       0   0.220   0.944   1.090
+Dahl, David                     174.88       0      15       4       0   0.195   1.000   2.450
+Almora Jr., Albert              173.05      22      17       0       0   0.222   0.969   1.460
+Descalso, Daniel                172.95       4       4       0       0   0.273   1.000   0.280
+Dahl, David                     172.75      28      15       4       0   0.195   1.000   1.600
+Polanco, Gregory                170.13       4      16       3       1   0.176   1.000   2.050
+Slater, Austin                  168.88       3       8       0       1   0.265   0.909   0.990
+Reyes, Franmil                  168.13       3      16       6       0   0.220   0.857   1.570
+Winker, Jesse                   167.70       8      16       3       0   0.287   0.750   0.480
+Happ, Ian                       167.50       0      14       5       0   0.179   1.000   1.000
+Polanco, Gregory                166.50      36      16       3       1   0.176   0.981   1.360
+Happ, Ian                       166.38       1      14       5       0   0.179   1.000   0.550
+Margot, Manuel                  166.00       0      10       0       3   0.155   1.000   5.400
+Duvall, Adam                    164.95      68      19       4       0   0.145   1.000   1.880
+Belt, Brandon                   164.08       0       8       1       1   0.206   1.000   0.830
+Herrera, Rosell                 163.50       1       5       1       0   0.211   1.000   1.800
+Renfroe, Hunter                 162.30       4       8       4       0   0.191   1.000   0.620
+Renfroe, Hunter                 161.40       5       8       4       0   0.191   1.000   0.260
+Desmond, Ian                    161.05       6       8       2       0   0.192   1.000   1.020
+Yelich, Christian               160.75       0      47      17       6   0.340   0.000   0.000
+Dyson, Jarrod                   160.10       4       2       0       9   0.148   1.000   3.940
+Brinson, Lewis                  159.95      15       7       2       0   0.186   1.000   1.580
+Margot, Manuel                  159.20       6      10       0       3   0.155   1.000   2.680
+Dyson, Jarrod                   159.18       1       2       0       9   0.148   1.000   3.570
+Souza Jr., Steven               158.55      28      14       4       0   0.155   0.974   1.360
+Dyson, Jarrod                   157.75       0       2       0       9   0.148   1.000   3.000
+Schebler, Scott                 157.73       1       2       0       0   0.207   1.000   1.590
+Margot, Manuel                  157.38      32      10       0       3   0.155   1.000   1.950
+Schebler, Scott                 156.45       0       2       0       0   0.207   1.000   1.080
+Desmond, Ian                    154.23       6       8       2       0   0.192   0.923   1.370
+Schwarber, Kyle                 154.08       3      10       3       0   0.141   1.000   2.030
+Santana, Domingo                153.50       0       0       0       0   0.154   1.000   6.000
+Eaton, Adam                     152.28       8       6       1       0   0.167   1.000   1.310
+Quinn, Roman                    152.25       0       1       1       0   0.600   0.000   0.000
+Quinn, Roman                    152.25       0       1       1       0   0.600   0.000   0.000
+Anderson, Brian                 152.18       8       9       2       0   0.145   1.000   1.770
+Schwarber, Kyle                 151.15       7      10       3       0   0.141   1.000   0.860
+Anderson, Brian                 150.93      25       9       2       0   0.145   1.000   1.270
+Cuevas, Noel                    141.73       2       2       0       0   0.156   1.000   0.290
+Pirela, Jose                    141.63       0       2       0       0   0.091   1.000   6.750
+Belt, Brandon                   141.40       0       8       1       1   0.206   0.750   1.760
+Santana, Domingo                140.65       2       0       0       0   0.154   1.000   0.860
+Puig, Yasiel                    128.75       0      40      14       6   0.255   0.000   0.000
+LaMarre, Ryan                   125.00       0       0       0       0   0.500   0.000   0.000
+Sierra, Magneuris               125.00       0       0       0       0   0.500   0.000   0.000
+Sierra, Magneuris               125.00       0       0       0       0   0.500   0.000   0.000
+Granderson, Curtis              123.50       0      32      16       0   0.286   0.000   0.000
+Orlando, Paulo                  120.83       4       0       0       0   0.059   1.000   2.430
+Cain, Lorenzo                   117.75       0      26       5      12   0.282   0.000   0.000
+Judge, Aaron                    114.00       1      38      10       2   0.244   0.000   0.000
+Hernandez, Kike                 111.75       1      41       9       0   0.238   0.000   0.000
+Gordon, Dee                     109.25       0      20       3       9   0.297   0.000   0.000
+Thames, Eric                    106.25       0       5       1       0   0.400   0.000   0.000
+O'Neill, Tyler                  105.00       1       0       0       0   0.000   1.000   2.000
+Hamilton, Billy                 104.50       0      18       2      17   0.251   0.000   0.000
+Culberson, Charlie              104.25       0      22       6       0   0.299   0.000   0.000
+Brito, Socrates                 103.98       2       0       0       0   0.000   1.000   1.590
+Duggar, Steven                  102.05       1       0       0       0   0.000   1.000   0.820
+Gentry, Craig                   100.78       0       0       0       0   0.125   0.667   1.130
+Pirela, Jose                     93.95       2       2       0       0   0.091   0.667   1.000
+Munoz, Yairo                     93.50       0      27       5       0   0.241   0.000   0.000
+Gamel, Ben                       92.00       1      21       2       0   0.274   0.000   0.000
+Bryant, Kris                     90.50       0      23       4       0   0.250   0.000   0.000
+Parra, Gerardo                   89.75       0      17       2       4   0.261   0.000   0.000
+Kendrick, Howie                  88.25       1      14       2       0   0.287   0.000   0.000
+Hedges, Austin                   87.50       0      27       7       0   0.207   0.000   0.000
+Taylor, Chris                    87.00       1      15       3       0   0.273   0.000   0.000
+Moran, Colin                     84.50       0      11       4       0   0.274   0.000   0.000
+Altherr, Aaron                   80.00       1      13       5       0   0.243   0.000   0.000
+Rivera, Yadiel                   69.25       0       1       0       0   0.273   0.000   0.000
+Dahl, David                      68.75       0      15       4       0   0.195   0.000   0.000
+Herrera, Rosell                  59.00       0       5       1       0   0.211   0.000   0.000
+Herrera, Rosell                  59.00       0       5       1       0   0.211   0.000   0.000
+Souza Jr., Steven                57.75       0      14       4       0   0.155   0.000   0.000
+Brinson, Lewis                   56.00       1       7       2       0   0.186   0.000   0.000
+Brinson, Lewis                   56.00       0       7       2       0   0.186   0.000   0.000
+Woodruff, Brandon                42.75       0       1       0       0   0.167   0.000   0.000
+Cuevas, Noel                     41.00       0       2       0       0   0.156   0.000   0.000
+Cuevas, Noel                     41.00       1       2       0       0   0.156   0.000   0.000
+Gentry, Craig                    31.25       0       0       0       0   0.125   0.000   0.000
+Kelly, Carson                    21.75       0       2       0       0   0.079   0.000   0.000
+Williams, Nick                    0.00       0       0       0       0   0.000   0.000   0.000
+Duggar, Steven                    0.00       0       0       0       0   0.000   0.000   0.000
+Brito, Socrates                   0.00       0       0       0       0   0.000   0.000   0.000
+Robles, Victor                    0.00       0       0       0       0   0.000   0.000   0.000
+Robles, Victor                    0.00       0       0       0       0   0.000   0.000   0.000

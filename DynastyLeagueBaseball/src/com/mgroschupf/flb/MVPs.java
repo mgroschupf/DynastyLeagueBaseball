@@ -1,5 +1,6 @@
 package com.mgroschupf.flb;
 
+import java.io.File;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
@@ -15,6 +16,13 @@ public class MVPs {
 		league.connect();
 	}
 	
+	/**
+	 * Load the league data from HTML files instead of online.
+	 */
+	public MVPs(List<File> leagueData) {
+		league = new League(leagueData);
+	}
+
 	class Stats {
 		private ArrayList<Object> statLine;
 		
@@ -54,10 +62,18 @@ public class MVPs {
 				stat1 = temp;
 			}
 			if (stat1 instanceof Integer) {
-				return ((Integer) stat1).compareTo((Integer) stat2);
+				int val = ((Integer) stat1).compareTo((Integer) stat2);
+				if (val != 0) {
+					return val;
+				}
+				return ((Player) arg0.get(0)).getName().compareTo(((Player) arg1.get(0)).getName());
 			}
 			if (stat1 instanceof Double) {
-				return ((Double) stat1).compareTo((Double) stat2);
+				int val = ((Double) stat1).compareTo((Double) stat2);
+				if (val != 0) {
+					return val;
+				}
+				return ((Player) arg0.get(0)).getName().compareTo(((Player) arg1.get(0)).getName());
 			}
 			return 0;
 		}
@@ -243,7 +259,7 @@ public class MVPs {
 			System.out.println(line);
 		}
 	}
-	
+
 	public static void main(String[] args) {
 		MVPs mvps = new MVPs();
 		mvps.cyYoung();
