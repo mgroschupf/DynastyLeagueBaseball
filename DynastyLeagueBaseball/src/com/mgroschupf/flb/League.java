@@ -13,7 +13,8 @@ import org.jsoup.select.Elements;
 
 public class League {
 	
-	String leagueNum = "105324"; // Changes every year
+	// https://www.dynastyleaguebaseball.com/League.aspx?OrgID=114243
+	String leagueNum = "114243"; // Changes every year
 	String baseUrl = "https://www.dynastyleaguebaseball.com/";
 	String url = baseUrl + "League.aspx?OrgID=" + leagueNum;
 	Document doc = null;
@@ -29,7 +30,11 @@ public class League {
 	
 	public void connect() {
 		try {
-			System.setProperty("javax.net.ssl.trustStore", "C:/Users/GRO4525/Downloads/dst.jks");
+			// Login to https://www.dynastyleaguebaseball.com/
+			// Goto league page
+			// (In chrome) Click on lock and select Certificate, save to file dst.cer
+			// keytool -importcert -file dst.cer -keystore dsk.jks -alias DynastyLeagueBaseball
+			System.setProperty("javax.net.ssl.trustStore", "C:/Users/Mike/Downloads/dst.jks");
 			doc = Jsoup.connect(url).get();
 			// System.out.println(doc.toString());
 			Elements elements = doc.select("a[href]");

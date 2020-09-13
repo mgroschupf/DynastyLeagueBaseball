@@ -18,6 +18,8 @@ public class Team {
 	String owner;
 	League league;
 	ArrayList<Player> players = new ArrayList<Player>();
+	
+	static int SCRIPT_INDEX = 12;
 
 	public void setName(String teamName) {
 		this.name = teamName;
@@ -155,17 +157,25 @@ public class Team {
 		return players;
 	}
 	
+	public int[] getPositionIndices() {
+		int[] indices = new int[9];
+		for (int i = 0; i < indices.length; i++) {
+			indices[i] = i + Team.SCRIPT_INDEX;
+		}
+		return indices;
+	}
+	
 	public void connect() {
 		try {
 			//if (number.equals("12")) {
 				// BATTERS
-				addPlayers(getBattingStatsUrl(), 10, Player.BATTER);
+				addPlayers(getBattingStatsUrl(), Team.SCRIPT_INDEX, Player.BATTER);
 				
 				// PITCHERS
-				addPlayers(getPitchingStatsUrl(), 10, Player.PITCHER);
+				addPlayers(getPitchingStatsUrl(), Team.SCRIPT_INDEX, Player.PITCHER);
 
 				// FIELDERS
-				int[] indices = new int[] {10, 11, 12, 13, 14, 15, 16, 17, 18};
+				int[] indices = getPositionIndices();
 				addPlayers(getFieldingStatsUrl(), indices, Player.FIELDER);
 			//}
 		} catch (IOException e) {
@@ -176,11 +186,11 @@ public class Team {
 	
 	public void readLeagueData(List<File> leagueData) {
 		// BATTERS
-		addPlayers(getBattingStatsFile(leagueData), 10, Player.BATTER);
+		addPlayers(getBattingStatsFile(leagueData), Team.SCRIPT_INDEX, Player.BATTER);
 		// PITCHERS
-		addPlayers(getPitchingStatsFile(leagueData), 10, Player.PITCHER);
+		addPlayers(getPitchingStatsFile(leagueData), Team.SCRIPT_INDEX, Player.PITCHER);
 		// FIELDERS
-		int[] indices = new int[] {10, 11, 12, 13, 14, 15, 16, 17, 18};
+		int[] indices = getPositionIndices();
 		addPlayers(getFieldingStatsFile(leagueData), indices, Player.FIELDER);
 	}
 }
