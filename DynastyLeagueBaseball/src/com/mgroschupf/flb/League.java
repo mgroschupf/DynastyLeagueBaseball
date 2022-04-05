@@ -14,7 +14,7 @@ import org.jsoup.select.Elements;
 public class League {
 	
 	// https://www.dynastyleaguebaseball.com/League.aspx?OrgID=114243
-	String leagueNum = "114243"; // Changes every year
+	String leagueNum = "133524"; // Changes every year
 	String baseUrl = "https://www.dynastyleaguebaseball.com/";
 	String url = baseUrl + "League.aspx?OrgID=" + leagueNum;
 	Document doc = null;
@@ -73,6 +73,18 @@ public class League {
 	
 	public String getLeagueNum() {
 		return leagueNum;
+	}
+
+	public List<Player> getPlayers() {
+		ArrayList<Player> list = new ArrayList<Player>();
+		for (Iterator<Team> t = teams.iterator(); t.hasNext(); ) {
+			Team team = t.next();
+			for (Iterator<Player> p = team.getPlayers().iterator(); p.hasNext(); ) {
+				Player player = p.next();
+				list.add((Batter) player);
+			}
+		}
+		return list;
 	}
 
 	public List<Batter> getBatters() {

@@ -10,7 +10,8 @@ import java.util.List;
 public class MVPs {
 	
 	League league = null;
-	
+	List<Stats> allStats = new ArrayList<Stats>();
+ 	
 	public MVPs() {
 		league = new League();
 		league.connect();
@@ -125,6 +126,10 @@ public class MVPs {
 		for (Iterator<Fielder> f = fielders.iterator(); f.hasNext(); ) {
 			Fielder fielder = f.next();
 			Batter batter = league.getBatter(fielder);
+			if (batter == null) {
+				System.out.println("Batter not found for " + fielder);
+				continue;
+			}
 			ArrayList<Object> player = new ArrayList<Object>();
 			player.add(fielder);
 			int games = fielder.getGamesStarted();
@@ -154,6 +159,7 @@ public class MVPs {
 			player.add(rf);
 			player.add(csPct);
 			
+			boolean ignore = false;
 			Stats stats = new Stats(player);
 			if (fielder.getPosition() == Fielder.CATCHER) {
 				catcher.add(stats);
@@ -167,6 +173,12 @@ public class MVPs {
 				shortstop.add(stats);
 			} else if (fielder.getPosition() == Fielder.LEFT_FIELD || fielder.getPosition() == Fielder.CENTER_FIELD || fielder.getPosition() == Fielder.RIGHT_FIELD){
 				outfield.add(stats);
+			} else {
+				ignore = true;
+			}
+			
+			if (!ignore) {
+				allStats.add(stats);
 			}
 		}
 		
@@ -211,6 +223,7 @@ public class MVPs {
 			if (wins > 0 || losses > 0) {
 				Stats stats = new Stats(player);
 				starters.add(stats);
+				allStats.add(stats);
 			}
 		}
 		
@@ -259,11 +272,24 @@ public class MVPs {
 			System.out.println(line);
 		}
 	}
+	
+	public void mvp() {
+		ArrayList<Stats> stats = (ArrayList) allStats;
+		rank(stats, 1, false, 0.0);
+		System.out.println("\nMVP (top 10)");
+		System.out.println("Player                           Score");
+		for (Iterator<Stats> s = stats.iterator(); s.hasNext(); ) {
+			Stats stat = s.next();
+			String line = String.format("%-30s %7.2f", stat.get(0), stat.get(1));
+			System.out.println(line);
+		}
+	}
 
 	public static void main(String[] args) {
 		MVPs mvps = new MVPs();
 		mvps.cyYoung();
 		mvps.rolaids();
 		mvps.fielders();
+		mvps.mvp();
 	}
 }
