@@ -86,21 +86,27 @@ public class Statistics {
 	
 	public void readHitting(String filename) {
 		hittingRecords = new ArrayList<>();
-		read(filename, hittingRecords);
+		read(false, filename, hittingRecords);
+	}
+
+	public void readHitting(boolean isMLB, String filename) {
+		hittingRecords = new ArrayList<>();
+		read(isMLB, filename, hittingRecords);
 	}
 	
 	public void readPitching(String filename) {
 		pitchingRecords = new ArrayList<>();
-		read(filename, pitchingRecords);
+		read(false, filename, pitchingRecords);
 	}
 
-	void read(String filename, ArrayList<ArrayList<String>> records) {
+	void read(boolean isMLB, String filename, ArrayList<ArrayList<String>> records) {
 		try {
 			BufferedReader br =
 				new BufferedReader(new FileReader(filename));
 			String line;
 			ArrayList<String> headers = null;
 			boolean headerFound = false;
+			String rank = null, name = null, position = null;
 			while ((line = br.readLine()) != null) {
 				String [] tokens = line.split("\\t+");
 				if (line.startsWith("Player")) {
@@ -110,17 +116,47 @@ public class Statistics {
 					headers.add("Rank");
 					records.add(headers);
 					headerFound = true;
-				} else if (line.length() > 0 && headerFound && tokens.length > 1) {
-					// Read data
-					ArrayList<String> data = new ArrayList<>(Arrays.asList(tokens));
-					// Add ranking
-					data.add("0");
-					records.add(data);
+				} else if (line.length() > 0 && headerFound && tokens.length > 0) {
+					if (tokens.length == 1) {
+						// Rank, name (FirstLast) and position
+						if (rank == null) {
+							rank = tokens[0]; // Ignore
+						} else if (name == null) {
+							name = tokens[0];
+						} else if (position == null) {
+							position = tokens[0];
+						}
+					} else if (tokens.length > 1) {
+						// Read data
+						ArrayList<String> data = new ArrayList<>(Arrays.asList(tokens));
+						// Add ranking
+						data.add("0");
+						// Check for name and team
+						if (name != null) {
+							data.add(0, position);
+							data.add(0, parseName(name));
+						}
+						records.add(data);
+						rank = null;
+						name = null;
+						position = null;
+					}
 				}
 			}
 			br.close();
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
+	}
+	
+	String parseName(String name) {
+		String newName = "";
+		for (int i=0; i < name.length(); i++) {
+			if (Character.isUpperCase(name.charAt(i))) {
+				newName += " ";
+			}
+			newName += name.charAt(i);
+		}
+		return newName.trim();
 	}
 }

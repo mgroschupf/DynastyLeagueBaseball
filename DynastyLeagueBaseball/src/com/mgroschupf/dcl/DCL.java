@@ -3,13 +3,21 @@ package com.mgroschupf.dcl;
 import java.util.List;
 
 import javax.swing.JFrame;
+import javax.swing.JPanel;
 import javax.swing.JScrollPane;
+import javax.swing.JTabbedPane;
 import javax.swing.JTable;
+import javax.swing.JTextArea;
 import javax.swing.WindowConstants;
 import javax.swing.table.AbstractTableModel;
 
+import com.mgroschupf.flb.MVPs;
+
+import java.awt.BorderLayout;
 import java.awt.Dimension;
 import java.awt.GridLayout;
+import java.io.ByteArrayOutputStream;
+import java.io.PrintStream;
 import java.util.ArrayList;
 import java.util.Iterator;
 
@@ -20,6 +28,9 @@ public class DCL extends JFrame {
 	ArrayList<ArrayList<String>> pitcherData = new ArrayList<>();
 	ArrayList<ArrayList<String>> hitterData = new ArrayList<>();
 	Statistics stats = null;
+
+	JPanel draft = new JPanel();
+	JPanel mvp = new JPanel();
 	
 	public Object getValue(String value) {
 		if (value != null && value.length() > 0) {
@@ -92,9 +103,17 @@ public class DCL extends JFrame {
         }
 	}
 
-	public DCL(Statistics stats) {
-		setLayout(new GridLayout(2,1));
+	public DCL() {
+		draft.setLayout(new GridLayout(2,1));
+		JScrollPane mvpScroll = new JScrollPane(mvp);
+		JTabbedPane tabbedPane = new JTabbedPane();
+		tabbedPane.addTab("Draft", draft);
+		tabbedPane.addTab("MVPs", mvpScroll);
+		setLayout(new BorderLayout());
+		add(tabbedPane, BorderLayout.CENTER);
+	}
 		
+	public void setDraftStats(Statistics stats) {
 		this.stats = stats;
 		List<Player> players = Player.getPlayers();
 		for (Iterator<Player> i = players.iterator(); i.hasNext(); ) {
@@ -115,33 +134,47 @@ public class DCL extends JFrame {
 		pitchers.setFillsViewportHeight(true);
 		pitchers.setAutoCreateColumnsFromModel(true);
 		pitchers.setAutoCreateRowSorter(true);
-		add(new JScrollPane(pitchers));
+		draft.add(new JScrollPane(pitchers));
 
 		JTable hitters = new JTable(new HitterModel());
 		hitters.setPreferredScrollableViewportSize(new Dimension(500, 70));
 		hitters.setFillsViewportHeight(true);
 		hitters.setAutoCreateColumnsFromModel(true);
 		hitters.setAutoCreateRowSorter(true);
-		add(new JScrollPane(hitters));
+		draft.add(new JScrollPane(hitters));
 		pack();
+	}
+	
+	public void setMVPStats() {
+		final ByteArrayOutputStream outContent = new ByteArrayOutputStream();
+		final PrintStream originalOut = System.out;
+	    System.setOut(new PrintStream(outContent));
+		// MVP standings
+		MVPs mvps = new MVPs();
+		mvps.cyYoung();
+		mvps.rolaids();
+		mvps.fielders();
+		mvps.mvp();
+	    System.setOut(originalOut);
+	    
+	    JTextArea textArea = new JTextArea(outContent.toString());
+	    mvp.add(textArea, BorderLayout.CENTER);
 	}
 
 	public static void main(String[] args) {
 		// Ranked players
 		All all = new All("C:\\Users\\Mike\\Documents\\github\\DynastyLeagueBaseball\\DynastyLeagueBaseball\\src\\All.txt");
-		// All all = new All("C:\\Users\\Mike\\git\\DynastyLeagueBaseball\\DCLBaseball\\src\\All.txt");
 		all.open();
 		// Top 300 players available to draft
 		Available available = new Available("C:\\Users\\Mike\\Documents\\github\\DynastyLeagueBaseball\\DynastyLeagueBaseball\\src\\Available.txt");
-		// Available available = new Available("C:\\Users\\Mike\\git\\DynastyLeagueBaseball\\DCLBaseball\\src\\Available.txt");
 		available.open();
 		// Drafted players
 		Selected selected = new Selected("C:\\Users\\Mike\\Documents\\GitHub\\DynastyLeagueBaseball\\DynastyLeagueBaseball\\src\\Selected.txt");
-		// Selected selected = new Selected("C:\\Users\\Mike\\git\\DynastyLeagueBaseball\\DCLBaseball\\src\\Selected.txt");
 		selected.open();
 		// Hitter and Pitcher stats from https://www.rotowire.com/baseball/stats.php
 		Statistics stats = new Statistics();
 		stats.readHitting("C:\\Users\\Mike\\Documents\\github\\DynastyLeagueBaseball\\DynastyLeagueBaseball\\src\\mlb-player-stats-Batters.csv");
+		// stats.readHitting(true, "C:\\Users\\Mike\\Documents\\github\\DynastyLeagueBaseball\\DynastyLeagueBaseball\\src\\mlb-player-stats-Batters.txt");
 		stats.readPitching("C:\\Users\\Mike\\Documents\\github\\DynastyLeagueBaseball\\DynastyLeagueBaseball\\src\\mlb-player-stats-P.csv");
 		// Loop through the players and rank those that are available
 		List<Player> players = Player.getPlayers();
@@ -166,7 +199,10 @@ public class DCL extends JFrame {
 			}
 		}
 		// Display
-		DCL dcl = new DCL(stats);
+		DCL dcl = new DCL();
+		dcl.setDraftStats(stats);
+		dcl.setMVPStats();
+		
 		dcl.setVisible(true);
 		dcl.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
 	}
