@@ -143,6 +143,13 @@ public class Player {
 	public String getLastTeam() {
 		return lastTeam;
 	}
+	
+	/**
+	 * Current team (NL).
+	 */
+	public String getTeam() {
+		return teamName;
+	}
 
 	public boolean equals(Object obj) {
 		if (obj == null || !(obj instanceof Player)) {

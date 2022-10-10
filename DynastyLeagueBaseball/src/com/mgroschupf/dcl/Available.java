@@ -44,7 +44,7 @@ public class Available {
 						p = Player.addPlayer(tokens[1], tokens[2], 0, team, null);
 						p.setLastTeam(team);
 					} else {
-						p = Player.addPlayer(tokens[1], tokens[0], 0, tokens[2], tokens[4]);
+						p = Player.addPlayer(tokens[1], tokens[0], 0, tokens[3], tokens[4]);
 						p.setLastTeam(tokens[2]);
 					}
 					if (p != null) {
