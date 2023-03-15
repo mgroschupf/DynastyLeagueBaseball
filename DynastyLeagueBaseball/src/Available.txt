@@ -1,278 +1,312 @@
-Dayton	Grant	Atlanta	Atlanta	LHP
-Matzek	Tyler	Atlanta	Atlanta	LHP
-Minter	A.J.	Atlanta	Atlanta	LHP
-Morton	Charlie	Tampa Bay	Atlanta	RHP
-Smyly	Drew	San Francisco	Atlanta	LHP
-Toussaint	Touki	Atlanta	Atlanta	RHP
-Wilson	Bryse	Atlanta	Atlanta	RHP
-Ynoa	Huascar	Atlanta	Atlanta	RHP
-Contreras	William	Atlanta	Atlanta	C
-Almonte	Abraham	San Diego	Atlanta	Outfield
-Bass	Anthony	Toronto	Miami	RHP
-Bleier	Richard	Miami	Miami	LHP
-Castano	Daniel	Miami	Miami	LHP
-Cimber	Adam	Cleveland	Miami	RHP
-Detwiler	Ross	Chicago (A)	Miami	LHP
-Hoyt	James	Miami	Miami	RHP
-Neidert	Nick	Miami	Miami	RHP
-Rogers	Trevor	Miami	Miami	LHP
-Leon	Sandy	Cleveland	Miami	C
-Alvarez	Eddy	Miami	Miami	Infield
-Chisholm	Jazz	Miami	Miami	Infield
-Diaz	Lewin	Miami	Miami	Infield
-Harrison	Monte	Miami	Miami	Outfield
-Sanchez	Jesus	Miami	Miami	Outfield
-Barnes	Jacob	Anaheim	New York (N)	RHP
-Betances	Dellin	New York (N)	New York (N)	RHP
-Carrasco	Carlos	Cleveland	New York (N)	RHP
-Castro	Miguel	New York (N)	New York (N)	RHP
-Kilome	Franklyn	New York (N)	New York (N)	RHP
-May	Trevor	Minnesota	New York (N)	RHP
-Oswalt	Corey	New York (N)	New York (N)	RHP
-Peterson	David	New York (N)	New York (N)	LHP
-Smith	Drew	New York (N)	New York (N)	RHP
-Tarpley	Stephen	Miami	New York (N)	LHP
-McCann	James	Chicago (A)	New York (N)	C
-Sanchez	Ali	New York (N)	St. Louis	C
-Drury	Brandon	Toronto	New York (N)	Infield
-Martinez	Jose	Chicago (N)	New York (N)	Infield
-Peraza	Jose	Boston	New York (N)	INF/OF
-Smith	Mallex	Seattle	New York (N)	Outfield
-Alvarado	Jose	Tampa Bay	Philadelphia	LHP
-Brogdon	Connor	Philadelphia	Philadelphia	RHP
-Hale	David	Philadelphia	Philadelphia	RHP
-Romero	JoJo	Philadelphia	Philadelphia	LHP
-Rosso	Ramon	Philadelphia	Philadelphia	RHP
-Marchan	Rafael	Philadelphia	Philadelphia	C
-Moniak	Mickey	Philadelphia	Philadelphia	Outfield
-Avilan	Luis	New York (A)	Washington	LHP
-Bacus	Dakota	Washington	Washington	RHP
-Braymer	Ben		Washington	Washington	LHP
-Finnegan	Kyle	Washington	Washington	RHP
-McGowin	Kyle	Washington	Washington	RHP
-Garcia	Luis	Washington	Washington	Infield
-Harrison	Josh	Washington	Washington	INF/OF
-Noll	Jake	Washington	Washington	Infield
-Hernandez	Yadiel	Washington	Washington	Outfield
-Stevenson	Andrew	Washington	Washington	Outfield
-Alzolay	Adbert	Chicago (N)	Chicago (N)	RHP
-Holder	Jonathan	New York (A)	Chicago (N)	RHP
-Mills	Alec	Chicago (N)	Chicago (N)	RHP
-Rea	Colin	Chicago (N)	Chicago (N)	RHP
-Stock	Robert	Boston	Chicago (N)	RHP
-Underwood Jr.	Duane	Chicago (N)	Pittsburgh	RHP
-Romine	Austin	Detroit	Chicago (N)	C
-Schrock	Max	St. Louis	Cincinnati	Infield
-Vargas	Ildemaro	Chicago (N)	Chicago (N)	Infield
-Hermosillo	Michael	Anaheim	Chicago (N)	Outfield
-Antone	Tejay	Cincinnati	Cincinnati	RHP
-Osich	Josh	Chicago (N)	Cincinnati	LHP
-Ramirez	Noe	Anaheim	Cincinnati	RHP
-Grullon	Deivy	Boston	Cincinnati	C
-Stephenson	Tyler	Cincinnati	Cincinnati	C
-Garcia	Jose	Cincinnati	Cincinnati	Infield
-Heineman	Scott	Texas	Cincinnati	INF/OF
-Payton	Mark	Cincinnati	Cincinnati	Outfield
-Smith Jr. 	Dwight	Baltimore	Cincinnati	Outfield
-Feyereisen	J.P.	Milwaukee	Milwaukee	RHP
-Lindblom	Josh	Milwaukee	Milwaukee	RHP
-Milner	Hoby	Anaheim	Milwaukee	LHP
-Rasmussen	Drew	Milwaukee	Milwaukee	RHP
-Topa	Justin	Milwaukee	Milwaukee	RHP
-Williams	Devin	Milwaukee	Milwaukee	RHP
-Yardley	Eric	Milwaukee	Milwaukee	RHP
-Nottingham	Jacob	Milwaukee	Milwaukee	C
-Vogelbach	Daniel	Milwaukee	Milwaukee	Infield
-Lopes	Tim	Seattle	Milwaukee	INF/OF
-Mathias	Mark	Milwaukee	Milwaukee	INF/OF
-Robertson	Daniel	San Francisco	Milwaukee	INF/OF
-Taylor	Tyrone	Milwaukee	Milwaukee	Outfield
-Bashlor	Tyler	Pittsburgh	Pittsburgh	RHP
-Brubaker	JT	Pittsburgh	Pittsburgh	RHP
-Crowe	Wil	Washington	Pittsburgh	RHP
-Fulmer	Carson	Baltimore	Cincinnati	RHP
-Hartlieb	Geoff	Pittsburgh	Pittsburgh	RHP
-Howard	Sam	Pittsburgh	Pittsburgh	LHP
-Kuhl	Chad	Pittsburgh	Pittsburgh	RHP
-Ponce	Cody	Pittsburgh	Pittsburgh	RHP
-Stratton	Chris	Pittsburgh	Pittsburgh	RHP
-Perez	Michael	Tampa Bay	Pittsburgh	C
-Susac	Andrew	Pittsburgh	Pittsburgh	C
-Evans	Phillip	Pittsburgh	Pittsburgh	INF/OF
-Gonzalez	Erik	Pittsburgh	Pittsburgh	Infield
-Alford	Anthony	Pittsburgh	Pittsburgh	Outfield
-Oliva	Jared	Pittsburgh	Pittsburgh	Outfield
-Cabrera	Genesis	St. Louis	St. Louis	LHP
-Elledge	Seth	St. Louis	St. Louis	RHP
-Gomber	Austin	St. Louis	Colorado	LHP
-Kim	Kwang-hyun	St. Louis	St. Louis	LHP
-Oviedo	Johan	St. Louis	St. Louis	RHP
-Woodford	Jake	St. Louis	St. Louis	RHP
-Heineman	Tyler	San Francisco	St. Louis	C
-Thomas	Lane	St. Louis	St. Louis	Outfield
-Clark	Taylor	Arizona	Arizona	RHP
-Mejia	Humberto	Miami	Arizona	RHP
-Mella	Keury	Arizona	Arizona	RHP
-Smith	Riley	Arizona	Arizona	RHP
-Widener	Taylor	Arizona	Arizona	RHP
-Holaday	Bryan	Baltimore	Arizona	C
-Mathisen	Wyatt	Arizona	Arizona	Infield
-Rojas	Josh	Arizona	Arizona	INF/OF
-Smith	Pavin	Arizona	Arizona	INF/OF
-Young	Andy	Arizona	Arizona	INF/OF
-Almonte	Yency	Colorado	Colorado	RHP
-Bard	Daniel	Colorado	Colorado	RHP
-Castellani	Ryan	Colorado	Colorado	RHP
-Givens	Mychal	Colorado	Colorado	RHP
-Kinley	Tyler	Colorado	Colorado	RHP
-Fuentes	Josh	Colorado	Colorado	INF/OF
-Gonzalez	Victor	Los Angeles	Los Angeles	LHP
-Knebel	Corey	Milwaukee	Los Angeles	RHP
-Santana	Dennis	Los Angeles	Los Angeles	RHP
-Altavilla	Dan	San Diego	San Diego	RHP
-Clevinger	Mike	San Diego	San Diego	RHP
-Crismatt	Nabil	St. Louis	San Diego	RHP
-Guerra	Javy	San Diego	San Diego	RHP
-Hill	Tim	San Diego	San Diego	LHP
-Johnson	Pierce	San Diego	San Diego	RHP
-Morejon	Adrian	San Diego	San Diego	LHP
-Ramirez	Nick	Detroit	San Diego	LHP
-Snell	Blake	Tampa Bay	San Diego	LHP
-Williams	Taylor	San Diego	San Diego	RHP
-Nola	Austin	San Diego	San Diego	C
-Cronenworth	Jake	San Diego	San Diego	Infield
-Mateo	Jorge	San Diego	San Diego	INF/OF
-Ona	Jorge	San Diego	San Diego	Outfield
-Baragar	Caleb	San Francisco	San Francisco	LHP
-Cueto	Johnny	San Francisco	San Francisco	RHP
-Garcia	Rico	San Francisco	San Francisco	RHP
-Leone	Dominic	Cleveland	San Francisco	RHP
-Menez	Conner	San Francisco	San Francisco	LHP
-Peralta	Wandy	San Francisco	San Francisco	LHP
-Selman	Sam	San Francisco	San Francisco	LHP
-Wisler	Matt	Minnesota	San Francisco	RHP
-Tromp	Chadwick	San Francisco	San Francisco	C
-Ruf	Darin	San Francisco	San Francisco	INF/OF
-Basabe	Luis Alexander	San Francisco	San Francisco	Outfield
-Davis	Jaylin	San Francisco	San Francisco	Outfield
-Hand	Brad	Cleveland	Washington	LHP
-Nova	Ivan	Detroit	Philadelphia	RHP
-Adrianza	Ehire	Minnesota	Atlanta	Infield
-Hudson	Joe	Seattle	Pittsburgh	C
-Castellanos	Humberto	Houston	Arizona	RHP
-Loup	Aaron	Tampa Bay	New York (N)	LHP
-Delmonico	Nicky	Chicago (A)	Cincinnati	Outfield
-Avila	Alex	Minnesota	Washington	C
-Alcantara	Sergio	Detroit	Chicago (N)	Infield
-Pederson	Joc	Los Angeles	Chicago (N)	Outfield
-La Stella	Tommy 	Oakland	San Francisco	Infield
-Wade Jr.	LaMonte	Minnesota	San Francisco	INF/OF
-Soria	Joakim	Oakland	Arizona	RHP
-Strange-Gordon	Dee	Seattle	Cincinnati	INF/OF
-Anderson	Chase	Toronto	Philadelphia	RHP
-Shreve	Chasen	New York (N)	Pittsburgh	LHP
-Jones	Nate	Cincinnati	Atlanta	RHP
-Goodwin	Brian	Cincinnati	Pittsburgh	Outfield
-Demeritte	Travis	Detroit	Atlanta	Outfield
-Hunter	Tommy 	Philadelphia	New York (N)	RHP
-Anderson	Tyler	San Francisco	Pittsburgh	LHP
-McGee	Jake	Los Angeles	San Francisco	LHP
-Duvall	Adam	Atlanta	Miami	Outfield
-Miller	Brad	St. Louis	Philadelphia	Infield
-Curtiss	John	Tampa Bay	Miami	RHP
-Tropeano	Nick	Pittsburgh	San Francisco	RHP
-McFarland	T.J.	Oakland	Washington	LHP
-Cron	C.J.	Detroit	Colorado	Infield
-Mathis	Jeff	Texas	Philadelphia	C
-Bedrosian	Cam	Anaheim	Cincinnati	RHP
-Fisher	Derek	Toronto	Milwaukee	Outfield
-Tinoco	Jesus	Colorado	Colorado	RHP
-Workman	Brandon	Philadelphia	Chicago (N)	RHP
-Naquin	Tyler	Cleveland	Cincinnati	Outfield
-Frazier	Todd	New York (N)	Pittsburgh	Infield
-Walker	Taijuan	Toronto	New York (N)	RHP
-Navarreto	Brian	Miami	Miami	C
-Ravelo	Rangel	St. Louis	Los Angeles	INF/OF
-McCarthy	Joe	San Francisco	San Francisco	Outfield
-Gonzalez	Chi Chi	Colorado	Colorado	RHP
-Kickham	Mike	Boston	Los Angeles	LHP
-Mercer	Jordy	New York (A)	Washington	Infield
-Briceno	Jose	Anaheim	Colorado	C
-Yamaguchi	Shun	Toronto	San Francisco	RHP
-Shaw	Travis	Toronto	Milwaukee	Infield
-Pillar	Kevin	Colorado	New York (N)	Outfield
-Clippard	Tyler	Minnesota	Arizona	RHP
-Gonzalez	Gio	Chicago (A)	Miami	LHP
-Bradley Jr.	Jackie	Boston	Milwaukee	Outfield
-Maybin	Cameron	Chicago (N)	Chicago (N)	Outfield
-Joseph	Caleb	Toronto	New York (N)	C
-Tepera	Ryan	Chicago (N)	Chicago (N)	RHP
+Hoffman	Jeff	Cincinnati	Cincinnati	Pitcher
+Wilson	Justin	Cincinnati	Cincinnati	Pitcher
+Cessa	Luis	Cincinnati	Cincinnati	Pitcher
+Hendrix	Ryan	Cincinnati	Cincinnati	Pitcher
+Santillan	Tony	Cincinnati	Cincinnati	Pitcher
+Gutierrez	Vladimir	Cincinnati	Cincinnati	Pitcher
+Sosa	Edmundo	St.Louis	St.Louis	INF/OF
+Fernandez	Junior	St.Louis	St.Louis	Pitcher
+Whitley	Kodi	St.Louis	St.Louis	Pitcher
+Nootbaar	Lars	St.Louis	St.Louis	OF
+Matz	Steven	Toronto	St.Louis	Pitcher
+McFarland	T.J.	St.Louis	St.Louis	Pitcher
+Heuer	Codi	Chicago (N)	Chicago (N)	Pitcher
+Steele	Justin	Chicago (N)	Chicago (N)	Pitcher
+Nance	Tommy	Chicago (N)	Miami	Pitcher
+Rucker	Michael	Chicago (N)	Chicago (N)	Pitcher
+Thompson	Keegan	Chicago (N)	Chicago (N)	Pitcher
+Madrigal	Nick	Chicago (A)	Chicago (N)	INF
+Schwindel	Frank	Chicago (N)	Chicago (N)	INF
+Wisdom	Patrick	Chicago (N)	Chicago (N)	INF/OF
+Ortega	Rafael	Chicago (N)	Chicago (N)	OF
+Frazier	Clint	New York (A)	Chicago (N)	OF
+Perez	Roberto	Cleveland	Pittsburgh	C/INF
+Gamel	Ben	Pittsburgh	Pittsburgh	INF/OF
+Bednar	David	Pittsburgh	Pittsburgh	Pitcher
+Oviedo	Luis	Pittsburgh	Pittsburgh	Pitcher
+Crowe	Wil	Pittsburgh	Pittsburgh	Pitcher
+Kranick	Max	Pittsburgh	Pittsburgh	Pitcher
+Peters	Dillon	Pittsburgh	Pittsburgh	Pitcher
+Quintana	Jose	San Francisco	Pittsburgh	Pitcher
+Banda	Anthony	Pittsburgh	Pittsburgh	Pitcher
+Underwood Jr.	Duane	Pittsburgh	Pittsburgh	Pitcher
+Park	Hoy	Pittsburgh	Pittsburgh	INF/OF
+Tsutsugo	Yoshi	Pittsburgh	Pittsburgh	INF/OF
+Chavis	Michael	Pittsburgh	Pittsburgh	INF/OF
+Castro	Rodolfo	Pittsburgh	Pittsburgh	INF
+Gustave	Jandel	Milwaukee	Milwaukee	Pitcher
+Lauer	Eric	Milwaukee	Milwaukee	Pitcher
+Sanchez	Miguel	Milwaukee	Milwaukee	Pitcher
+Milner	Hoby	Milwaukee	Milwaukee	Pitcher
+Perdomo	Angel	Milwaukee	Milwaukee	Pitcher
+Ashby	Aaron	Milwaukee	Milwaukee	Pitcher
+Cousins	Jake	Milwaukee	Milwaukee	Pitcher
+Reyes	Pablo	Milwaukee	Milwaukee	INF/OF
+Tellez	Rowdy	Milwaukee	Milwaukee	INF
+Taylor	Tyrone	Milwaukee	Milwaukee	OF
 Peterson	Jace	Milwaukee	Milwaukee	INF/OF
-Jankowski	Travis	Cincinnati	Philadelphia	Outfield
-Davidson	Matt	Cincinnati	Los Angeles	Infield
-Boxberger	Brad	Miami	Milwaukee	RHP
-Difo	Wilmer	Washington	Pittsburgh	Infield
-Marisnick	Jake	New York (N)	Chicago (N)	Outfield
-Nido	Tomas	New York (N)	New York (N)	C
-Tomlin	Josh	Atlanta	Atlanta	RHP
-Melancon	Mark	Atlanta	San Diego	RHP
-Gray	Jon	Colorado	Colorado	RHP
-Cahill	Trevor	San Francisco	PIttsburgh	RHP
-DeSclafani	Anthony	Cincinnati	San Francisco	RHP
-Estevez	Carlos	Colorado	Colorado	RHP
-Webb	Jacob	Atlanta	Atlanta	RHP
-Chafin	Andrew	Chicago (N)	Chicago (N)	LHP
-Wolters	Tony	Colorado	Pittsburgh	C
-Ervin	Phillip	Seattle	Atlanta	Outfield
-Fedde	Erick	Washington	Washington	RHP
-McGee	Jake	Los Angeles	San Francisco	LHP
-Goins	Ryan	Chicago (A)	Atlanta	Infield
-Hoffman	Jeff	Colorado	Cincinnati	RHP
-Houser	Adrian	Milwaukee	Milwaukee	RHP
-Kelly	Joe	Los Angeles	Los Angeles	RHP
-Stammen	Craig	San Diego	San Diego	RHP
-Camargo	Johan	Atlanta	Atlanta	Infield
-Polanco	Gregory	PIttsburgh	Pittsburgh	Outfield
-Quinn	Roman	Philadelphia	Philadelphia	Outfield
-Freeman	Mike	Cleveland	Cincinnati	INF/OF
-Diaz	Jairo	Colorado	Colorado	RHP
-Newcomb	Sean	Atlanta	Atlanta	LHP
-Wood	Alex	Los Angeles	San Francisco	LHP
-Young	Alex	Arizona	Arizona	LHP
-Diaz	Elias	Colorado	Colorado	C
-Gott	Trevor	San Francisco	San Francisco	RHP
-Harris	Will	Washington	Washington	RHP
-Lugo	Seth	New York (N)	New York (N)	RHP
-Voth	Austin	Washington	Washington	RHP
-Beaty	Matt	Los Angeles	Los Angeles	INF/OF
-Joyce	Matt	Miami	Philadelphia	Outfield
-Jackson	Luke	Atlanta	Atlanta	RHP
-Anderson	Brett	Milwaukee	Milwaukee	LHP
-Lauer	Eric	Milwaukee	Milwaukee	LHP
-Miley	Wade	Cincinnati	Cincinnati	LHP
-Farmer	Kyle	Cincinnati	Cincinnati	INF/OF
-Vogt	Stephen	Arizona	Arizona	C
-Wallach	Chad	Miami	Miami	C
-Heredia	Guillermo	New York (N)	Atlanta	Outfield
-Arrieta	Jake	Philadelphia	Chicago (N)	RHP
-Williams	Trevor	Pittsburgh	Chicago (N)	RHP
-Morgan	Adam	Philadelphia	Chicago (N)	LHP
-VanMeter	Josh	Arizona	Arizona	Infield
-Duggar	Steven	San Francisco	San Francisco	Outfield
-Gsellman	Robert	New York (N)	New York (N)	RHP
-Guerra	Javy	Washington	Washington	RHP
-Harper	Ryne	Washington	Washington	RHP
-Perdomo	Luis	San Diego	Milwaukee	RHP
-Sogard	Eric	Milwaukee	Chicago (N)	INF/OF
-Lopez	Yoan	Arizona	Arizona	RHP
-Alexander	Scott	Los Angeles	Los Angeles	LHP
-Sandoval	Pablo	Atlanta	Atlanta	Infield
-Familia	Jeurys	New York (N)	New York (N)	RHP
-Neris	Hector	Philadelphia	Philadelphia	RHP
-Wick	Rowan	Chicago (N)	Chicago (N)	RHP
-Ryan	Kyle	Chicago (N)	Chicago (N)	LHP
-Jackson	Alex	Atlanta	Atlanta	C
-Owings	Chris	Colorado	Colorado	INF/OF
-Coonrod	Sam	San Francisco	San Francisco	RHP
-Ginkel	Kevin	Arizona	Arizona	RHP
-Kipnis	Jason	Chicago (N)	Atlanta	Infield
+Adames	Willy	Milwaukee	Milwaukee	INF
+Renfroe	Hunter	Boston	Milwaukee	OF
+Severino	Pedro	Baltimore	Milwaukee	C
+Brosseau	Mike	Tampa Bay	Milwaukee	INF/OF
+Clay	Sam	Washington	Washington	Pitcher
+Murphy	Patrick	Washington	Washington	Pitcher
+Rogers	Josh	Washington	Washington	Pitcher
+Espino	Paolo	Washington	Washington	Pitcher
+Machado	Andres	Washington	Washington	Pitcher
+Ross	Joe	Washington	Washington	Pitcher
+Adams	Riley	Washington	Washington	C
+Hernandez	Yadiel	Washington	Washington	OF
+Barrera	Tres	Washington	Washington	C
+Escobar	Alcides	Washington	Washington	INF
+Gibson	Kyle	Philadelphia	Philadelphia	Pitcher
+Suarez	Ranger	Philadelphia	Philadelphia	Pitcher
+Knebel	Corey	Los Angeles	Philadelphia	Pitcher
+Falter	Bailey	Philadelphia	Philadelphia	Pitcher
+Coonrod	Sam	Philadelphia	Philadelphia	Pitcher
+Maton	Nick	Philadelphia	Philadelphia	INF
+Williams	Luke	Philadelphia	Philadelphia	INF/OF
+Vierling	Matt	Philadelphia	Philadelphia	INF/OF
+Lucchesi	Joey	New York (N)	New York (N)	Pitcher
+Megill	Tylor	New York (N)	New York (N)	Pitcher
+Castro	Miguel	New York (N)	New York (N)	Pitcher
+Diaz	Yennsy	New York (N)	New York (N)	Pitcher
+Mazeika	Patrick	New York (N)	New York (N)	C/INF
+Canha	Mark	Oakland	New York (N)	INF/OF
+Nido	Tomas	New York (N)	New York (N)	C/INF
+Luzardo	Jesus	Miami	Miami	Pitcher
+Okert	Steven	Miami	Miami	Pitcher
+Head	Louis	Tampa Bay	Miami	Pitcher
+Bender	Anthony	Miami	Miami	Pitcher
+Holloway	Jordan	Miami	Miami	Pitcher
+Neidert	Nick	Miami	Miami	Pitcher
+Poteet	Cody	Miami	Miami	Pitcher
+Campbell	Paul	Miami	Miami	Pitcher
+Pop	Zach	Miami	Miami	Pitcher
+Garrett	Braxton	Miami	Miami	Pitcher
+Henry	Payton	Miami	Miami	C
+Devers	Jose	Miami	Miami	INF
+Fortes	Nick	Miami	Miami	C
+De La Cruz	Bryan	Miami	Miami	OF
+Wendle	Joey	Tampa Bay	Miami	INF
+Jackson	Luke	Atlanta	Atlanta	Pitcher
+Davidson	Tucker	Atlanta	Atlanta	Pitcher
+Leone	Dominic	San Francisco	San Francisco	Pitcher
+Littell	Zack	San Francisco	San Francisco	Pitcher
+Cobb	Alex	Anaheim	San Francisco	Pitcher
+Alvarez	Jose	San Francisco	San Francisco	Pitcher
+Doval	Camilo	San Francisco	San Francisco	Pitcher
+Jackson	Jay	San Francisco	San Francisco	Pitcher
+Long	Sam	San Francisco	San Francisco	Pitcher
+Brebbia	John	San Francisco	San Francisco	Pitcher
+Vosler	Jason	San Francisco	San Francisco	INF/OF
+Estrada	Thairo	San Francisco	San Francisco	INF/OF
+Garcia	Luis	St.Louis	San Diego	Pitcher
+Adams	Austin	San Diego	San Diego	Pitcher
+Weathers	Ryan	San Diego	San Diego	Pitcher
+Knehr	Reiss	San Diego	San Diego	Pitcher
+Bickford	Phil	Los Angeles	Los Angeles	Pitcher
+Vesia	Alex	Los Angeles	Los Angeles	Pitcher
+Bruihl	Justin	Los Angeles	Los Angeles	Pitcher
+Cleavinger	Garrett	Los Angeles	Los Angeles	Pitcher
+Phillips	Evan	Los Angeles	Los Angeles	Pitcher
+Heaney	Andrew	New York (A)	Los Angeles	Pitcher
+White	Mitch	Los Angeles	Los Angeles	Pitcher
+McKinstry	Zach	Los Angeles	Los Angeles	INF/OF
+Estevez	Carlos	Colorado	Colorado	Pitcher
+Sheffield	Jordan	Colorado	Colorado	Pitcher
+Gilbreath	Lucas	Colorado	Colorado	Pitcher
+Goudeau	Ashton	Colorado	Colorado	Pitcher
+Bowden	Ben	Colorado	Colorado	Pitcher
+Chacin	Jhoulys	Colorado	Colorado	Pitcher
+Daza	Yonathan	Colorado	Colorado	OF
+Trejo	Alan	Colorado	Colorado	INF
+Joe	Connor	Colorado	Colorado	INF/OF
+Welker	Colton	Colorado	Colorado	INF
+Nunez	Dom	Colorado	Colorado	C/INF
+Castellanos	Humberto	Arizona	Arizona	Pitcher
+Gilbert	Tyler	Arizona	Arizona	Pitcher
+Wendelken	J.B.	Arizona	Arizona	Pitcher
+Mantiply	Joe	Arizona	Arizona	Pitcher
+Peacock	Matt	Arizona	Arizona	Pitcher
+Widener	Taylor	Arizona	Arizona	Pitcher
+McCarthy	Jake	Arizona	Arizona	OF
+Stammen	Craig	San Diego	San Diego	Pitcher
+Webb	Jacob	Atlanta	Atlanta	Pitcher
+Strasburg	Stephen	Washington	Washington	Pitcher
+Voth	Austin	Washington	Washington	Pitcher
+Marchan	Rafael	Philadelphia	Philadelphia	C/INF
+Alcantara	Sergio	Chicago (N)	Arizona	INF
+Jackson	Alex	Miami	Miami	C/OF
+Schrock	Max	Cincinnati	Cincinnati	INF/OF
+Bader	Harrison	St.Louis	St.Louis	OF
+Crismatt	Nabil	San Diego	San Diego	Pitcher
+VanMeter	Josh	Arizona	Pittsburgh	INF/OF
+Bleier	Richard	Miami	Miami	Pitcher
+Heredia	Guillermo	Atlanta	Atlanta	OF
+Naquin	Tyler	Cincinnati	Cincinnati	OF
+Howard	Sam	Pittsburgh	Pittsburgh	Pitcher
+Rodon	Carlos	Chicago (A)	San Francisco	Pitcher
+Bassitt	Chris	Oakland	New York (N)	Pitcher
+Cishek	Steve	Anaheim	Washington	Pitcher
+Wittgren	Nick	Cleveland	St.Louis	Pitcher
+Alberto	Hanser	Kansas City	Los Angeles	INF
+Chavez	Jesse	Atlanta	Chicago (N)	Pitcher
+Colome	Alex	Minnesota	Colorado	Pitcher
+Iglesias	Jose	Boston	Colorado	INF
+Dunn	Justin	Seattle	Cincinnati	Pitcher
+Fraley	Jake	Seattle	Cincinnati	OF
+Olson	Matt	Oakland	Atlanta	INF
+McHugh	Collin	Tampa Bay	Atlanta	Pitcher
+Maples	Dillon	Chicago (N)	Philadelphia	Pitcher
+Nelson	Jimmy	Los Angeles	Los Angeles	Pitcher
+Greiner	Grayson	Detroit	Arizona	C
+Minor	Mike	Kansas City	Cincinnati	Pitcher
+Rosario	Eddie	Atlanta	Atlanta	OF
+Kennedy	Ian	Philadelphia	Arizona	Pitcher
+De Jong	Chase	Pittsburgh	Pittsburgh	Pitcher
+Brice	Austin	Boston	Pittsburgh	Pitcher
+Robertson	David	Tampa Bay	Chicago (N)	Pitcher
+Greene	Shane	Los Angeles	Los Angeles	Pitcher
+Middleton	Keynan	Seattle	Arizona	Pitcher
+Nogowski	John	Pittsburgh	Atlanta	INF/OF
+Franco	Maikel	Baltimore	Washington	INF
+Almonte	Abraham	Atlanta	Milwaukee	OF
+Reetz	Jakson	Washington	Milwaukee	C
+Dahl	David	Texas	Milwaukee	OF
+Herrera	Odubel	Philadelphia	Philadelphia	OF
+Jankowski	Travis	Philadelphia	New York (N)	OF
+Cruz	Nelson	Tampa Bay	Washington	INF
+Valaika	Pat	Baltimore	Atlanta	INF/OF
+Gosselin	Phil	Anaheim	Atlanta	INF/OF
+Voit	Luke	New York (A)	San Diego	INF
+Duffy	Danny	Kansas City	Los Angeles	Pitcher
+Gsellman	Robert	New York (N)	Chicago (N)	Pitcher
+Norris	Daniel	Milwaukee	Chicago (N)	Pitcher
+Boyd	Matthew	Detroit	San Francisco	Pitcher
+DeShields	Delino	Cincinnati	Miami	OF
+Parra	Gerardo	Washington	Washington	OF
+Farmer	Buck	Detroit	Cincinnati	Pitcher
+Bauers	Jake	Seattle	Cincinnati	INF/OF
+Muller	Kyle	Atlanta	Atlanta	Pitcher
+Soler	Jorge	Atlanta	Miami	OF
+Torreyes	Ronald	Philadelphia	Philadelphia	INF/OF
+Difo	Wilmer	Pittsburgh	Arizona	INF/OF
+Zimmer	Kyle	Kansas City	Cincinnati	Pitcher
+Wynns	Austin	Baltimore	Philadelphia	C/INF
+Stubbs	Garrett	Houston	Philadelphia	C/OF
+Alvarez	Eddy	Miami	Los Angeles	INF
+Martin	Jason	Texas	Los Angeles	OF
+Junis	Jakob	Kansas City	San Francisco	Pitcher
+Blandino	Alex	Cincinnati	San Francisco	INF/OF
+Mathisen	Wyatt	Arizona	San Francisco	INF/OF
+Tom	Ka'ai	Pittsburgh	San Francisco	OF
+Brach	Brad	Cincinnati	Atlanta	Pitcher
+Garcia	Robel	Houston	Chicago (N)	INF
+Eshelman	Thomas	Baltimore	San Diego	Pitcher
+Strickland	Hunter	Milwaukee	Cincinnati	Pitcher
+Grichuk	Randal	Toronto	Colorado	OF
+Sanchez	Aaron	San Francisco	Washington	Pitcher
+Ramirez	Erasmo	Detroit	Washington	Pitcher
+Claudio	Alex	Anaheim	New York (N)	Pitcher
+Hembree	Heath	New York (N)	Pittsburgh	Pitcher
+Parker	Blake	Cleveland	St.Louis	Pitcher
+Pujols	Albert	Los Angeles	St.Louis	INF
+Urena	Jose	Detroit	Milwaukee	Pitcher
+Thompson	Zach	Miami	Pittsburgh	Pitcher
+Wright Jr. 	Mike	Chicago (A)	Los Angeles	Pitcher
+Rivas	Webster	San Diego	San Diego	C
+Marcano	Tucupita	San Diego	Pittsburgh	INF/OF
+Vargas	Ildemaro	Arizona	Chicago (N)	INF/OF
+Young	Andy	Arizona	Washington	INF/OF
+Davis	Taylor	Pittsburgh	Pittsburgh	C
+Williams	Justin	St.Louis	Philadelphia	OF
+Gushue	Taylor	Chicago (N)	Washington	C/INF
+Higgins	P.J.	Chicago (N)	Chicago (N)	C/INF
+Fargas	Johneshwy	Chicago (N)	New York (N)	OF
+Payne	Tyler	Chicago (N)	Chicago (N)	C
+Castillo	Erick	Chicago (N)	Chicago (N)	C
+Rivas III	Alfonso	Chicago (N)	Chicago (N)	INF/OF
+Hicks	John	Texas	Chicago (N)	C
+Garcia	Aramis	Oakland	Cincinnati	C
+Astudillo	Willians	Minnesota	Miami	C/INF/OF
+Mazara	Nomar	Detroit	San Diego	OF
+Luplow	Jordan	Tampa Bay	Arizona	INF/OF
+Davis	Jonathan	New York (A)	Milwaukee	OF
+Allen	Greg	New York (A)	Pittsburgh	OF
+Leyba	Domingo	Baltimore	San Diego	INF
+Brothers	Rex	Chicago (N)	Milwaukee	Pitcher
+Ginkel	Kevin	Arizona	Arizona	Pitcher
+Uceta	Edwin	Los Angeles	Arizona	Pitcher
+Nelson	Nick	New York (A)	Philadelphia	Pitcher
+Armstrong	Shawn	Tampa Bay	Miami	Pitcher
+Sherriff	Ryan	Tampa Bay	Philadelphia	Pitcher
+Mejia	J.C.	Cleveland	Milwaukee	Pitcher
+Manaea	Sean	Oakland	San Diego	Pitcher
+Almonte	Yency	Colorado	Los Angeles	Pitcher
+Doolittle	Sean	Seattle	Washington	Pitcher
+Diaz	Isan	Miami	Miami	INF
+Diaz	Lewin	Miami	Miami	INF
+Akiyama	Shogo	Cincinnati	Cincinnati	OF
+Davis	J.D.	New York (N)	New York (N)	INF
+Yardley	Eric	Milwaukee	Chicago (N)	Pitcher
+Newcomb	Sean	Atlanta	Atlanta	Pitcher
+Wolters	Tony	Chicago (N)	Los Angeles	C/INF/OF
+Adrianza	Ehire	Atlanta	Washington	INF/OF
+Aquino	Aristides	Cincinnati	Cincinnati	OF
+Hill	Tim	San Diego	San Diego	Pitcher
+Kieboom	Carter	Washington	Washington	INF
+Kinley	Tyler	Colorado	Colorado	Pitcher
+Williams	Trevor	New York (N)	New York (N)	Pitcher
+Suter	Brent	Milwaukee	Milwaukee	Pitcher
+Sanchez	Ali	St.Louis	St.Louis	C
+Bote	David	Chicago (N)	Chicago (N)	INF
+Cabrera	Asdrubal	Cincinnati	Cincinnati	INF
+Heyward	Jason	Chicago (N)	Chicago (N)	OF
+Lindblom	Josh	Milwaukee	Milwaukee	Pitcher
+Alvarado	Jose	Philadelphia	Philadelphia	Pitcher
+Oliva	Jared	Pittsburgh	Pittsburgh	OF
+Stevenson	Andrew	Washington	Washington	OF
+Davies	Zach	Chicago (N)	Arizona	Pitcher
+Brault	Steven	Pittsburgh	Chicago (N)	Pitcher
+Nola	Austin	San Diego	San Diego	C/INF
+Perez	Michael	Pittsburgh	Pittsburgh	C/INF
+Hernandez	Cesar	Chicago (A)	Washington	INF
+McCutchen	Andrew	Philadelphia	Milwaukee	OF
+Thomas	Lane	Washington	Washington	INF/OF
+Tucker	Cole	Pittsburgh	Pittsburgh	INF/OF
+Toussaint	Touki	Atlanta	Atlanta	Pitcher
+Wilson	Bryse	Pittsburgh	Pittsburgh	Pitcher
+Guillorme	Luis	New York (N)	New York (N)	INF
+Walker	Christian	Arizona	Arizona	INF
+Dickerson	Alex	San Francisco	Atlanta	OF
+Hillard	Sam	Colorado	Colorado	OF
+Lugo	Seth	New York (N)	New York (N)	Pitcher
+Rainey	Tanner	Washington	Washington	Pitcher
+Baragar	Caleb	San Francisco	San Francisco	Pitcher
+Smyly	Drew	Atlanta	Chicago (N)	Pitcher
+Barnes	Austin	Los Angeles	Los Angeles	C/INF
+Gonzalez	Erik	Pittsburgh	Miami	INF
+Alford	Anthony	Pittsburgh	Pittsburgh	OF
+Pillar	Kevin	New York (N)	Los Angeles	OF
+Profar	Jurickson	San Diego	San Diego	INF/OF
+Bass	Anthony	Miami	Miami	Pitcher
+Oviedo	Johan	St.Louis	St.Louis	Pitcher
+Pina	Manny	Milwaukee	Atlanta	C
+Beaty	Matt	Los Angeles	San Diego	INF/OF
+Garcia	Luis	Washington	Washington	INF
+Bedrosian	Cam	Philadelphia	Philadelphia	Pitcher
+Fulmer	Carson	Cincinnati	Los Angeles	Pitcher
+Mills	Alec	Chicago (N)	Chicago (N)	Pitcher
+Knizner	Andrew	St.Louis	St.Louis	C/INF
+Kuhl	Chad	Pittsburgh	Colorado	Pitcher
+Fedde	Erick	Washington	Washington	Pitcher
+Gonzalez	Victor	Los Angeles	Los Angeles	Pitcher
+Smith	Caleb	Arizona	Arizona	Pitcher
+Caratini	Victor	San Diego	San Diego	C/INF
+Drury	Brandon	New York (N)	Cincinnati	INF/OF
+Almora Jr. 	Albert	New York (N)	Cincinnati	OF
+Lamb	Jake	Toronto	Los Angeles	INF/OF
+Rodriguez	Joely	New York (A)	New York (N)	Pitcher
+Scott	Tanner	Baltimore	Miami	Pitcher
+Sulser	Cole	Baltimore	Miami	Pitcher

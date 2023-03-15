@@ -14,7 +14,7 @@ import org.jsoup.select.Elements;
 public class League {
 	
 	// https://www.dynastyleaguebaseball.com/League.aspx?OrgID=114243
-	String leagueNum = "133524"; // Changes every year
+	String leagueNum = "146332"; // Changes every year
 	String baseUrl = "https://www.dynastyleaguebaseball.com/";
 	String url = baseUrl + "League.aspx?OrgID=" + leagueNum;
 	Document doc = null;
@@ -34,7 +34,8 @@ public class League {
 			// Goto league page
 			// (In chrome) Click on lock and select Certificate, save to file dst.cer
 			// keytool -importcert -file dst.cer -keystore dsk.jks -alias DynastyLeagueBaseball
-			System.setProperty("javax.net.ssl.trustStore", "C:/Users/Mike/Downloads/dst.jks");
+			System.setProperty("javax.net.ssl.trustStore", "C:/Users/Mike/Downloads/dsk.jks");
+			// System.setProperty("javax.net.ssl.trustStorePassword", "changeit");
 			doc = Jsoup.connect(url).get();
 			// System.out.println(doc.toString());
 			Elements elements = doc.select("a[href]");
@@ -45,24 +46,26 @@ public class League {
 				if (link.indexOf("Team.aspx") > -1) {
 					// Team names
 					String[] tokens = link.split(">");
-					String teamName = tokens[2].split("<")[0];
-					// Team number
-					tokens = link.split("=");
-					String teamNum = tokens[3].split("\"")[0];
-					// System.out.println(teamNum + ") " + teamName);
-					// Now get the owners
-					Element ne = e.nextElementSibling();
-					String span = ne.toString();
-					tokens = span.split(">");
-					String teamOwner = tokens[1].split("<")[0];
-					// System.out.println(teamOwner);
-					Team team = new Team();
-					team.setName(teamName);
-					team.setNumber(teamNum);
-					team.setOwner(teamOwner);
-					team.setLeague(this);
-					teams.add(team);
-					team.connect();
+					if (tokens.length > 2) {
+						String teamName = tokens[2].split("<")[0];
+						// Team number
+						tokens = link.split("=");
+						String teamNum = tokens[3].split("\"")[0];
+						// System.out.println(teamNum + ") " + teamName);
+						// Now get the owners
+						Element ne = e.nextElementSibling();
+						String span = ne.toString();
+						tokens = span.split(">");
+						String teamOwner = tokens[1].split("<")[0];
+						// System.out.println(teamOwner);
+						Team team = new Team();
+						team.setName(teamName);
+						team.setNumber(teamNum);
+						team.setOwner(teamOwner);
+						team.setLeague(this);
+						teams.add(team);
+						team.connect();
+					}
 				}
 			}
 		} catch (IOException e) {

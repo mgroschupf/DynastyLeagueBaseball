@@ -163,8 +163,8 @@ public class DCL extends JFrame {
 
 	public static void main(String[] args) {
 		// Ranked players
-		All all = new All("C:\\Users\\Mike\\Documents\\github\\DynastyLeagueBaseball\\DynastyLeagueBaseball\\src\\All.txt");
-		all.open();
+		// All all = new All("C:\\Users\\Mike\\Documents\\github\\DynastyLeagueBaseball\\DynastyLeagueBaseball\\src\\All.txt");
+		// all.open();
 		// Top 300 players available to draft
 		Available available = new Available("C:\\Users\\Mike\\Documents\\github\\DynastyLeagueBaseball\\DynastyLeagueBaseball\\src\\Available.txt");
 		available.open();
