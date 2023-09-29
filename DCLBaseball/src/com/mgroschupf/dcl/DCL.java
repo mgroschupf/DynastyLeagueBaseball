@@ -128,21 +128,23 @@ public class DCL extends JFrame {
 
 	public static void main(String[] args) {
 		// Ranked players
-		All all = new All("C:\\Users\\GRO4525\\Documents\\github\\DynastyLeagueBaseball\\DCLBaseball\\src\\All.txt");
-		// All all = new All("C:\\Users\\Mike\\git\\DynastyLeagueBaseball\\DCLBaseball\\src\\All.txt");
+		// All all = new All("C:\\Users\\GRO4525\\Documents\\github\\DynastyLeagueBaseball\\DCLBaseball\\src\\All.txt");
+		All all = new All("C:\\Users\\Mike\\git\\DynastyLeagueBaseball\\DCLBaseball\\src\\All.txt");
 		all.open();
 		// Top 300 players available to draft
-		Available available = new Available("C:\\Users\\GRO4525\\Documents\\github\\DynastyLeagueBaseball\\DCLBaseball\\src\\Available.txt");
-		// Available available = new Available("C:\\Users\\Mike\\git\\DynastyLeagueBaseball\\DCLBaseball\\src\\Available.txt");
+		// Available available = new Available("C:\\Users\\GRO4525\\Documents\\github\\DynastyLeagueBaseball\\DCLBaseball\\src\\Available.txt");
+		Available available = new Available("C:\\Users\\Mike\\git\\DynastyLeagueBaseball\\DCLBaseball\\src\\Available.txt");
 		available.open();
 		// Drafted players
-		Selected selected = new Selected("C:\\Users\\GRO4525\\Documents\\github\\DynastyLeagueBaseball\\DCLBaseball\\src\\Selected.txt");
-		// Selected selected = new Selected("C:\\Users\\Mike\\git\\DynastyLeagueBaseball\\DCLBaseball\\src\\Selected.txt");
+		// Selected selected = new Selected("C:\\Users\\GRO4525\\Documents\\github\\DynastyLeagueBaseball\\DCLBaseball\\src\\Selected.txt");
+		Selected selected = new Selected("C:\\Users\\Mike\\git\\DynastyLeagueBaseball\\DCLBaseball\\src\\Selected.txt");
 		selected.open();
 		// Hitter and Pitcher stats from https://www.rotowire.com/baseball/stats.php
 		Statistics stats = new Statistics();
-		stats.readHitting("C:\\Users\\GRO4525\\Documents\\github\\DynastyLeagueBaseball\\DCLBaseball\\src\\mlb-player-stats-Batters.csv");
-		stats.readPitching("C:\\Users\\GRO4525\\Documents\\github\\DynastyLeagueBaseball\\DCLBaseball\\src\\mlb-player-stats-P.csv");
+		// stats.readHitting("C:\\Users\\GRO4525\\Documents\\github\\DynastyLeagueBaseball\\DCLBaseball\\src\\mlb-player-stats-Batters.csv");
+		// stats.readPitching("C:\\Users\\GRO4525\\Documents\\github\\DynastyLeagueBaseball\\DCLBaseball\\src\\mlb-player-stats-P.csv");
+		stats.readHitting("C:\\Users\\Mike\\git\\DynastyLeagueBaseball\\DCLBaseball\\src\\mlb-player-stats-Batters.csv");
+		stats.readPitching("C:\\Users\\Mike\\git\\DynastyLeagueBaseball\\DCLBaseball\\src\\mlb-player-stats-P.csv");
 		// Loop through the players and rank those that are available
 		List<Player> players = Player.getPlayers();
 		for (Iterator<Player> i = players.iterator(); i.hasNext(); ) {
