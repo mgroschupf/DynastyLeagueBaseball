@@ -48,6 +48,7 @@ public class Statistics {
 					}
 					// record.set(0, sortableName);
 					record.set(1, team);
+					record.set(2, getPosition(player, null));
 					return record;
 				}
 			}
@@ -61,6 +62,7 @@ public class Statistics {
 					}
 					// record.set(0, sortableName);
 					record.set(1, team);
+					record.set(2, getPosition(player, record.get(2)));
 					return record;
 				}
 			}
@@ -111,6 +113,13 @@ public class Statistics {
 	public void readPitching(String filename) {
 		pitchingRecords = new ArrayList<>();
 		read(false, filename, pitchingRecords);
+		// Insert a position column after Team to match hitting
+		String header = "Pos";
+		for (Iterator<ArrayList<String>> i=pitchingRecords.iterator(); i.hasNext(); ) {
+			ArrayList<String> row = i.next();
+			row.add(2, header);
+			header = "";
+		}
 	}
 
 	void read(boolean isMLB, String filename, ArrayList<ArrayList<String>> records) {
@@ -200,5 +209,20 @@ public class Statistics {
 			newName += name.charAt(i);
 		}
 		return newName.trim();
+	}
+	
+	String getPosition(Player player, String fieldPosition) {
+		String position = fieldPosition;
+		if (fieldPosition != null && !fieldPosition.isEmpty()) {
+			// A fielder with a position.  Player position will include
+			// L/R/B (left/right/both) and P/SP (pull/spray)
+			if (! fieldPosition.contains("|")) {
+				position = fieldPosition + " | " + player.getPositions().get(0);
+			}
+		} else {
+			// A pitcher with LHP or RHP and Long/Innings or Short
+			position = player.getPositions().get(0);
+		}
+		return position;
 	}
 }
