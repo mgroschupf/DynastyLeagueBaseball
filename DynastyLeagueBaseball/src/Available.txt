@@ -12,7 +12,6 @@ Lopez	Reynaldo	Cleveland	Atlanta	RHP - Short
 Fletcher	David	Anaheim	Atlanta	RSP - INF		
 Kelenic	Jarred	Seattle	Atlanta	LSP - OF		
 Velazquez	Andrew	Anaheim	Atlanta	BSP - INF		
-Ort	Kaleb	Boston	Philadelphia	RHP - Long/20		
 Smeltzer	Devin	Miami	Miami	LHP - Long/20		
 Soriano	George	Miami	Miami	RHP - Long/20		
 Brazoban	Huascar	Miami	Miami	RHP - Long		
@@ -26,7 +25,7 @@ Myers	Dane	Miami	Miami	RSP - OF
 Bell	Josh	Miami	Miami	BSP - INF		
 Edwards	Xavier	Miami	Miami	BSP - INF/OF		
 Burger	Jake	Miami	Miami	RP - INF		
-Battenfield	Peyton	Cleveland	New York (N)	RHP - 20/Long		
+Battenfield	Peyton	Cleveland	New York (N)	RSP - 20/Long		
 Lucchesi	Joey	New York (N)	New York (N)	LHP - 25		
 Hartwig	Grant	New York (N)	New York (N)	RHP - Long		
 Butto	Jose	New York (N)	New York (N)	RHP - 20/Long		
@@ -50,7 +49,7 @@ Clemens	Kody	Philadelphia	Philadelphia	LSP - INF/OF
 Pache	Cristian	Philadelphia	Philadelphia	RSP - OF		
 Rojas	Johan	Philadelphia	Philadelphia	RSP - OF		
 La Sorsa	Joe	Washington	Washington	LHP - Long		
-Ferrer	Jose	Washington	Washington	LHP - Short		
+Ferrer	Jose A.	Washington	Washington	LHP - Short		
 Garcia	Robert	Washington	Washington	LHP - Long		
 Rutledge	Jackson	Washington	Washington	RHP - 25		
 Willingham	Amos	Washington	Washington	RHP - Long		
@@ -120,7 +119,7 @@ McKinney	Billy	New York (A)	Pittsburgh	LP - INF/OF
 Lamb	Jake	Anaheim	Pittsburgh	LP - INF		
 Olivares	Edward	Kansas City	Pittsburgh	RP - OF		
 Peguero	Liover	Pittsburgh	Pittsburgh	RP - INF		
-Williams	Alika	Pittsburgh	Pittsburgh	RSP - INF		
+Williamson	Alika	Pittsburgh	Pittsburgh	RSP - INF		
 Palacios	Joshua	Pittsburgh	Pittsburgh	LP - OF		
 Triolo	Jared	Pittsburgh	Pittsburgh	RSP - INF		
 Rodriguez	Endy	Pittsburgh	Pittsburgh	BP - C/INF		
@@ -148,7 +147,7 @@ Henry	Tommy	Arizona	Arizona	LHP - 25/Long
 Frias	Luis	Arizona	Arizona	RHP - Long		
 Thompson	Ryan	Arizona	Arizona	RHP - Short		
 Snider	Collin	Kansas City	Arizona	RHP - Short/7		
-Rodriguez	Eduardo	Detroit	Arizona	LHP - 25		
+Rodiguez	Eduardo	Detroit	Arizona	LHP - 25		
 Suarez	Eugenio	Seattle	Arizona	RP - INF		
 Peterson	Jace	Arizona	Arizona	LP - INF/OF		
 Koch	Matt	Colorado	Colorado	RHP - Short/7		
@@ -196,7 +195,6 @@ Jackson	Luke	San Francisco	San Francisco	RHP - Short
 Walker	Ryan	San Francisco	San Francisco	RHP - Long/20		
 Beck	Tristan	San Francisco	San Francisco	RHP - Long/20		
 Winn	Keaton	San Francisco	San Francisco	RHP - 20/Long		
-Hopkins	TJ	Cincinnati	San Francisco	RSP - OF		
 Murphy	Tom	Seattle	San Francisco	RP - C		
 Matos	Luis	San Francisco	San Francisco	RSP - OF		
 Sabol	Blake	San Francisco	San Francisco	LSP - C/OF		
@@ -237,3 +235,9 @@ Anderson	Chase	Colorado	Pittsburgh	RHP - 20/Long
 Merrifield	Whit	Toronto	Philadelphia	RP - INF/OF		
 Nogosek	Stephen	New York (N)	Washington	RHP - Long		
 Profar	Jurickson	San Diego	San Diego	BP - INF/OF	V3 Released on 2-18-24	
+Anderson	Tim	Chicago (A)	Miami	RSP - INF		
+Ford	Mike	Seattle	Cincinnati	LP - INF		
+Kemp	Tony	Oakland	Cincinnati	LP - INF/OF		
+Law	Derek	Cincinnati	Washington	RHP - Short/7		
+Chirinos	Yonny	Atlanta	Miami	RHP - Long/20		
+Gallagher	Cam	Cleveland	Philadelphia	RSP - C	V4 Released on 2-25-24	
