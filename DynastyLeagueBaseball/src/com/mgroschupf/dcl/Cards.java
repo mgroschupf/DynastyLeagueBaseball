@@ -25,6 +25,9 @@ public class Cards {
 					System.out.println(year + " " + team);
 					year = null;
 					team = null;
+				} else if (line.startsWith("Last ")) {
+					// 6 headers per team (3 hitting, 3 pitching : Active, Minors, DL
+					System.out.println(line);
 				}
 			}
 			br.close();
