@@ -25,7 +25,7 @@ Myers	Dane	Miami	Miami	RSP - OF
 Bell	Josh	Miami	Miami	BSP - INF
 Edwards	Xavier	Miami	Miami	BSP - INF/OF
 Burger	Jake	Miami	Miami	RP - INF
-Battenfield	Peyton	Cleveland	New York (N)	RSP - 20/Long
+Battenfield	Peyton	Cleveland	New York (N)	RHP - 20/Long
 Lucchesi	Joey	New York (N)	New York (N)	LHP - 25
 Hartwig	Grant	New York (N)	New York (N)	RHP - Long
 Butto	Jose	New York (N)	New York (N)	RHP - 20/Long
@@ -49,7 +49,7 @@ Clemens	Kody	Philadelphia	Philadelphia	LSP - INF/OF
 Pache	Cristian	Philadelphia	Philadelphia	RSP - OF
 Rojas	Johan	Philadelphia	Philadelphia	RSP - OF
 La Sorsa	Joe	Washington	Washington	LHP - Long
-Ferrer	Jose A.	Washington	Washington	LHP - Short
+Ferrer	Jose	Washington	Washington	LHP - Short
 Garcia	Robert	Washington	Washington	LHP - Long
 Rutledge	Jackson	Washington	Washington	RHP - 25
 Willingham	Amos	Washington	Washington	RHP - Long
@@ -119,7 +119,7 @@ McKinney	Billy	New York (A)	Pittsburgh	LP - INF/OF
 Lamb	Jake	Anaheim	Pittsburgh	LP - INF
 Olivares	Edward	Kansas City	Pittsburgh	RP - OF
 Peguero	Liover	Pittsburgh	Pittsburgh	RP - INF
-Williamson	Alika	Pittsburgh	Pittsburgh	RSP - INF
+Williams	Alika	Pittsburgh	Pittsburgh	RSP - INF
 Palacios	Joshua	Pittsburgh	Pittsburgh	LP - OF
 Triolo	Jared	Pittsburgh	Pittsburgh	RSP - INF
 Rodriguez	Endy	Pittsburgh	Pittsburgh	BP - C/INF
@@ -147,7 +147,7 @@ Henry	Tommy	Arizona	Arizona	LHP - 25/Long
 Frias	Luis	Arizona	Arizona	RHP - Long
 Thompson	Ryan	Arizona	Arizona	RHP - Short
 Snider	Collin	Kansas City	Arizona	RHP - Short/7
-Rodiguez	Eduardo	Detroit	Arizona	LHP - 25
+Rodriguez	Eduardo	Detroit	Arizona	LHP - 25
 Suarez	Eugenio	Seattle	Arizona	RP - INF
 Peterson	Jace	Arizona	Arizona	LP - INF/OF
 Koch	Matt	Colorado	Colorado	RHP - Short/7
@@ -242,7 +242,7 @@ Chirinos	Yonny	Atlanta	Miami	RHP - Long/20
 Gallagher	Cam	Cleveland	Philadelphia	RSP - C
 Chapman	Matt	Toronto	San Francisco	RP - INF
 Barnes	Matt	Miami	Washington	RHP - Short/7
-Hernandez	Kike	Los Angeles	Los Angeles	RP - INF/OF
+Hernandez	Enrique	Los Angeles	Los Angeles	RP - INF/OF
 Andrus	Elvis	Chicago (A)	Arizona	RP - INF
 Garrett	Amir	Kansas City	San Francisco	LHP - Short
 Herget	Kevin	Cincinnati	Milwaukee	RHP - Long
@@ -253,10 +253,10 @@ Duvall	Adam	Boston	Atlanta	RP - OF
 Glasnow	Tyler	Tampa Bay	Los Angeles	RHP - 25
 Lindor	Francisco	New York (N)	New York (N)	BP - INF
 Cease	Dylan	Chicago (A)	San Diego	RHP - 25
-Taylor	Michael A.	Minnesota	Pittsburgh	RSP - OF
+Taylor	Michael	Minnesota	Pittsburgh	RSP - OF
 German	Domingo	New York (A)	Pittsburgh	RHP - 25/Long
 Gomber	Austin	Colorado	Colorado	LHP - 25
-Choi	Ji Man	San Diego	New York (N)	LP - INF
+Choi	Ji-Man	San Diego	New York (N)	LP - INF
 Floro	Dylan	Minnesota	Washington	RHP - Short
 Hjelle	Sean	San Francisco	San Francisco	RHP - Long
 Pallante	Andre	St. Louis	St. Louis	RHP - Long
@@ -265,17 +265,17 @@ Harrison	Josh	Philadelphia	Cincinnati	RP - INF/OF
 Thompson	Trayce	Chicago (A)	New York (N)	RSP - OF
 Hilliard	Sam	Atlanta	Colorado	LP - OF
 Cobb	Alex	San Francisco	San Francisco	RHP - 25
-Oviedo 	Johan	Pittsburgh	Pittsburgh	RHP - 25
+Oviedo	Johan	Pittsburgh	Pittsburgh	RHP - 25
 Rucker	Michael	Chicago (N)	Chicago (N)	RHP - Long
 Bart	Joey	San Francisco	San Francisco	RSP - C
 Meneses	Joey	Washington	Washington	RSP - INF/OF
-Brogdan	Connor	Philadelphia	Philadelphia	RHP - Long/20
+Brogdon	Connor	Philadelphia	Philadelphia	RHP - Long/20
 Smith	Drew	New York (N)	New York (N)	RHP - Short
 Peterson	David	New York (N)	New York (N)	LHP - 25/Long
-Marcano 	Tucupita	Pittsburgh	San Diego	LSP - INF
+Marcano	Tucupita	Pittsburgh	San Diego	LSP - INF
 Grichuk	Randal	Anaheim	Arizona	RP - OF
 Bellatti	Andrew	Philadelphia	Philadelphia	RHP - Short
-Edwards Jr.	Carl	Washington	Chicago (N)	RHP - Short
+Edwards	Carl	Washington	Chicago (N)	RHP - Short
 Holderman	Colin	Pittsburgh	Pittsburgh	RHP - Short
 Freeland	Kyle	Colorado	Colorado	LHP - 25
 Mantiply	Joe	Arizona	Arizona	LHP - Long/20
