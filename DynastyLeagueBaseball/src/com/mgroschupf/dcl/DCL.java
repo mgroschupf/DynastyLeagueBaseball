@@ -24,7 +24,9 @@ import java.util.Iterator;
 public class DCL extends JFrame {
 
 	private static final long serialVersionUID = 1L;
-	
+
+	public static final String ROOT_DIR = "C:\\Users\\GRO4525\\eclipse-workspace\\DynastyLeagueBaseball\\DynastyLeagueBaseball\\src\\";
+
 	ArrayList<ArrayList<String>> pitcherData = new ArrayList<>();
 	ArrayList<ArrayList<String>> hitterData = new ArrayList<>();
 	Statistics stats = null;
@@ -165,17 +167,16 @@ public class DCL extends JFrame {
 		// Ranked players
 		// All all = new All("C:\\Users\\Mike\\Documents\\github\\DynastyLeagueBaseball\\DynastyLeagueBaseball\\src\\All.txt");
 		// all.open();
-		// Top 300 players available to draft
-		Available available = new Available("C:\\Users\\Mike\\Documents\\github\\DynastyLeagueBaseball\\DynastyLeagueBaseball\\src\\Available.txt");
+		// Players available to draft
+		Available available = new Available(ROOT_DIR + "Available.txt");
 		available.open();
 		// Drafted players
-		Selected selected = new Selected("C:\\Users\\Mike\\Documents\\GitHub\\DynastyLeagueBaseball\\DynastyLeagueBaseball\\src\\Selected.txt");
+		Selected selected = new Selected(ROOT_DIR + "Selected.txt");
 		selected.open();
 		// Hitter and Pitcher stats from https://www.rotowire.com/baseball/stats.php
 		Statistics stats = new Statistics();
-		stats.readHitting("C:\\Users\\Mike\\Documents\\github\\DynastyLeagueBaseball\\DynastyLeagueBaseball\\src\\mlb-player-stats-Batters.csv");
-		// stats.readHitting(true, "C:\\Users\\Mike\\Documents\\github\\DynastyLeagueBaseball\\DynastyLeagueBaseball\\src\\mlb-player-stats-Batters.txt");
-		stats.readPitching("C:\\Users\\Mike\\Documents\\github\\DynastyLeagueBaseball\\DynastyLeagueBaseball\\src\\mlb-player-stats-P.csv");
+		stats.readHitting(ROOT_DIR + "mlb-player-stats-Batters.txt");
+		stats.readPitching(ROOT_DIR + "mlb-player-stats-P.txt");
 		// Loop through the players and rank those that are available
 		List<Player> players = Player.getPlayers();
 		for (Iterator<Player> i = players.iterator(); i.hasNext(); ) {

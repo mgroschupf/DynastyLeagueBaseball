@@ -5,6 +5,8 @@ import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
 
+import com.mgroschupf.dcl.Player;
+
 public class Player {
 	String lastName;
 	String firstName;
@@ -125,8 +127,7 @@ public class Player {
 	
 	public boolean isPitcher() {
 		String position = positions.get(0);
-		if (position.startsWith("P") || position.startsWith("SP") || position.startsWith("RP")
-				|| position.startsWith("LHP") || position.startsWith("RHP")) {
+		if (position.startsWith("LHP") || position.startsWith("RHP")) {
 			return true;
 		}
 		return false;

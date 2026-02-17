@@ -59,7 +59,7 @@ public class Available {
 	}
 
 	public static void main(String[] args) {
-		Available available = new Available("C:\\Users\\Mike\\Documents\\github\\DynastyLeagueBaseball\\DCLBaseball\\src\\Available.txt");
+		Available available = new Available(DCL.ROOT_DIR + "Available.txt");
 		available.open();
 		List<Player> players = Player.getPlayers();
 		for (Iterator<Player> i=players.iterator(); i.hasNext(); )

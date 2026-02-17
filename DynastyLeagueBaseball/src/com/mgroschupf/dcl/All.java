@@ -40,7 +40,7 @@ public class All {
 	}
 
 	public static void main(String[] args) {
-		All all = new All("C:\\Users\\Mike\\Documents\\github\\DynastyLeagueBaseball\\DCLBaseball\\src\\All.txt");
+		All all = new All(DCL.ROOT_DIR + "All.txt");
 		all.open();
 		List<Player> players = Player.getPlayers();
 		for (Iterator<Player> i=players.iterator(); i.hasNext(); )

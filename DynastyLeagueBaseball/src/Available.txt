@@ -1,300 +1,309 @@
-Garrett	Braxton	Miami	Miami	LHP		
-Nance	Tommy	Miami	Miami	RHP		
-Castano	Daniel	Miami	Miami	LHP		
-Brazoban	Huascar	Miami	Miami	RHP		
-Gonzalez	Chi Chi	New York (A)	Miami	RHP		
-Chargois	J.T.	Tampa Bay	Miami	RHP		
-Groshans	Jordan	Miami	Miami	INF		
-Burdick	Peyton	Miami	Miami	OF		
-Fortes	Nick	Miami	Miami	C/INF		
-Encarnacion	Jerar	Miami	Miami	OF		
-Leblanc	Charles	Miami	Miami	INF		
-Allen	Austin	Oakland	Miami	C		
-Strider	Spencer	Atlanta	Atlanta	RHP		
-Lee	Dylan	Atlanta	Atlanta	LHP		
-Jimenez	Joe	Detroit	Atlanta	RHP		
-Elder	Bryce	Atlanta	Atlanta	RHP		
-Stephens	Jackson	Atlanta	Atlanta	RHP		
-Luetge	Lucas	New York (A)	Atlanta	LHP		
-Park	Hoy	Pittsburgh	Atlanta	INF/OF	Oakland Non-Protectable Player	
-Grissom	Vaughn	Atlanta	Atlanta	INF		
-Harris II	Michael	Atlanta	Atlanta	OF		
-Murphy	Sean	Oakland	Atlanta	C		
-Tromp	Chadwick	Atlanta	Atlanta	C		
-Allard	Kolby	Texas	Atlanta	LHP		
-White	Eli	Texas	Atlanta	OF		
-Luplow	Jordan	Arizona	Atlanta	INF/OF		
-Verlander	Justin	Houston	New York (N)	RHP		
-Brigham	Jeff	Miami	New York (N)	RHP		
-Nogosek	Stephen	New York (N)	New York (N)	RHP		
-Hunter	Tommy	New York (N)	New York (N)	RHP		
-Raley	Brooks	Tampa Bay	New York (N)	LHP		
-Quintana	Jose	St. Louis	New York (N)	LHP	Los Angeles Non-Protectable Player	
-Ottavino	Adam	New York (N)	New York (N)	RHP	Pittsburgh Released from No Trade	
-Mendick	Danny	Chicago (A)	New York (N)	INF/OF		
-Dominguez	Seranthony	Philadelphia	Philadelphia	RHP		
-Bellatti	Andrew	Philadelphia	Philadelphia	RHP		
-Soto	Gregory	Detroit	Philadelphia	LHP		
-Nelson	Nick	Philadelphia	Philadelphia	RHP		
-Sanchez	Cristopher	Philadelphia	Philadelphia	LHP		
-Uelmen	Erich	Chicago (N)	Philadelphia	RHP		
-Marte	Yunior	San Francisco	Philadelphia	RHP		
-Strahm	Matt	Boston	Philadelphia	LHP		
-Marsh	Brandon	Philadelphia	Philadelphia	OF		
-Hall	Darick	Philadelphia	Philadelphia	INF		
-Clemens	Kody	Detroit	Philadelphia	INF/OF		
-Cave	Jake	Minnesota	Philadelphia	OF		
-Machin	Vimael	Oakland	Philadelphia	INF		
-Edwards Jr.	Carl	Washington	Washington	RHP		
-Harvey	Hunter	Washington	Washington	RHP		
-Thompson	Mason	Washington	Washington	RHP		
-Arano	Victor	Washington	Washington	RHP		
-Abbott	Cory	Washington	Washington	RHP		
-Adon	Joan	Washington	Washington	RHP		
-Weems	Jordan	Washington	Washington	RHP		
-Tetreault	Jackson	Washington	Washington	RHP		
-Machado	Andres	Washington	Washington	RHP	Los Angeles Non-Protectable Player	
-Meneses	Joey	Washington	Washington	INF/OF		
-Pineda	Israel	Washington	Washington	C		
-Candelario	Jeimer	Detroit	Washington	INF		
-Call	Alex	Washington	Washington	OF		
-Garrett	Stone	Arizona	Washington	OF		
-Hill	Derek	Detroit	Washington	OF		
-Vargas	Ildemaro	Washington	Washington	INF	Washington Non-Protectable Player	
-Milner	Hoby	Milwaukee	Milwaukee	LHP		
-Alexander	Jason	Milwaukee	Milwaukee	RHP		
-Strzelecki	Peter	Milwaukee	Milwaukee	RHP		
-Bush	Matt	Milwaukee	Milwaukee	RHP		
-Kelley	Trevor	Milwaukee	Milwaukee	RHP		
-Payamps	Joel	Oakland	Milwaukee	RHP		
-Wilson	Bryse	Pittsburgh	Milwaukee	RHP	Milwaukee Non-Protectable Player	
-Henry	Payton	Miami	Milwaukee	C		
-Mitchell	Garrett	Milwaukee	Milwaukee	OF		
-Miller	Owen	Cleveland	Milwaukee	INF		
-Toro	Abraham	Seattle	Milwaukee	INF/OF		
-VanMeter	Josh	Pittsburgh	Milwaukee	C/INF/OF	Baltimore Non-Protectable Player	
-Winker	Jesse	Seattle	Milwaukee	OF	Baltimore Released from No Trade	
-Jackson	Alex	Milwaukee	Milwaukee	C	Toronto Non-Protectable Player	
-Sampson	Adrian	Chicago (N)	Chicago (N)	RHP		
-Wesneski	Hayden	Chicago (N)	Chicago (N)	RHP		
-Rucker	Michael	Chicago (N)	Chicago (N)	RHP		
-Leiter Jr. 	Mark	Chicago (N)	Chicago (N)	RHP		
-Assad	Javier	Chicago (N)	Chicago (N)	RHP		
-Hughes	Brandon	Chicago (N)	Chicago (N)	LHP		
-Stout	Eric	Pittsburgh	Chicago (N)	LHP		
-Thompson	Keegan	Chicago (N)	Chicago (N)	RHP	Oakland Non-Protectable Player	
-Borucki	Ryan	Seattle	Chicago (N)	LHP		
-Higgins	P.J.	Chicago (N)	Chicago (N)	C/INF	Oakland Non-Protectable Player	
-Barnhart	Tucker	Detroit	Chicago (N)	C/INF		
-Morel	Christopher	Chicago (N)	Chicago (N)	INF/OF		
-Velazquez	Nelson	Chicago (N)	Chicago (N)	OF		
-McKinstry	Zach	Chicago (N)	Chicago (N)	INF/OF		
-VerHagen	Drew	St. Louis	St. Louis	RHP		
-Romero	JoJo	St. Louis	St. Louis	LHP		
-Naughton	Packy	St. Louis	St. Louis	LHP		
-Pallante	Andre	St. Louis	St. Louis	RHP		
-Thompson	Zack	St. Louis	St. Louis	LHP		
-Montgomer	Jordan	St. Louis	St. Louis	LHP		
-Gorman	Nolan	St. Louis	St. Louis	INF/OF		
-Burleson	Alec	St. Louis	St. Louis	INF/OF		
-Herrera	Ivan	St. Louis	St. Louis	C		
-Yepez	Juan	St. Louis	St. Louis	INF/OF		
-Donovan	Brendan	St. Louis	St. Louis	INF/OF		
-Mercado	Oscar	Cleveland	St. Louis	OF		
-Diaz	Alexis	Cincinnati	Cincinnati	RHP		
-Farmer	Buck	Cincinnati	Cincinnati	RHP		
-Kuhnel	Joel	Cincinnati	Cincinnati	RHP		
-Sanmartin	Reiver	Cincinnati	Cincinnati	LHP		
-Gibaut	Ian	Cincinnati	Cincinnati	RHP		
-Overton	Connor	Cincinnati	Cincinnati	RHP		
-Ashcraft	Graham	Cincinnati	Cincinnati	RHP		
-Lopez	Alejo	Cincinnati	Cincinnati	INF/OF		
-Steer	Spencer	Cincinnati	Cincinnati	INF		
-Maile	Luke	Cleveland	Cincinnati	C		
-Friedl	T.J.	Cincinnati	Cincinnati	OF		
-Fairchild	Stuart	Cincinnati	Cincinnati	OF		
-Reynolds	Matt	Cincinnati	Cincinnati	INF/OF		
-Romine	Austin	Cincinnati	Cincinnati	C		
-Robinson	Chuckie	Cincinnati	Cincinnati	C		
-Fraley	Jake	Cincinnati	Cincinnati	OF	Colorado Non-Protectable Player	
-Solak	Nick	Texas	Cincinnati	INF/OF		
-Velasquez	Vince	Chicago (A)	Pittsburgh	RHP		
-Moreta	Dauri	Cincinnati	Pittsburgh	RHP		
-Underwood Jr.	Duane	Pittsburgh	Pittsburgh	RHP		
-De Jong	Chase	Pittsburgh	Pittsburgh	RHP		
-Holderman	Colin	Pittsburgh	Pittsburgh	RHP		
-Ramirez	Yohan	Pittsburgh	Pittsburgh	RHP		
-Contreras	Roansy	Pittsburgh	Pittsburgh	RHP		
-De Los Santos	Yerry	Pittsburgh	Pittsburgh	RHP		
-Hill	Rich	Boston	Pittsburgh	LHP		
-Oviedo	Johan	Pittsburgh	Pittsburgh	RHP	Milwaukee Non-Protectable Player	
-Santana	Carlos	Seattle	Pittsburgh	INF/OF		
-Hedges	Austin	Cleveland	Pittsburgh	C		
-Castro	Rodolfo	Pittsburgh	Pittsburgh	INF		
-Choi	Ji-Man	Tampa Bay	Pittsburgh	INF		
-Mitchell	Calvin	Pittsburgh	Pittsburgh	OF		
-Suwinski	Jack	Pittsburgh	Pittsburgh	OF		
-Andujar	Miguel	Pittsburgh	Pittsburgh	INF/OF		
-Delay	Jason	Pittsburgh	Pittsburgh	C		
-Heineman	Tyler	Pittsburgh	Pittsburgh	C		
-Marcano	Tucupita	Pittsburgh	Pittsburgh	INF/OF	San Francisco Non-Protectable Player	
-Suarez	Robert	San Diego	San Diego	RHP		
-Martinez	Nick	San Diego	San Diego	RHP		
-Wilson	Steven	San Diego	San Diego	RHP		
-Morejon	Adrian	San Diego	San Diego	LHP		
-Knehr	Reiss	San Diego	San Diego	RHP		
-Poppen	Sean	Arizona	San Diego	RHP		
-Lugo	Seth	New York (N)	San Diego	RHP	Pittsburgh Non-Protectable Player	
-Bogaerts	Xander	Boston	San Diego	INF		
-Carpenter	Matt	New York (A)	San Diego	INF/OF		
-Azocar	Jose	San Diego	San Diego	OF		
-Engel	Adam	Chicago (A)	San Diego	OF		
-Feyereisen	J.P.	Tampa Bay	Los Angeles	RHP		
-Syndergaard	Noah	Philadelphia	Los Angeles	RHP		
-Almonte	Yency	Los Angeles	Los Angeles	RHP		
-Pepiot	Ryan	Los Angeles	Los Angeles	RHP		
-Grove	Michael	Los Angeles	Los Angeles	RHP		
-Ferguson	Caleb	Los Angeles	Los Angeles	LHP		
-Vargas	Miguel	Los Angeles	Los Angeles	INF/OF		
-Martinez	J.D.	Boston	Los Angeles	DH		
-Thompson	Trayce	Los Angeles	Los Angeles	OF		
-Zimmer	Bradley	Toronto	Los Angeles	OF		
-Mazeika	Patrick	New York (N)	Los Angeles	C/INF	Washington Non-Protectable Player	
-Rogers	Taylor	Milwaukee	San Francisco	LHP		
-Brebbia	John	San Francisco	San Francisco	RHP		
-Junis	Jakob	San Francisco	San Francisco	RHP		
-Hjelle	Sean	San Francisco	San Francisco	RHP		
-Alexander	Scott	San Francisco	San Francisco	LHP		
-Stripling	Ross	Toronto	San Francisco	RHP		
-Yajure	Miguel	Pittsburgh	San Francisco	RHP		
-Long	Sammy	San Francisco	San Francisco	LHP	San Francisco Non-Protectable Player	
-Haniger	Mitch	Seattle	San Francisco	OF		
-Gonzalez	Luis	San Francisco	San Francisco	OF		
-Villar	David	San Francisco	San Francisco	INF		
-Walton	Donovan	San Francisco	San Francisco	INF		
-Proctor	Ford	San Francisco	San Francisco	C/INF		
-Feltner	Ryan	Colorado	Colorado	RHP		
-Lawrence	Justin	Colorado	Colorado	RHP		
-Bird	Jake	Colorado	Colorado	RHP		
-Blach	Ty	Colorado	Colorado	LHP		
-Kinley	Tyler	Colorado	Colorado	RHP	Colorado Non-Protectable Player	
-Urena	Jose	Colorado	Colorado	RHP	Los Angeles Non-Protectable Player	
-Rogers	Josh	Washington	Colorado	LHP	Toronto Non-Protectable Player	
-Toglia	Michael	Colorado	Colorado	INF/OF		
-Jones	Nolan	Cleveland	Colorado	OF		
-Montero	Elehuris	Colorado	Colorado	INF		
-Trejo	Alan	Colorado	Colorado	INF		
-Serven	Brian	Colorado	Colorado	C/INF		
-Bouchard	Sean	Colorado	Colorado	OF		
-Bryant	Kris	Colorado	Colorado	OF	Washington Released from No Trade	
-Henry	Tommy	Arizona	Arizona	LHP		
-Martin	Corbin	Arizona	Arizona	RHP		
-Ginkel	Kevin	Arizona	Arizona	RHP		
-Jameson	Drew	Arizona	Arizona	RHP		
-Castellanos	Humberto	Arizona	Arizona	RHP		
-Nelson	Kyle	Arizona	Arizona	LHP		
-Mantiply	Joe	Arizona	Arizona	LHP	Washington Non-Protectable Player	
-Lewis	Kyle	Seattle	Arizona	OF		
-Moreno	Gabriel	Toronto	Arizona	C/INF		
-Castillo	Diego	Pittsburgh	Arizona	INF/OF		
-Gurriel Jr.	Lourdes	Toronto	Arizona	INF/OF		
-Herrera	Jose	Arizona	Arizona	C		
-Beer	Seth	Arizona	Arizona	INF		
-Rivera	Emmanuel	Arizona	Arizona	INF		
-Kennedy	Buddy	Arizona	Arizona	INF		
-McCarthy	Jake	Arizona	Arizona	OF	Boston Non-Protectable Player	V 1. 1-16-23
-Arraez	Luis	Minnesota	Miami	INF		
-Mancini	Trey	Houston	Chicago (N)	INF/OF		
-Cueto	Johnny	Chicago (A)	Miami	RHP		
-Barrera	Tres	Washington	St. Louis	C	Los Angeles Non-Protectable Player	
-Castro	Harold	Detroit	Colorado	INF/OF		
-Young	Alex	San Francisco	Cincinnati	LHP		
-Merryweather	Julian	Toronto	Chicago (N)	RHP		
-Law	Derek	Cincinnati	Cincinnati	RHP		
-Torrens	Luis	Seattle	Chicago (N)	C/INF		
-Smeltzer	Devin	Minnesota	Miami	LHP		
-Bolt	Skye	Oakland	Milwaukee	OF		
-Chavis	Michael	Pittsburgh	Washington	INF	Oakland Non-Protectable Player	
-Locastro	Tim	New York (A)	New York (N)	OF		
-Rivas	Alfonso	Chicago (N)	San Diego	INF/OF		V2. 1-29-23
-Barnes	Matt	Boston	Miami	RHP		
-Harrison	Josh	Chicago (A)	Philadelphia	INF/OF		
-Peralta	Wily	Detroit	Washington	RHP		
-Sierra	Magneuris	Anaheim	Atlanta	OF		
-Pinder	Chad	Oakland	Cincinnati	INF/OF		
-Vosler	Jason	San Francisco	Cincinnati	INF/OF		
-Kuhl	Chad	Colorado	Washington	RHP	Houston Non-Protectable Player	
-Munoz	Yairo	Philadelphia	Arizona	INF/OF		
-Benson	Will	Cleveland	Cincinnati	OF		
-Misiewicz	Anthony	Kansas City	St. Louis	LHP		
-Perez	Michael	New York (N)	New York (N)	C	Pittsburgh Non-Protectable Player	
-Newcomb	Sean	Chicago (N)	San Francisco	LHP		
-Duffy	Tyler	Minnesota	Chicago (N)	RHP		
-Piscotty	Stephen	Oakland	San Francisco	OF		
-Puk	A.J.	Oakland	Miami	LHP		
-Fulmer	Michael	Minnesota	Chicago (N)	RHP		
-Chafin	Andrew	Detroit	Arizona	LHP		
-Plawecki	Kevin	Texas	Pittsburgh	C		
-Wacha	Michael	Boston	San Diego	RHP		
-Norris	Daniel	Detroit	Cincinnati	LHP		V3 2-18-23
-Anderson	Chase	Cincinnati	Cincinnati	RHP		
-Sousa	Bennett	Chicago (A)	Cincinnati	LHP		
-Swarmer	Matt	Chicago (N)	Atlanta	RHP		
-Odor	Rougned	Baltimore	San Diego	INF		
-Koenig	Jared	Oakland	San Diego	LHP		V4 3-6-23
-Gurriel	Yuli	Houston	Miami	INF		
-Romo	Sergio	Toronto	San Francisco	RHP		V5 3-16-23
-Santana	Dennis	Texas	New York (N)	RHP		
-Crowe	Wil	Pittsburgh	Pittsburgh	RHP	Colorado Non-Protectable Player	
-Colome	Alex	Colorado	Washington	RHP	Unprotected by Washington	
-Gutierrez	Vladimir	Cincinnati	Cincinnati	RHP	Unprotected by Washington	
-Johnson	Pierce	San Diego	Colorado	RHP	Unprotected by Washington	
-Dunn	Justin	Cincinnati	Cincinnati	RHP	Unprotected by Washington	
-Corbin	Patrick	Washington	Washington	LHP	Unprotected by Boston	
-Wick	Rowan	Chicago (N)	Chicago (N)	RHP	Unprotected by Boston	
-Cessa	Luis	Cincinnati	Cincinnati	RHP	Unprotected by Boston	
-Bender	Anthony	Miami	Miami	RHP	Unprotected by Boston	
-Crismatt	Nabil	San Diego	San Diego	RHP	Unprotected by Boston	
-Gilbert	Tyler	Arizona	Arizona	LHP	Unprotected by Boston	
-Bruihl	Justin	Los Angeles	Los Angeles	LHP	Unprotected by Boston	
-Smith	Pavin	Arizona	Arizona	INF/OF	Unprotected by Boston	
-Strickland	Hunter	Cincinnati	Cincinnati	RHP	Unprotected by Oakland	
-Cabrera	Genesis	St. Louis	St. Louis	LHP	Unprotected by Oakland	
-Smith	Caleb	Arizona	Pittsburgh	LHP	Unprotected by Oakland	
-Ahmed	Nick	Arizona	Arizona	INF	Unprotected by Oakland	
-Garcia	Avisail	Miami	Miami	OF	Unprotected by Oakland	
-Williams	Luke	Miami	Los Angeles	INF/OF	Unprotected by Oakland	
-Hernandez	Elieser	Miami	New York (N)	RHP	Unprotected by San Francisco	
-Stratton	Chris	St. Louis	St. Louis	RHP	Unprotected by San Francisco	
-Severino	Pedro	Milwaukee	San Diego	C/INF	Unprotected by San Francisco	
-Wynns	Austin	San Francisco	San Francisco	C	Unprotected by San Francisco	
-Cruz	Nelson	Washington	San Diego	DH	Unprotected by San Francisco	
-Ruf	Darin	New York (N)	New York (N)	INF/OF	Unprotected by San Francisco	
-Duggar	Steven	Anaheim	Los Angeles	OF	Unprotected by San Francisco	
-Adams	Riley	Washington	Washington	C/INF	Unprotected by Colorado	
-Perez	Roberto	Pittsburgh	San Francisco	C	Unprotected by Colorado	
-Bickford	Phil	Los Angeles	Los Angeles	RHP	Unprotected by Houston	
-Castro	Miguel	New York (A)	Arizona	RHP	Unprotected by Houston	
-Gilbreath	Lucas	Colorado	Colorado	LHP	Unprotected by Houston	
-Rios	Edwin	Los Angeles	Chicago (N)	INF	Unprotected by Houston	
-Tucker	Cole	Pittsburgh	Colorado	INF/OF	Unprotected by Houston	
-Gustave	Jandel	Milwaukee	Arizona	RHP	Unprotected by Los Angeles	
-Banda	Anthony	New York (A)	Washington	LHP	Unprotected by Los Angeles	
-McFarland	T.J.	St. Louis	New York (N)	LHP	Unprotected by Los Angeles	
-Garcia	Aramis	Cincinnati	Philadelphia	C/INF	Unprotected by Los Angeles	
-Nunez	Dom	Colorado	Chicago (N)	C	Unprotected by Los Angeles	
-Wendle	Joey	Miami	Miami	INF	Unprotected by Los Angeles	
-Senzatela	Antonio	Colorado	Colorado	RHP	Unprotected by Milwaukee	
-Heyward	Jason	Chicago (N)	Los Angeles	OF	Unprotected by Milwaukee	
-Santillan	Tony	Cincinnati	Cincinnati	RHP	Unprotected by St.Louis	
-Stephenson	Robert	Pittsburgh	Pittsburgh	RHP	Unprotected by St.Louis	
-Weaver	Luke	Kansas City	Cincinnati	RHP	Unprotected by St.Louis	
-Anderson	Brian	Miami	Milwaukee	INF/OF	Unprotected by St.Louis	
-Familia	Jeurys	Boston	Arizona	RHP	Unprotected by Pittsburgh	
-Stammen	Craig	San Diego	San Diego	RHP	Unprotected by Pittsburgh	
-Bote	David	Chicago (N)	Chicago (N)	INF	Unprotected by Pittsburgh	
-Rosario	Eddie	Atlanta	Atlanta	OF	Unprotected by Pittsburgh	
-Head	Louis	Baltimore	Philadelphia	RHP	Unprotected by Baltimore	
-Melancon	Mark	Arizona	Arizona	RHP	Unprotected by Toronto	
-Adrianza	Ehire	Atlanta	Atlanta	INF/OF	Unprotected by Toronto	
-Ozuna	Marcell	Atlanta	Atlanta	OF	Unprotected by Toronto	V6 3-18-23
+Perdomo	Angel	Pittsburgh	Atlanta	LHP - Short
+Kerr	Ray	San Diego	Atlanta	LHP - Long
+Sale	Chris	Boston	Atlanta	LHP - 25
+Bummer	Aaron	Chicago (A)	Atlanta	LHP - Short
+Johnson	Pierce	Atlanta	Atlanta	RHP - Short
+Dodd	Dylan	Atlanta	Atlanta	LHP - 20
+Winans	Allan	Atlanta	Atlanta	RHP - 25
+Smith-Shawver	AJ	Atlanta	Atlanta	RHP - 20/Long
+Vines	Darius	Atlanta	Atlanta	RHP - Long/20
+Doyle	Tommy	Colorado	Atlanta	RHP - Long
+Lopez	Reynaldo	Cleveland	Atlanta	RHP - Short
+Fletcher	David	Anaheim	Atlanta	RSP - INF
+Kelenic	Jarred	Seattle	Atlanta	LSP - OF
+Velazquez	Andrew	Anaheim	Atlanta	BSP - INF
+Smeltzer	Devin	Miami	Miami	LHP - Long/20
+Soriano	George	Miami	Miami	RHP - Long/20
+Brazoban	Huascar	Miami	Miami	RHP - Long
+Weathers	Ryan	Miami	Miami	LHP - 20/Long
+Nardi	Andrew	Miami	Miami	LHP - Short
+Hoeing	Bryan	Miami	Miami	RHP - Long/20
+Faucher	Calvin	Tampa Bay	Miami	RHP - Long/20
+Brujan	Vidal	Tampa Bay	Miami	BSP - INF/OF
+Bethancourt	Christian	Tampa Bay	Miami	RSP - C
+Myers	Dane	Miami	Miami	RSP - OF
+Bell	Josh	Miami	Miami	BSP - INF
+Edwards	Xavier	Miami	Miami	BSP - INF/OF
+Burger	Jake	Miami	Miami	RP - INF
+Battenfield	Peyton	Cleveland	New York (N)	RHP - 20/Long
+Lucchesi	Joey	New York (N)	New York (N)	LHP - 25
+Hartwig	Grant	New York (N)	New York (N)	RHP - Long
+Butto	Jose	New York (N)	New York (N)	RHP - 20/Long
+Garrett	Reed	New York (N)	New York (N)	RHP - Long
+Ramirez	Yohan	Chicago (A)	New York (N)	RHP - Long
+Lopez	Jorge	Baltimore	New York (N)	RHP - Short
+Tonkin	Michael	Atlanta	New York (N)	RHP - Long
+Severino	Luis	New York (A)	New York (N)	RHP - 20/Long
+Short	Zack	Detroit	New York (N)	RP - INF/OF
+Stewart	DJ	New York (N)	New York (N)	LP - OF
+Mauricio	Ronny	New York (N)	New York (N)	BP - INF
+Bader	Harrison	Cincinnati	New York (N)	RP - OF
+Vientos	Mark	New York (N)	New York (N)	RP - INF
+Ruiz	Jose	Arizona	Philadelphia	RHP - Long/20
+Marte	Yunior	Philadelphia	Philadelphia	RHP - Short
+Hoffman	Jeff	Philadelphia	Philadelphia	RHP - Short
+Covey	Dylan	Philadelphia	Philadelphia	RHP - Long/20
+Ortiz	Luis	Philadelphia	Philadelphia	RHP - Long
+Sanchez	Cristopher	Philadelphia	Philadelphia	LHP - 25/Long
+Clemens	Kody	Philadelphia	Philadelphia	LSP - INF/OF
+Pache	Cristian	Philadelphia	Philadelphia	RSP - OF
+Rojas	Johan	Philadelphia	Philadelphia	RSP - OF
+La Sorsa	Joe	Washington	Washington	LHP - Long
+Ferrer	Jose	Washington	Washington	LHP - Short
+Garcia	Robert	Washington	Washington	LHP - Long
+Rutledge	Jackson	Washington	Washington	RHP - 25
+Willingham	Amos	Washington	Washington	RHP - Long
+Ward	Thaddeus	Washington	Washington	RHP - Long
+Irvin	Jake	Washington	Washington	RHP - 25
+Adon	Joan	Washington	Washington	RHP - 20/Long
+Weems	Jordan	Washington	Washington	RHP - Long
+Call	Alex	Washington	Washington	RP - OF
+Garrett	Stone	Washington	Washington	RP - OF
+Millas	Drew	Washington	Washington	BP - C
+Adams	Riley	Washington	Washington	RP - C
+Alu	Jake	Washington	Washington	LSP - INF/OF
+Kieboom	Carter	Washington	Washington	RP - INF
+Young	Jacob	Washington	Washington	RSP - OF
+Alzolay	Adbert	Chicago (N)	Chicago (N)	RHP - Short
+Merryweather	Julian	Chicago (N)	Chicago (N)	RHP - Long
+Palencia	Daniel	Chicago (N)	Chicago (N)	RHP - Long
+Cuas	Jose	Chicago (N)	Chicago (N)	RHP - Short/7
+Wicks	Jordan	Chicago (N)	Chicago (N)	LHP - 20
+Alfaro	Jorge	Boston	Chicago (N)	RSP - C
+Busch	Michael	Los Angeles	Chicago (N)	LSP - INF/OF
+Tauchman	Mike	Chicago (N)	Chicago (N)	LSP - OF
+Mastrobuoni	Miles	Chicago (N)	Chicago (N)	LSP - INF/OF
+Amaya	Miguel	Chicago (N)	Chicago (N)	RP - C
+Mervis	Matt	Chicago (N)	Chicago (N)	LP - INF
+Kennedy	Brett	Cincinnati	Cincinnati	RHP - Long/20
+Williamson	Brandon	Cincinnati	Cincinnati	LHP - 25
+Phillips	Connor	Cincinnati	Cincinnati	RHP - 20
+Cruz	Fernando	Cincinnati	Cincinnati	RHP - Long/20
+Abbott	Andrew	Cincinnati	Cincinnati	LHP - 25
+Sims	Lucas	Cincinnati	Cincinnati	RHP - Short
+Moll	Sam	Cincinnati	Cincinnati	LHP - Short/7
+Young	Alex	Cincinnati	Cincinnati	LHP - Short
+Gibaut	Ian	Cincinnati	Cincinnati	RHP - Short
+Pagan	Emilio	Minnesota	Cincinnati	RHP - Long/20
+Bruihl	Justin	Colorado	Cincinnati	LHP - Long
+Capel	Conner	Oakland	Cincinnati	LSP - OF
+Mathias	Mark	San Francisco	Cincinnati	RSP - INF/OF
+Martini	Nick	Cincinnati	Cincinnati	LP - INF/OF
+Encarnacion	Christian	Cincinnati	Cincinnati	RP - INF/OF
+McLain	Matt	Cincinnati	Cincinnati	RSP - INF
+Marte	Noelvi	Cincinnati	Cincinnati	RP - INF
+Zastryzny	Rob	Pittsburgh	Milwaukee	LHP - Short/7
+Rea	Colin	Milwaukee	Milwaukee	RHP - 25/Long
+Megill	Trevor	Milwaukee	Milwaukee	RHP - Long/20
+Peguero	Elvis	Milwaukee	Milwaukee	RHP - Long
+Uribe	Abner	Milwaukee	Milwaukee	RHP - Short
+Payamps	Joel	Milwaukee	Milwaukee	RHP - Short
+Clarke	Taylor	Kansas City	Milwaukee	RHP - Short/7
+Wilson	Bryse	Milwaukee	Milwaukee	RHP - Long
+Bauers	Jake	New York (A)	Milwaukee	LP - INF/OF
+Haase	Eric	Cleveland	Milwaukee	RSP - C/OF
+Perkins	Blake	Milwaukee	Milwaukee	BP - OF
+Wiemer	Joey	Milwaukee	Milwaukee	RSP - OF
+Frelick	Sal	Milwaukee	Milwaukee	LP - OF
+Turang	Brice	Milwaukee	Milwaukee	LP - INF
+Monasterio	Andruw	Milwaukee	Milwaukee	RSP - INF
+Heller	Ben	Atlanta	Pittsburgh	RHP - Short
+Perez	Martin	Texas	Pittsburgh	LHP - 25/Long
+Selby	Colin	Pittsburgh	Pittsburgh	RHP - Long/20
+Borucki	Ryan	Pittsburgh	Pittsburgh	LHP - Long/20
+Mlodzinski	Carmen	Pittsburgh	Pittsburgh	RHP - Long/20
+Ortiz	Luis	Pittsburgh	Pittsburgh	RHP - 25/Long
+Hernandez	Jose	Pittsburgh	Pittsburgh	LHP - Short
+Gonzales	Marco	Seattle	Pittsburgh	LHP - 25
+McKinney	Billy	New York (A)	Pittsburgh	LP - INF/OF
+Lamb	Jake	Anaheim	Pittsburgh	LP - INF
+Olivares	Edward	Kansas City	Pittsburgh	RP - OF
+Peguero	Liover	Pittsburgh	Pittsburgh	RP - INF
+Williams	Alika	Pittsburgh	Pittsburgh	RSP - INF
+Palacios	Joshua	Pittsburgh	Pittsburgh	LP - OF
+Triolo	Jared	Pittsburgh	Pittsburgh	RSP - INF
+Rodriguez	Endy	Pittsburgh	Pittsburgh	BP - C/INF
+Davis	Henry	Pittsburgh	Pittsburgh	RP - C/OF
+King	John	St. Louis	St. Louis	LHP - Long
+Romero	JoJo	St. Louis	St. Louis	LHP - Long
+Rom	Drew	St. Louis	St. Louis	LHP - 20
+Gray	Sonny	Minnesota	St. Louis	RHP - 25
+Gibson	Kyle	Baltimore	St. Louis	RHP - 25
+Robertson	Nick	Boston	St. Louis	RHP - Long/20
+Lynn	Lance	Los Angeles	St. Louis	RHP - 25
+Young	Jared	Chicago (N)	St. Louis	LSP - INF
+Fermin	Jose	St. Louis	St. Louis	RSP - INF
+Baker	Luken	St. Louis	St. Louis	RSP - INF
+Winn	Masyn	St. Louis	St. Louis	RP - INF
+Carpenter	Matt	San Diego	St. Louis	LP - INF
+Herrera	Ivan	St. Louis	St. Louis	RSP - C
+Jarvis	Bryce	Arizona	Arizona	RHP - Long/20
+McGough	Scott	Arizona	Arizona	RHP - Short/7
+Sewald	Paul	Arizona	Arizona	RHP - Short
+Pfaadt	Brandon	Arizona	Arizona	RHP - 20/Long
+Nelson	Ryne	Arizona	Arizona	RHP - 25/Long
+Cecconi	Slade	Arizona	Arizona	RHP - 20/Long
+Henry	Tommy	Arizona	Arizona	LHP - 25/Long
+Frias	Luis	Arizona	Arizona	RHP - Long
+Thompson	Ryan	Arizona	Arizona	RHP - Short
+Snider	Collin	Kansas City	Arizona	RHP - Short/7
+Rodriguez	Eduardo	Detroit	Arizona	LHP - 25
+Suarez	Eugenio	Seattle	Arizona	RP - INF
+Peterson	Jace	Arizona	Arizona	LP - INF/OF
+Koch	Matt	Colorado	Colorado	RHP - Short/7
+Blach	Ty	Colorado	Colorado	LHP - 20/Long
+Kauffmann	Karl	Colorado	Colorado	RHP - Long/20
+Mears	Nick	Colorado	Colorado	RHP - Long
+Lambert	Peter	Colorado	Colorado	RHP - Long/25
+Hollowell	Gavin	Colorado	Colorado	RHP - Long
+Davis	Noah	Colorado	Colorado	RHP - 20/Long
+Lawrence	Justin	Colorado	Colorado	RHP - Short
+Quantrill	Cal	Cleveland	Colorado	RHP - 25
+Beeks	Jalen	Tampa Bay	Colorado	LHP - Long/20
+Feltner	Ryan	Colorado	Colorado	RHP - 20
+Montes	Coco	Colorado	Colorado	RP - INF
+Trejo	Alan	Colorado	Colorado	RSP - INF
+Bouchard	Sean	Colorado	Colorado	RP - OF
+Doyle	Brenton	Colorado	Colorado	RSP - OF
+Goodman	Hunter	Colorado	Colorado	RSP - INF/OF
+Varland	Gus	Los Angeles	Los Angeles	RHP - Long
+Kelly	Joe	Los Angeles	Los Angeles	RHP - Short
+Stone	Gavin	Los Angeles	Los Angeles	RHP - 20/Long
+Yarbrough	Ryan	Los Angeles	Los Angeles	LHP - Long/25
+Sheehan	Emmet	Los Angeles	Los Angeles	RHP - 25/Long
+Miller	Bobby	Los Angeles	Los Angeles	RHP - 25
+Arauz	Jonathan	New York (N)	Los Angeles	BP - INF
+Hernandez	Teoscar	Seattle	Los Angeles	RP - OF
+Outman	James	Los Angeles	Los Angeles	LP - OF
+Ohtani	Shohei	Anaheim	Los Angeles	RHP - 25 / DH
+Okey	Chris	Anaheim	Los Angeles	RSP - C
+Avila	Pedro	San Diego	San Diego	RHP - Long/20
+Cosgrove	Tom	San Diego	San Diego	LHP - Short
+Waldron	Matt	San Diego	San Diego	RHP - 25/Long
+Patino	Luis	Chicago (A)	San Diego	RHP - Long/20
+Vasquez	Randy	New York (A)	San Diego	RHP - Long/20
+Brito	Jhony	New York (A)	San Diego	RHP - 20/Long
+King	Michael	New York (A)	San Diego	RHP - Long/20
+De Los Santos	Enyel	Cleveland	San Diego	RHP - Short
+Johnson	Bryce	San Francisco	San Diego	BP - OF
+Wade	Tyler	Oakland	San Diego	LSP - INF/OF
+Higashioka	Kyle	New York (A)	San Diego	RP - C
+Batten	Matthew	San Diego	San Diego	RP - INF
+Sullivan	Brett	San Diego	San Diego	LP - C/INF
+Jackson	Luke	San Francisco	San Francisco	RHP - Short
+Walker	Ryan	San Francisco	San Francisco	RHP - Long/20
+Beck	Tristan	San Francisco	San Francisco	RHP - Long/20
+Winn	Keaton	San Francisco	San Francisco	RHP - 20/Long
+Murphy	Tom	Seattle	San Francisco	RP - C
+Matos	Luis	San Francisco	San Francisco	RSP - OF
+Sabol	Blake	San Francisco	San Francisco	LSP - C/OF
+Villar	David	San Francisco	San Francisco	RP - INF
+Conforto	Michael	San Francisco	San Francisco	LP - OF
+Wisely	Brett	San Francisco	San Francisco	LSP - INF/OF
+Meckler	Wade	San Francisco	San Francisco	LSP - OF
+Schmitt	Casey	San Francisco	San Francisco	RP - INF
+Bailey	Patrick	San Francisco	San Francisco	BP - C
+Gallo	Joey	Minnesota	Washington	LP - INF/OF
+Martinez	J.P.	Texas	Atlanta	LSP - OF
+Curtiss	John	New York (N)	Colorado	RHP - Long
+Paxton	James	Boston	Los Angeles	LHP - 25
+Chapman	Aroldis	Texas	Pittsburgh	LHP - Short
+Neris	Hector	Houston	Chicago (N)	RHP - Short
+Rivas	Alfonso	Pittsburgh	St. Louis	LSP - INF/OF
+Peralta	Wandy	New York (A)	San Diego	LHP - Short
+Lovelady	Richard	Oakland	Chicago (N)	LHP - Short
+Arroyo	Christian	Boston	Milwaukee	RP - INF
+Bleier	Richard	Boston	Washington	LHP - Long
+Hall	DL	Baltimore	Milwaukee	LHP - Long
+Middleton	Keynan	New York (A)	St. Louis	RHP - Short
+Brasier	Ryan	Los Angeles	Los Angeles	RHP - Short
+Castillo	Max	Kansas City	Philadelphia	RHP - Long
+Diekman	Jake	Tampa Bay	New York (N)	LHP - Short
+Carasiti	Matt	Colorado	Colorado	RHP - Long
+Carlton	Drew	San Diego	San Diego	RHP - Long
+Tromp	Chadwick	Atlanta	Atlanta	RSP - C
+Davis	Jonathan	Miami	Miami	RSP - OF
+Sanchez	Gary	San Diego	Milwaukee	RP - C
+Honeywell	Brent	Chicago (A)	Pittsburgh	RHP - Long
+Gordon	Nick	Minnesota	Miami	LSP - INF/OF
+Fleming	Josh	Tampa Bay	Pittsburgh	LHP - Long/20
+Fujinami	Shintaro	Baltimore	New York (N)	RHP - Long/20
+Grandal	Yasmani	Chicago (A)	Pittsburgh	BP - C/INF
+Turnbull	Spencer	Detroit	Philadelphia	RHP - 20
+Anderson	Chase	Colorado	Pittsburgh	RHP - 20/Long
+Merrifield	Whit	Toronto	Philadelphia	RP - INF/OF
+Nogosek	Stephen	New York (N)	Washington	RHP - Long
+Profar	Jurickson	San Diego	San Diego	BP - INF/OF
+Anderson	Tim	Chicago (A)	Miami	RSP - INF
+Ford	Mike	Seattle	Cincinnati	LP - INF
+Kemp	Tony	Oakland	Cincinnati	LP - INF/OF
+Law	Derek	Cincinnati	Washington	RHP - Short/7
+Chirinos	Yonny	Atlanta	Miami	RHP - Long/20
+Gallagher	Cam	Cleveland	Philadelphia	RSP - C
+Chapman	Matt	Toronto	San Francisco	RP - INF
+Barnes	Matt	Miami	Washington	RHP - Short/7
+Hernandez	Enrique	Los Angeles	Los Angeles	RP - INF/OF
+Andrus	Elvis	Chicago (A)	Arizona	RP - INF
+Garrett	Amir	Kansas City	San Francisco	LHP - Short
+Herget	Kevin	Cincinnati	Milwaukee	RHP - Long
+Garza	Justin	Boston	San Francisco	RHP - Long/20
+Rosario	Eddie	Atlanta	Washington	LP - OF
+Miller	Brad	Texas	San Diego	LSP - INF
+Duvall	Adam	Boston	Atlanta	RP - OF
+Glasnow	Tyler	Tampa Bay	Los Angeles	RHP - 25
+Lindor	Francisco	New York (N)	New York (N)	BP - INF
+Cease	Dylan	Chicago (A)	San Diego	RHP - 25
+Taylor	Michael	Minnesota	Pittsburgh	RSP - OF
+German	Domingo	New York (A)	Pittsburgh	RHP - 25/Long
+Gomber	Austin	Colorado	Colorado	LHP - 25
+Choi	Ji-Man	San Diego	New York (N)	LP - INF
+Floro	Dylan	Minnesota	Washington	RHP - Short
+Hjelle	Sean	San Francisco	San Francisco	RHP - Long
+Pallante	Andre	St. Louis	St. Louis	RHP - Long
+Lee	Dylan	Atlanta	Atlanta	LHP - Short/7
+Harrison	Josh	Philadelphia	Cincinnati	RP - INF/OF
+Thompson	Trayce	Chicago (A)	New York (N)	RSP - OF
+Hilliard	Sam	Atlanta	Colorado	LP - OF
+Cobb	Alex	San Francisco	San Francisco	RHP - 25
+Oviedo	Johan	Pittsburgh	Pittsburgh	RHP - 25
+Rucker	Michael	Chicago (N)	Chicago (N)	RHP - Long
+Bart	Joey	San Francisco	San Francisco	RSP - C
+Meneses	Joey	Washington	Washington	RSP - INF/OF
+Brogdon	Connor	Philadelphia	Philadelphia	RHP - Long/20
+Smith	Drew	New York (N)	New York (N)	RHP - Short
+Peterson	David	New York (N)	New York (N)	LHP - 25/Long
+Marcano	Tucupita	Pittsburgh	San Diego	LSP - INF
+Grichuk	Randal	Anaheim	Arizona	RP - OF
+Bellatti	Andrew	Philadelphia	Philadelphia	RHP - Short
+Edwards	Carl	Washington	Chicago (N)	RHP - Short
+Holderman	Colin	Pittsburgh	Pittsburgh	RHP - Short
+Freeland	Kyle	Colorado	Colorado	LHP - 25
+Mantiply	Joe	Arizona	Arizona	LHP - Long/20
+Nelson	Kyle	Arizona	Arizona	LHP - Short/7
+Delay	Jason	Pittsburgh	Pittsburgh	RP - C
+Nido	Tomas	New York (N)	New York (N)	RSP - C
+Voit	Luke	Milwaukee	New York (N)	RSP - INF
+Bard	Daniel	Colorado	Colorado	RHP - Short
+Lamet	Dinelson	Boston	Los Angeles	RHP - Long/20
+Stubbs	Garrett	Philadelphia	Philadelphia	LP - C/OF
+Montero	Elehuris	Colorado	Colorado	RP - INF
+Luplow	Jordan	Minnesota	Philadelphia	RSP - INF/OF
+Grove	Michael	Los Angeles	Los Angeles	RHP - 20/Long
+Strzelecki	Peter	Arizona	Arizona	RHP - Short
+Williams	Trevor	Washington	Washington	RHP - 25
+Rogers	Taylor	San Francisco	San Francisco	LHP - Short
+Casali	Curt	Cincinnati	Miami	RSP - C/INF
+Hall	Darick	Philadelphia	Philadelphia	LSP - INF
+Rivera	Emmanuel	Arizona	Arizona	RSP - INF
+Sosa	Edmundo	Philadelphia	Philadelphia	RP - INF/OF
+Burleson	Alec	St. Louis	St. Louis	LP - INF/OF
+Cave	Jake	Philadelphia	Philadelphia	LP - INF/OF
+Locastro	Tim	New York (N)	San Diego	RP - OF
+Guillorme	Luis	New York (N)	Atlanta	LSP - INF
+Winker	Jesse	Milwaukee	Washington	LSP - OF
+Smyly	Drew	Chicago (N)	Chicago (N)	LHP - 25/Long
+Davies	Zach	Arizona	Washington	RHP - 20
+Corbin	Patrick	Washington	Washington	LHP - 25
+Wendle	Joey	Miami	New York (N)	LSP - INF
+Azocar	Jose	San Diego	San Diego	RP - OF
+Garcia	Avisail	Miami	Miami	RSP - OF
