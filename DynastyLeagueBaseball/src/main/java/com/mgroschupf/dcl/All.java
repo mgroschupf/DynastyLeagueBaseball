@@ -31,7 +31,7 @@ public class All {
 				int rank = Integer.parseInt(rankString);
 				String team = tokens[3];
 				String position = tokens[5];
-				Player.addPlayer(tokens[1], tokens[2], rank, team, position);
+				Player.addPlayer(tokens[1], tokens[2], rank, team, position, null);
 			}
 			br.close();
 		} catch (Exception e) {
@@ -40,7 +40,7 @@ public class All {
 	}
 
 	public static void main(String[] args) {
-		All all = new All(DCL.ROOT_DIR + "All.txt");
+		All all = new All("All.txt");
 		all.open();
 		List<Player> players = Player.getPlayers();
 		for (Iterator<Player> i=players.iterator(); i.hasNext(); )

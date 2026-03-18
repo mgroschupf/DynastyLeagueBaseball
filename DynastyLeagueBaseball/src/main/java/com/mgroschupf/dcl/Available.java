@@ -2,6 +2,8 @@ package com.mgroschupf.dcl;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
+import java.io.InputStream;
+import java.io.InputStreamReader;
 import java.util.Iterator;
 import java.util.List;
 
@@ -18,14 +20,14 @@ public class Available {
 
 	public void open() {
 		try {
-			BufferedReader br =
-				new BufferedReader(new FileReader(filename));
+			InputStream in = this.getClass().getResourceAsStream("/" + filename);
+			BufferedReader br = new BufferedReader(new InputStreamReader(in));
 			String line;
 			while ((line = br.readLine()) != null) {
 				// System.out.println(line);
 				String [] tokens = null;
 				// If line starts with a digit: Rank. First Last - Team
-				// Otherwise: Last First Team Team Position
+				// Otherwise: Last First Team Team Position Note
 				if (Character.isDigit(line.charAt(0))) {
 					tokens = line.split("\\s+");
 				}
@@ -41,10 +43,14 @@ public class Available {
 							team += " " + tokens[i];
 						}
 						// System.out.println(tokens[1] + " " + tokens[2] + " " + team);
-						p = Player.addPlayer(tokens[1], tokens[2], 0, team, null);
+						p = Player.addPlayer(tokens[1], tokens[2], 0, team, null, null);
 						p.setLastTeam(team);
 					} else {
-						p = Player.addPlayer(tokens[1], tokens[0], 0, tokens[3], tokens[4]);
+						String note = null;
+						if (tokens.length > 5) {
+							note = tokens[5];
+						}
+						p = Player.addPlayer(tokens[1], tokens[0], 0, tokens[3], tokens[4], note);
 						p.setLastTeam(tokens[2]);
 					}
 					if (p != null) {
@@ -59,7 +65,7 @@ public class Available {
 	}
 
 	public static void main(String[] args) {
-		Available available = new Available(DCL.ROOT_DIR + "Available.txt");
+		Available available = new Available("Available.txt");
 		available.open();
 		List<Player> players = Player.getPlayers();
 		for (Iterator<Player> i=players.iterator(); i.hasNext(); )

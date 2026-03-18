@@ -10,10 +10,14 @@ import javax.swing.JTable;
 import javax.swing.JTextArea;
 import javax.swing.WindowConstants;
 import javax.swing.table.AbstractTableModel;
+import javax.swing.table.DefaultTableCellRenderer;
+import javax.swing.table.TableModel;
 
 import com.mgroschupf.flb.MVPs;
 
 import java.awt.BorderLayout;
+import java.awt.Component;
+import java.awt.Color;
 import java.awt.Dimension;
 import java.awt.GridLayout;
 import java.io.ByteArrayOutputStream;
@@ -24,8 +28,6 @@ import java.util.Iterator;
 public class DCL extends JFrame {
 
 	private static final long serialVersionUID = 1L;
-
-	public static final String ROOT_DIR = "C:\\Users\\GRO4525\\eclipse-workspace\\DynastyLeagueBaseball\\DynastyLeagueBaseball\\src\\";
 
 	ArrayList<ArrayList<String>> pitcherData = new ArrayList<>();
 	ArrayList<ArrayList<String>> hitterData = new ArrayList<>();
@@ -52,7 +54,8 @@ public class DCL extends JFrame {
 		private static final long serialVersionUID = 1L;
 
 		public int getColumnCount() {
-			return pitcherData.get(0).size();
+			// Don't display the note
+			return pitcherData.get(0).size() - 1;
 		}
 
 		public int getRowCount() {
@@ -85,7 +88,8 @@ public class DCL extends JFrame {
 		private static final long serialVersionUID = 1L;
 
 		public int getColumnCount() {
-			return hitterData.get(0).size();
+			// Don't display the note
+			return hitterData.get(0).size() - 1;
 		}
 
 		public int getRowCount() {
@@ -105,6 +109,33 @@ public class DCL extends JFrame {
         }
 	}
 
+	class CustomRowColorRenderer extends DefaultTableCellRenderer {
+		public Component getTableCellRendererComponent(JTable table, Object value, boolean isSelected,
+			boolean hasFocus, int row, int column)
+		{
+			Component cellComponent =
+				super.getTableCellRendererComponent(table, value, isSelected, hasFocus, row, column);
+			TableModel model = table.getModel();
+			int modelRowIndex = table.convertRowIndexToModel(row);
+			String statusValue = (String) model.getValueAt(modelRowIndex, model.getColumnCount());
+			if (statusValue != null && statusValue.contains("not playable")) {
+				cellComponent.setForeground(Color.RED);
+			} else if (statusValue != null && statusValue.contains("Yes")) {
+				cellComponent.setForeground(Color.GREEN.darker());
+			} else if (statusValue != null && statusValue.contains("No")) {
+				cellComponent.setForeground(Color.ORANGE.darker());
+			} else if (statusValue != null && statusValue.contains("Pending")) {
+				cellComponent.setForeground(Color.BLUE);
+			} else {
+				cellComponent.setForeground(table.getForeground());
+			}
+			if (isSelected) {
+				cellComponent.setForeground(Color.WHITE);
+			}
+			return cellComponent;
+		}
+	}
+
 	public DCL() {
 		draft.setLayout(new GridLayout(2,1));
 		JScrollPane mvpScroll = new JScrollPane(mvp);
@@ -122,27 +153,31 @@ public class DCL extends JFrame {
 			Player p = i.next();
 			if (p.isAvailable()) {
 				if (! p.isSelected()) {
+					ArrayList<String> playerStats = stats.getPlayerStats(p);
+					playerStats.add(p.getNote());
 					if (p.isPitcher()) {
-						pitcherData.add(stats.getPlayerStats(p));
+						pitcherData.add(playerStats);
 					} else {
-						hitterData.add(stats.getPlayerStats(p));
+						hitterData.add(playerStats);
 					}
 				}
 			}
 		}
 		
 		JTable pitchers = new JTable(new PitcherModel());
-		pitchers.setPreferredScrollableViewportSize(new Dimension(500, 70));
+		pitchers.setPreferredScrollableViewportSize(new Dimension(1500, 400));
 		pitchers.setFillsViewportHeight(true);
 		pitchers.setAutoCreateColumnsFromModel(true);
 		pitchers.setAutoCreateRowSorter(true);
+		pitchers.setDefaultRenderer(Object.class, new CustomRowColorRenderer());
 		draft.add(new JScrollPane(pitchers));
 
 		JTable hitters = new JTable(new HitterModel());
-		hitters.setPreferredScrollableViewportSize(new Dimension(500, 70));
+		hitters.setPreferredScrollableViewportSize(new Dimension(1500, 400));
 		hitters.setFillsViewportHeight(true);
 		hitters.setAutoCreateColumnsFromModel(true);
 		hitters.setAutoCreateRowSorter(true);
+		hitters.setDefaultRenderer(Object.class, new CustomRowColorRenderer());
 		draft.add(new JScrollPane(hitters));
 		pack();
 	}
@@ -168,15 +203,18 @@ public class DCL extends JFrame {
 		// All all = new All("C:\\Users\\Mike\\Documents\\github\\DynastyLeagueBaseball\\DynastyLeagueBaseball\\src\\All.txt");
 		// all.open();
 		// Players available to draft
-		Available available = new Available(ROOT_DIR + "Available.txt");
+		Available available = new Available("Available.txt");
 		available.open();
 		// Drafted players
-		Selected selected = new Selected(ROOT_DIR + "Selected.txt");
+		Selected selected = new Selected("Selected.txt");
 		selected.open();
 		// Hitter and Pitcher stats from https://www.rotowire.com/baseball/stats.php
 		Statistics stats = new Statistics();
-		stats.readHitting(ROOT_DIR + "mlb-player-stats-Batters.txt");
-		stats.readPitching(ROOT_DIR + "mlb-player-stats-P.txt");
+		stats.readHitting("mlb-player-stats-Batters.csv");
+		stats.readPitching("mlb-player-stats-P.csv");
+		// My team
+		Team team = new Team("Team.txt");
+		team.open();
 		// Loop through the players and rank those that are available
 		List<Player> players = Player.getPlayers();
 		for (Iterator<Player> i = players.iterator(); i.hasNext(); ) {

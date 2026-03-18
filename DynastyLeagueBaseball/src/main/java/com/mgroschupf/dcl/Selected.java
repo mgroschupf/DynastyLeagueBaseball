@@ -61,7 +61,7 @@ public class Selected {
 	}
 
 	public static void main(String[] args) {
-		Selected selected = new Selected(DCL.ROOT_DIR + "Selected.txt");
+		Selected selected = new Selected("Selected.txt");
 		selected.open();
 	}
 }

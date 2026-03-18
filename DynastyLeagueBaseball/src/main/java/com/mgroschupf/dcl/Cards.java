@@ -39,6 +39,6 @@ public class Cards {
 	public static void main(String[] args) {
 		Cards cards = new Cards();
 		ArrayList<ArrayList<String>> records = new ArrayList();
-		cards.read(DCL.ROOT_DIR + "Cards.txt", records);
+		cards.read("Cards.txt", records);
     }
 }

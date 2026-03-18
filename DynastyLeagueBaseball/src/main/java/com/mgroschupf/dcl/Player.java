@@ -16,6 +16,7 @@ public class Player {
 	int rank;
 	boolean selected = false;
 	boolean available = false;
+	String note = "";
 
 	static ArrayList<Player> players = new ArrayList<Player>();
 	
@@ -69,10 +70,11 @@ public class Player {
 	 * @param teamName
 	 * @return
 	 */
-	public static Player addPlayer(String firstName, String lastName, int rank, String teamName, String position) {
+	public static Player addPlayer(String firstName, String lastName, int rank, String teamName, String position, String note) {
 		Player newPlayer = new Player(firstName, lastName, rank, teamName, position);
 		Player player = Player.findPlayer(newPlayer);
 		if (player == null) {
+			newPlayer.addNote(note);
 			players.add(newPlayer);
 			return newPlayer;
 		} else {
@@ -81,6 +83,7 @@ public class Player {
 				player.getPositions().add(position);
 			}
 		}
+		player.addNote(note);
 		return player;
 	}
 	
@@ -150,6 +153,20 @@ public class Player {
 	 */
 	public String getTeam() {
 		return teamName;
+	}
+
+	public void addNote(String note) {
+		String delim = ":";
+		if (this.note.isEmpty()) {
+			delim = "";
+		}
+		if (note != null) {
+			this.note += delim + note;
+		}
+	}
+
+	public String getNote() {
+		return note;
 	}
 
 	public boolean equals(Object obj) {

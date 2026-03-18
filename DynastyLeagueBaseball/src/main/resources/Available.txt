@@ -1,0 +1,247 @@
+Scott	Tayler	Arizona	Atlanta	RHP - Long	
+Molina	Anthony	Colorado	Atlanta	RHP - Long/20	
+Hamilton	Ian	New York (AL)	Atlanta	RHP - Long/20	
+Kinley	Tyler	Atlanta	Atlanta	RHP - Short	
+Elder	Bryce	Atlanta	Atlanta	RHP - 25	
+Stratton	Hunter	Atlanta	Atlanta	RHP - Short	
+Dodd	Dylan	Atlanta	Atlanta	LHP - Long	
+Waldrep	Hurston	Atlanta	Atlanta	RHP - 25/Long	
+Wentz	Joey	Atlanta	Atlanta	LHP - Long/20	
+Perez	Martin	Chicago (AL)	Atlanta	LHP - 25/Long	
+Leon	Sandy	Atlanta	Atlanta	C	* Can be drafted but not playable
+Baldwin	Drake	Atlanta	Atlanta	C	
+Alvarez	Nacho	Atlanta	Atlanta	INF	
+Dubon	Mauricio	Houston	Atlanta	INF/OF	
+Keirsey	DaShawn	Minnesota	Atlanta	OF	
+Mateo	Jorge	Baltimore	Atlanta	INF/OF	
+White	Eli	Atlanta	Atlanta	INF/OF	
+Heim	Jonah	Texas	Atlanta	C	
+Bachar	Lake	Miami	Miami	RHP - Long/20	
+Junk	Janson	Miami	Miami	RHP - 20/Long	
+Fairbanks	Pete	Tampa Bay	Miami	RHP - Short	
+Blalock	Bradley	Colorado	Miami	RHP - 20/Long	
+Brzykcy	Zach	Washington	Miami	RHP - Short	
+Simpson	Josh	Miami	Miami	LHP - Short	
+King	John	St. Louis	Miami	LHP - Short	
+Paddack	Chris	Detroit	Miami	RHP - 25/Long	
+Mazur	Adam	Miami	Miami	RHP - 25	
+Petersen	Michael	Miami	Miami	RHP - Long	
+Henriquez	Ronny	Miami	Miami	RHP - Short	
+Phillips	Tyler	Miami	Miami	RHP - Long/20	
+Gibson	Cade	Miami	Miami	LHP - Long/20	
+Gusto	Ryan	Miami	Miami	RHP - 20/Long	
+Hicks	Liam	Miami	Miami	C/INF	
+Ramirez	Agustin	Miami	Miami	C	
+Navarreto	Brian	Miami	Miami	C	* Can be drafted but not playable
+Sanoja	Javier	Miami	Miami	INF/OF	
+Acosta	Maximo	Miami	Miami	INF	* Can be drafted but not playable
+Pauley	Graham	Miami	Miami	INF/OF	* Can be drafted but not playable
+Johnson	Daniel	Baltimore	Miami	OF	* Can be drafted but not playable
+Marsee	Jakob	Miami	Miami	OF	
+Stowers	Kyle	Miami	Miami	OF	
+Hernandez	Heriberto	Miami	Miami	OF	
+Morel	Christopher	Tampa Bay	Miami	OF/INF	
+McLean	Nolan	New York (NL)	New York (NL)	RHP - 25	
+Williams	Devin	New York (AL)	New York (NL)	RHP - Short	
+Weaver	Luke	New York (AL)	New York (NL)	RHP - Short	
+Garcia	Luis	Anaheim	New York (NL)	RHP - Short	
+Tong	Jonah	New York (NL)	New York (NL)	RHP - 20	
+Hagenman	Justin	New York (NL)	New York (NL)	RHP - Long/20	
+Raley	Brooks	New York (NL)	New York (NL)	LHP - Short	
+Senger	Hayden	New York (NL)	New York (NL)	C	
+Bichette	Bo	Toronto	New York (NL)	INF	
+Semien	Marcus	Texas	New York (NL)	INF	
+Polanco	Jorge	Seattle	New York (NL)	INF	
+Mauricio	Ronny	New York (NL)	New York (NL)	INF	
+Young	Jared	New York (NL)	New York (NL)	INF/OF	
+Melendez	MJ	Kansas City	New York (NL)	OF	
+Robert	Luis	Chicago (AL)	New York (NL)	OF	
+Lazar	Max	Philadelphia	Philadelphia	RHP - Long	
+Walker	Taijuan	Philadelphia	Philadelphia	RHP - 25/Long	
+Mayza	Tim	Philadelphia	Philadelphia	LHP - Long	
+Cabrera	Genesis	Minnesota	Philadelphia	LHP - Long	
+Shugart	Chase	Pittsburgh	Philadelphia	RHP - Long	
+Backhus	Kyle	Arizona	Philadelphia	LHP - Short	
+Keller	Brad	Chicago (NL)	Philadelphia	RHP - Short/7	
+Wilson	Bryse	Chicago (AL)	Philadelphia	RHP - Long/20	
+Bowlan	Jonathan	Kansas City	Philadelphia	RHP - Long/20	
+Banks	Tanner	Philadelphia	Philadelphia	LHP - Short/7	
+Marchan	Rafael	Philadelphia	Philadelphia	C	* Can be drafted but not playable
+Peguero	Liover	Pittsburgh	Philadelphia	INF	* Can be drafted but not playable
+Moore	Dylan	Texas	Philadelphia	INF/OF	
+Kemp	Otto	Philadelphia	Philadelphia	INF/OF	
+Garcia	Adolis	Texas	Philadelphia	OF	
+De La Cruz	Bryan	Atlanta	Philadelphia	OF	* Can be drafted but not playable
+Pilkington	Konnor	Washington	Washington	LHP - Short	
+Henry	Cole	Washington	Washington	RHP - Short	
+Rutledge	Jackson	Washington	Washington	RHP - Long	
+Lord	Brad	Washington	Washington	RHP - Long/25	
+Ribalta	Orlando	Washington	Washington	RHP - Long	
+Beeter	Clayton	Washington	Washington	RHP - Short	
+Cavalli	Cade	Washington	Washington	RHP - 20	
+Poulin	PJ	Washington	Washington	LHP - Short	
+Alvarez	Andrew	Washington	Washington	LHP - 20	
+Schultz	Paxton	Toronto	Washington	RHP - Long/20	
+Ogasawara	Shinnosuke	Washington	Washington	LHP - Long/20	
+Granillo	Andre	St. Louis	Washington	RHP - Long	
+Ford	Harry	Seattle	Washington	C	* Can be drafted but not playable
+Bernabel	Warming	Colorado	Washington	INF	* Can be drafted but not playable
+Mervis	Matt	Miami	Washington	INF	* Can be drafted but not playable
+House	Brady	Washington	Washington	INF	
+Tena	Jose	Washington	Washington	INF	* Can be drafted but not playable
+Chaparro	Andres	Washington	Washington	INF	
+Nunez	Nasim	Washington	Washington	INF/OF	* Can be drafted but not playable
+Wiemer	Joey	Miami	Washington	OF	* Can be drafted but not playable
+Lile	Daylen	Washington	Washington	OF	
+Hassell	Robert	Washington	Washington	OF	
+Palencia	Daniel	Chicago (NL)	Chicago (NL)	RHP - Short	
+Webb	Jacob	Texas	Chicago (NL)	RHP - Long	
+Thielbar	Caleb	Chicago (NL)	Chicago (NL)	LHP - Short	
+Milner	Hoby	Texas	Chicago (NL)	LHP - Short	
+Snider	Collin	Seattle	Chicago (NL)	RHP - Long	
+Rolison	Ryan	Colorado	Chicago (NL)	LHP - Long/20	
+Thornton	Trent	Seattle	Chicago (NL)	RHP - Long	
+Ballesteros	Moises	Chicago (NL)	Chicago (NL)	C/INF	* Can be drafted but not playable
+Bregman	Alex	Boston	Chicago (NL)	INF	
+Carlson	Dylan	Baltimore	Chicago (NL)	OF	
+McCormick	Chas	Houston	Chicago (NL)	OF	
+Burke	Brock	Anaheim	Cincinnati	LHP - Short/7	
+Ferguson	Caleb	Seattle	Cincinnati	LHP - Short	
+Phillips	Connor	Cincinnati	Cincinnati	RHP - Long	
+Mey	Luis	Cincinnati	Cincinnati	RHP - Short	
+Richardson	Lyon	Cincinnati	Cincinnati	RHP - Long	
+Banfield	Will	Cincinnati	Cincinnati	C	
+Stewart	Sal	Cincinnati	Cincinnati	INF	* Can be drafted but not playable
+Encarnacion	Christian	Cincinnati	Cincinnati	INF	* Can be drafted but not playable
+Dunn	Blake	Cincinnati	Cincinnati	OF	* Can be drafted but not playable
+Hinds	Rece	Cincinnati	Cincinnati	OF	* Can be drafted but not playable
+Myers	Dane	Miami	Cincinnati	OF	
+Bleday	JJ	Oakland	Cincinnati	OF	
+Benson	Will	Cincinnati	Cincinnati	OF	* Can be drafted but not playable
+Zerpa	Angel	Kansas City	Milwaukee	LHP - Short/7	
+Gasser	Robert	Milwaukee	Milwaukee	LHP - 20	
+Hall	DL	Milwaukee	Milwaukee	LHP - Long/20	
+Zastryzny	Rob	Milwaukee	Milwaukee	LHP - Short/7	
+Woodruff	Brandon	Milwaukee	Milwaukee	RHP - 25	
+Henderson	Logan	Milwaukee	Milwaukee	RHP - 25	
+Priester	Quinn	Milwaukee	Milwaukee	RHP - 25/Long	
+Anderson	Grant	Milwaukee	Milwaukee	RHP - Long	
+Yoho	Craig	Milwaukee	Milwaukee	RHP - Short	
+Patrick	Chad	Milwaukee	Milwaukee	RHP - 25/Long	
+Sanchez	Gary	Baltimore	Milwaukee	C	
+Hamilton	David	Boston	Milwaukee	INF	* Can be drafted but not playable
+Vaughn	Andrew	Milwaukee	Milwaukee	INF	
+Bauers	Jake	Milwaukee	Milwaukee	INF/OF	* Can be drafted but not playable
+Lockridge	Brandon	Milwaukee	Milwaukee	OF	
+Mattson	Isaac	Pittsburgh	Pittsburgh	RHP - Long	
+Ramirez	Yohan	Pittsburgh	Pittsburgh	RHP - Long	
+Ashcraft	Braxton	Pittsburgh	Pittsburgh	RHP - Long/20	
+Soto	Gregory	New York (NL)	Pittsburgh	LHP - Short	
+Montgomery	Mason	Tampa Bay	Pittsburgh	LHP - Short	
+Flores	Rafael	Pittsburgh	Pittsburgh	C/INF	* Can be drafted but not playable
+Lowe	Brandon	Tampa Bay	Pittsburgh	INF	
+O'Hearn	Ryan	San Diego	Pittsburgh	INF/OF	
+Simon	Ronny	Pittsburgh	Pittsburgh	INF/OF	* Can be drafted but not playable
+Yorke	Nick	Pittsburgh	Pittsburgh	INF/OF	* Can be drafted but not playable
+Valdez	Enmanuel	Pittsburgh	Pittsburgh	INF/OF	
+Mangum	Jake	Tampa Bay	Pittsburgh	OF	
+Soriano	George	Miami	St. Louis	RHP - Long	
+Bruihl	Justin	Toronto	St. Louis	LHP - Short	
+Fitts	Richard	Boston	St. Louis	RHP - 20/Long	
+Blewett	Scott	Baltimore	St. Louis	RHP - Long/20	
+Dobbins	Hunter	Boston	St. Louis	RHP - 20/Long	
+Graceffo	Gordon	St. Louis	St. Louis	RHP - Long	
+Svanson	Matt	St. Louis	St. Louis	RHP - Long	
+Roycroft	Chris	St. Louis	St. Louis	RHP - Short	
+O'Brien	Riley	St. Louis	St. Louis	RHP - Short	
+Fernandez	Ryan	St. Louis	St. Louis	RHP - Short	
+Pozo	Yohel	St. Louis	St. Louis	C/INF	
+Fermin	Jose	St. Louis	St. Louis	INF/OF	* Can be drafted but not playable
+Saggese	Thomas	St. Louis	St. Louis	INF	
+Church	Nathan	St. Louis	St. Louis	OF	* Can be drafted but not playable
+Curtiss	John	Arizona	Arizona	RHP - Long	
+Sewald	Paul	Detroit	Arizona	RHP - Short	
+Dubin	Shawn	Baltimore	Arizona	RHP - Long	
+Hatch	Thomas	Minnesota	Arizona	RHP - Long/20	
+Loaisiga	Jonathan	New York (AL)	Arizona	RHP - Short	
+Clarke	Taylor	Kansas City	Arizona	RHP - Long	
+Morillo	Juan	Arizona	Arizona	RHP - Short	
+Saalfrank	Andrew	Arizona	Arizona	LHP - Short	
+Strowd	Kade	Baltimore	Arizona	RHP - Long	
+Rodriguez	Eduardo	Arizona	Arizona	LHP - 25	
+Santana	Carlos	Chicago (NL)	Arizona	INF	
+Locklear	Tyler	Arizona	Arizona	INF	* Can be drafted but not playable
+Tawa	Tim	Arizona	Arizona	INF/OF	
+Amaya	Jacob	Chicago (AL)	Arizona	INF	
+Thomas	Alek	Arizona	Arizona	OF	
+Barrosa	Jorge	Arizona	Arizona	OF	
+Peralta	Luis	Colorado	Colorado	LHP - Short	
+Palmquist	Carson	Colorado	Colorado	LHP - 20/Long	
+Bernardino	Brennan	Boston	Colorado	LHP - Short/7	
+Brown	McCade	Colorado	Colorado	RHP - 20	
+Hill	Jaden	Colorado	Colorado	RHP - Long	
+Gordon	Tanner	Colorado	Colorado	RHP - 20	
+Mejia	Juan	Colorado	Colorado	RHP - Long	
+Vodnik	Victor	Colorado	Colorado	RHP - Short	
+Herget	Jimmy	Colorado	Colorado	RHP - Long	
+Agnos	Zach	Colorado	Colorado	RHP - Short	
+Halvorsen	Seth	Colorado	Colorado	RHP - Short	
+Senzatela	Antonio	Colorado	Colorado	RHP - 20/Long	
+Lorenzen	Michael	Kansas City	Colorado	RHP - 25/Long	
+Ohl	Pierson	Minnesota	Colorado	RHP - Long/20	
+Brebbia	John	Atlanta	Colorado	RHP - Long	
+Sugano	Tomoyuki	Baltimore	Colorado	RHP - 25	
+Sullivan	Brett	Pittsburgh	Colorado	C	* Can be drafted but not playable
+Fulford	Braxton	Colorado	Colorado	C	* Can be drafted but not playable
+Amador	Adael	Colorado	Colorado	INF	
+Crim	Blaine	Colorado	Colorado	INF	* Can be drafted but not playable
+Karros	Kyle	Colorado	Colorado	INF	* Can be drafted but not playable
+Ritter	Ryan	Colorado	Colorado	INF	* Can be drafted but not playable
+Julien	Edouard	Minnesota	Colorado	INF	* Can be drafted but not playable
+Johnston	Troy	Miami	Colorado	INF/OF	* Can be drafted but not playable
+Castro	Willi	Chicago (NL)	Colorado	INF/OF	
+Freeman	Tyler	Colorado	Colorado	INF/OF	
+Moniak	Mickey	Colorado	Colorado	OF	
+Beck	Jordan	Colorado	Colorado	OF	
+Bryant	Kris	Colorado	Colorado	DH	
+Casparius	Ben	Los Angeles	Los Angeles	RHP - Long/20	
+Stewart	Brock	Los Angeles	Los Angeles	RHP - Short	
+Sheehan	Emmet	Los Angeles	Los Angeles	RHP - 25/Long	
+Henriquez	Edgardo	Los Angeles	Los Angeles	RHP - Short	
+Dreyer	Jack	Los Angeles	Los Angeles	LHP - Long/20	
+Wrobleski	Justin	Los Angeles	Los Angeles	LHP - Long/20	
+Klein	Will	Los Angeles	Los Angeles	RHP - Long	
+Robinson	Chuckie	Los Angeles	Los Angeles	C	
+Freeland	Alex	Los Angeles	Los Angeles	INF	* Can be drafted but not playable
+Fitzgerald	Ryan	Minnesota	Los Angeles	INF	* Can be drafted but not playable
+Ibanez	Andy	Detroit	Los Angeles	INF/OF	
+Kim	Hyeseong	Los Angeles	Los Angeles	INF/OF	* Can be drafted but not playable
+Call	Alex	Los Angeles	Los Angeles	OF	
+Marquez	German	Colorado	San Diego	RHP - 20	
+Jacob	Alek	San Diego	San Diego	RHP - Long	
+Hart	Kyle	San Diego	San Diego	LHP - Long/20	
+Sears	JP	San Diego	San Diego	LHP - 25	
+Miller	Mason	San Diego	San Diego	RHP - Short	
+Morgan	David	San Diego	San Diego	RHP - Long/20	
+Fermin	Freddy	San Diego	San Diego	C/INF	
+Wagner	Will	San Diego	San Diego	INF	
+Andujar	Miguel	Cincinnati	San Diego	INF/OF	
+Laureano	Ramon	San Diego	San Diego	OF	
+Johnson	Bryce	San Diego	San Diego	OF	* Can be drafted but not playable
+Whisenhunt	Carson	San Francisco	San Francisco	LHP - 20	
+Gage	Matt	San Francisco	San Francisco	LHP - Short/7	
+Teng	Kai-Wei	San Francisco	San Francisco	RHP - 20/Long	
+Beck	Tristan	San Francisco	San Francisco	RHP - Long/20	
+Seymour	Carson	San Francisco	San Francisco	RHP - Long/20	
+Brubaker	JT	San Francisco	San Francisco	RHP - Long/20	
+Bivens	Spencer	San Francisco	San Francisco	RHP - Long	
+Roupp	Landen	San Francisco	San Francisco	RHP - 25	
+Peguero	Joel	San Francisco	San Francisco	RHP - Long	
+Mahle	Tyler	Texas	San Francisco	RHP - 25	
+Houser	Adrian	Tampa Bay	San Francisco	RHP - 25	
+Haase	Eric	Milwaukee	San Francisco	C	
+Koss	Christian	San Francisco	San Francisco	INF	* Can be drafted but not playable
+Devers	Rafael	San Francisco	San Francisco	INF	
+Encarnacion	Jerar	San Francisco	San Francisco	INF/OF	* Can be drafted but not playable
+Gilbert	Drew	San Francisco	San Francisco	OF	
+Bader	Harrison	Philadelphia	San Francisco	OF	

@@ -1,0 +1,59 @@
+Player Name	2025 Dynasty Carded	2026 Current Team	Eligible for Protection			
+RH Pitchers						
+Alexis Diaz	No Card	Texas	Pending Decision			
+Colin Holderman	Pittsburgh	Cleveland	Pending Decision			
+Bryce Jarvis	Arizona	Arizona	Yes			
+Orion Kerkering	Philadelphia	Philadelphia	Yes			
+Jorge Lopez	Washington	Free Agent	No			
+Seth Lugo (*)	Kansas City	Kansas City	Yes			
+Aaron Nola	Philadelphia	Philadelphia	Yes			
+Lucas Sims	No Card	Chicago (AL)	Pending Decision			
+Paul Skenes	Pittsburgh	Pittsburgh	Yes			
+Mason Thompson	No Card	Texas	Pending Decision			
+Ryan Walker	San Francisco	San Francisco	Yes	
+LH Pitchers						
+Anthony Banda	Los Angeles	Minnesota	Pending Decision			
+Jared Koenig	Milwaukee	Milwaukee	Yes			
+Sean Manaea	New York (NL)	New York (NL)	Yes			
+Carlos Rodon (*)	New York (AL)	New York (AL)	Yes			
+Blake Snell	Los Angeles	Los Angeles	Yes			
+Brent Suter	Cincinnati	Anaheim	Pending Decision			
+Catchers						
+Austin Barnes	Los Angeles	New York (NL)	Yes			
+Elias Diaz	San Diego	Free Agent	No			
+Aramis Garcia	Arizona	Arizona	Yes			
+Carson Kelly	Chicago (NL)	Chicago (NL)	Yes			
+Pedro Pages	St. Louis	St. Louis	Yes			
+Infielders						
+CJ Abrams	Washington	Washington	Yes			
+Xander Bogaerts	San Diego	San Diego	Yes			
+Jonah Bride	Minnesota	Texas	No			
+Paul DeJong	Washington	New York (AL)	Pending Decision			
+Adam Frazier	Kansas City	Anaheim	Pending Decision			
+Freddie Freeman	Los Angeles	Los Angeles	Yes			
+Manny Machado	San Diego	San Diego	Yes			
+Noelvi Marte	Cincinnati	Cincinnati	Yes			
+Owen Miller	No Card	Chicago (NL)	Yes			
+Jon Singleton	No Card	Free Agent	No			
+Outfielders						
+Nick Castellanos	Philadelphia	San Diego	Yes			
+Jason Heyward	San Diego	Free Agent	No			
+Max Kepler	Philadelphia	Free Agent	No			
+Marcell Ozuna	Atlanta	Pittsburgh	Yes			
+Julio Rodriguez ($)	Seattle	Seattle	Yes			
+Kyle Schwarber	Philadelphia	Philadelphia	Yes			
+Jordan Walker	St. Louis	St. Louis	Yes			
+Jesse Winker	New York (NL)	Free Agent	No			
+						
+Franchise Player	2025 Dynasty Carded	2026 Current Team	Eligible for Protection	Franchise Year		
+Julio Rodriguez	Seattle	Seattle	Franchise Player	3		
+						
+Prospects	2025 Dynasty Carded	NL Franchise	Eligible for Protection	Prospect Year #		
+Konnor Griffin - INF/OF	No Card	Pittsburgh	Not Required as Prospect	1		
+						
+						
+Graduating Prospects	2025 Dynasty Carded	2026 Current Team	Eligible for Protection	Draft Pick #		
+Chase Dollander - RHP	Colorado	Colorado	Not Required as Prospect	7		
+						
+* = No Trade Clause						
+$ = Franchise Player						

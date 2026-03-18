@@ -2,6 +2,8 @@ package com.mgroschupf.dcl;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
+import java.io.InputStream;
+import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Iterator;
@@ -124,21 +126,23 @@ public class Statistics {
 
 	void read(boolean isMLB, String filename, ArrayList<ArrayList<String>> records) {
 		try {
-			BufferedReader br =
-				new BufferedReader(new FileReader(filename));
+			InputStream in = this.getClass().getResourceAsStream("/" + filename);
+			BufferedReader br = new BufferedReader(new InputStreamReader(in));
 			String line;
 			ArrayList<String> headers = null;
 			boolean headerFound = false;
 			String rank = null, name = null, position = null;
 			while ((line = br.readLine()) != null) {
-				String [] tokens = line.split("\\t+");
-				if (line.startsWith("Player")) {
+				String [] tokens = line.split(",");
+				// System.out.println(tokens.length + " " + line);
+				if (!headerFound) {
 					// Read headers
 					headers = new ArrayList<>(Arrays.asList(tokens));
 					// Add a ranking
 					headers.add("Rank");
 					records.add(headers);
 					headerFound = true;
+					// System.out.println("Headers: " + headers.size());
 				} else if (line.length() > 0 && headerFound && tokens.length > 0) {
 					if (tokens.length == 1) {
 						// Rank, name (FirstLast) and position
